@@ -1,6 +1,6 @@
 # Guía para la facilitación del proceso formativo
 
-![](https://github.com/EscuelaSeguridadDigital/ESD/blob/EscuelaSeguridadDigital-patch-1/ESD_small.png)
+![]ESD_small.png)
 ![](logo_colnodo_small.png) 
 ![](eQualitie_Logo.png)
 
@@ -71,5 +71,5 @@ El cuadro que se presenta a continuación muestra la estructuración de este pro
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5MDg4MjY4MV19
+eyJoaXN0b3J5IjpbNTc0MjI0OTUxLC04OTA4ODI2ODFdfQ==
 -->
