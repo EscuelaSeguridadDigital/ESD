@@ -1,6 +1,7 @@
 # Guía para la facilitación del proceso formativo
 
-![](logo_ESD_small.png)![](logo_colnodo_small.png) 
+![](ESD_small.png)
+![](logo_colnodo_small.png) 
 ![](eQualitie_Logo.png)
 
 
@@ -69,3 +70,6 @@ El cuadro que se presenta a continuación muestra la estructuración de este pro
 
 
  
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTI5NjAzMjYxN119
+-->
