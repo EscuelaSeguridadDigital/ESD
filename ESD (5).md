@@ -4,9 +4,6 @@
 ![](ESD_small.png)
 ![](colnodo_small.png) 
 
-# Titulo test
-
-
 # Bienvenida
 Este recurso se ha creado en el marco del Proyecto de Escuela de Seguridad Digital para la  implementación del proceso de acompañamiento en Seguridad Digital dirigido a organizaciones de la sociedad civil, defensores de derechos humanos, activistas, comunidad LGBT, ambientalistas y periodistas, entre otras. Este proyecto es apoyado por eQualit.ie y coordinado por Colnodo. 
 
@@ -88,5 +85,5 @@ ___-Evaluación:___ Este momento final le permitirá a los y las participantes e
 
 # Plataforma Virtual Escuela de Seguridad Digital
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3Mjg3NjI1NF19
+eyJoaXN0b3J5IjpbMTI3NzUxMDk1MiwxOTcyODc2MjU0XX0=
 -->
