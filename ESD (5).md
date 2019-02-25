@@ -101,14 +101,13 @@ ___-Evaluación:___ Este momento final le permitirá a los y las participantes e
 ![](Lectras.png)
 ![](Foros.png)
 
-![](Est. Contenidos.png) 
-# Estructura de contenidos
+![](Est. Contenidos.png)     # Estructura de contenidos
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDIwNjcxODAsLTcyMDcyMjU4OSwtNj
-c3MjAxOTEzLDE5MjkxMjU4NzUsMTI3NzUxMDk1MiwxOTcyODc2
-MjU0XX0=
+eyJoaXN0b3J5IjpbMTI5ODYwOTg5NCwtMTMwMjA2NzE4MCwtNz
+IwNzIyNTg5LC02NzcyMDE5MTMsMTkyOTEyNTg3NSwxMjc3NTEw
+OTUyLDE5NzI4NzYyNTRdfQ==
 -->
