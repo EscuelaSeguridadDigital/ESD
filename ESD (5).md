@@ -95,14 +95,14 @@ ___-Evaluación:___ Este momento final le permitirá a los y las participantes e
 
 # Plataforma Virtual Escuela de Seguridad Digital
 ![](Virtual.png)
-![]()
-![]()
-![]()
-![]()
+![](Evaluación.png)
+![](Videos.png)
+![](Actividades.png)
+![](Lectras.png)
 ![]()
 ![]()
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODAxODIyMDEsMTkyOTEyNTg3NSwxMj
+eyJoaXN0b3J5IjpbLTE0NTI1NTcxMDMsMTkyOTEyNTg3NSwxMj
 c3NTEwOTUyLDE5NzI4NzYyNTRdfQ==
 -->
