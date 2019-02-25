@@ -134,8 +134,7 @@ ___-Evaluación:___ Este momento final le permitirá a los y las participantes e
 |---|  
 | _**(4 Horas)**_ |  
 |En este módulo el participante conocerá más a fondo el funcionamiento del correo electrónico, aprenderá a manejar herramientas para la administración de mensajes, y la caracterización de riesgos a los que está expuesta la información.|  
-|<ul><li>Funcionamiento del correo electrónico.</li><li>
-Configuración de clientes de correo electrónico.</li><li>Quien ve el contenido del correo electrónico.</li><li>Cómo evitar los ataques de phishing o suplantación de identidad</li><li>Acerca de la privacidad del correo electrónico.</li><li>Modelo de negocio de los correos gratuito.</li></ul>|
+|<ul><li>Funcionamiento del correo electrónico.</li><li>Configuración de clientes de correo electrónico.</li><li>Quien ve el contenido del correo electrónico.</li><li>Cómo evitar los ataques de phishing o suplantación de identidad</li><li>Acerca de la privacidad del correo electrónico.</li><li>Modelo de negocio de los correos gratuito.</li></ul>|
 
 
 
@@ -169,7 +168,7 @@ Configuración de clientes de correo electrónico.</li><li>Quien ve el contenido
 |<ul><li></li><li></li><li></li><li></li></ul>|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMyNzUxNjM0LC0xNDI3NjEzNjQzLC0xNT
+eyJoaXN0b3J5IjpbNTk1Nzk3NTY4LC0xNDI3NjEzNjQzLC0xNT
 c1ODYwNTQsLTQwMDE3NjI1MCwtMTExMjU2MTA3NCwtMTUxNjE1
 MjE4NywzOTcyMjcwNDUsMTc3MTAxOTEwMCwxMDE0MTI4MTQ4LC
 0xMzAyMDY3MTgwLC03MjA3MjI1ODksLTY3NzIwMTkxMywxOTI5
