@@ -102,7 +102,9 @@ ___-Evaluación:___ Este momento final le permitirá a los y las participantes e
 ![](Foros.png)
 
 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NzIwMTkxMywxOTI5MTI1ODc1LDEyNz
-c1MTA5NTIsMTk3Mjg3NjI1NF19
+eyJoaXN0b3J5IjpbLTcyMDcyMjU4OSwtNjc3MjAxOTEzLDE5Mj
+kxMjU4NzUsMTI3NzUxMDk1MiwxOTcyODc2MjU0XX0=
 -->
