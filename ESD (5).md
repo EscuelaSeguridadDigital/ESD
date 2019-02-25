@@ -138,22 +138,12 @@ ___-Evaluación:___ Este momento final le permitirá a los y las participantes e
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-| _** **_ |  
+| _** 06 - Servidores de Correo electrónico seguro 2 – Intermedio**_ |  
 |---|  
 | _**(4 Horas)**_ |  
 | |  
 |<ul><li></li><li></li><li></li><li></li></ul>|
+
 
 | _** **_ |  
 |---|  
@@ -168,9 +158,9 @@ ___-Evaluación:___ Este momento final le permitirá a los y las participantes e
 |<ul><li></li><li></li><li></li><li></li></ul>|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM4MjU2NTM0LC0xNDI3NjEzNjQzLC0xNT
-c1ODYwNTQsLTQwMDE3NjI1MCwtMTExMjU2MTA3NCwtMTUxNjE1
-MjE4NywzOTcyMjcwNDUsMTc3MTAxOTEwMCwxMDE0MTI4MTQ4LC
-0xMzAyMDY3MTgwLC03MjA3MjI1ODksLTY3NzIwMTkxMywxOTI5
-MTI1ODc1LDEyNzc1MTA5NTIsMTk3Mjg3NjI1NF19
+eyJoaXN0b3J5IjpbLTEzOTkzODA0NDUsLTE0Mjc2MTM2NDMsLT
+E1NzU4NjA1NCwtNDAwMTc2MjUwLC0xMTEyNTYxMDc0LC0xNTE2
+MTUyMTg3LDM5NzIyNzA0NSwxNzcxMDE5MTAwLDEwMTQxMjgxND
+gsLTEzMDIwNjcxODAsLTcyMDcyMjU4OSwtNjc3MjAxOTEzLDE5
+MjkxMjU4NzUsMTI3NzUxMDk1MiwxOTcyODc2MjU0XX0=
 -->
