@@ -106,13 +106,16 @@ ___-Evaluación:___ Este momento final le permitirá a los y las participantes e
 |___01 - Principios de Seguridad Digital 1 - Básico___|
 |-----------------------------|
 | ___(4 Horas)___|  
-|
+|-----------------------------|
+|En este módulo los participantes conocerán cómo funciona Internet, los métodos de navegación más seguros, cómo proteger la computadora contra malware y acceso sin consentimiento a la información.
+
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3MTAxOTEwMCwxMDE0MTI4MTQ4LC0xMz
-AyMDY3MTgwLC03MjA3MjI1ODksLTY3NzIwMTkxMywxOTI5MTI1
-ODc1LDEyNzc1MTA5NTIsMTk3Mjg3NjI1NF19
+eyJoaXN0b3J5IjpbLTkyMTIyMTEyMywxNzcxMDE5MTAwLDEwMT
+QxMjgxNDgsLTEzMDIwNjcxODAsLTcyMDcyMjU4OSwtNjc3MjAx
+OTEzLDE5MjkxMjU4NzUsMTI3NzUxMDk1MiwxOTcyODc2MjU0XX
+0=
 -->
