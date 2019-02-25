@@ -122,19 +122,13 @@ ___-Evaluación:___ Este momento final le permitirá a los y las participantes e
 |---|  
 | _**(4 Horas)**_ |  
 |En este módulo los participantes conseguirán identificar cuando sus datos e información son utilizados para fines comerciales y así mismo tomar las correctivos correspondientes para que esto no suceda. |  
-|<ul><li>Navegadores y motores de búsqueda</li><li>Eliminación permanente de información.</li><li>Copias de Seguridad de la Información.</li><li>Almacenamiento y Cifrado>Recuperación de información.</li></ul>|
+|<ul><li>Navegadores y motores de búsqueda.</li><li>¿Qué son los metadatos?</li><li>Pautas de navegación segura.</li><li>Buenas prácticas de navegación.</li></ul>|
 
-<![if !supportLists]>- <![endif]>**.**
 
-<![if !supportLists]>- <![endif]>
-
-<![if !supportLists]>- <![endif]>Pautas de navegación segura**.**
-
-<![if !supportLists]>- <![endif]>Buenas prácticas de navegación**.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDIxODk2OSwtMTU3NTg2MDU0LC00MD
-AxNzYyNTAsLTExMTI1NjEwNzQsLTE1MTYxNTIxODcsMzk3MjI3
-MDQ1LDE3NzEwMTkxMDAsMTAxNDEyODE0OCwtMTMwMjA2NzE4MC
-wtNzIwNzIyNTg5LC02NzcyMDE5MTMsMTkyOTEyNTg3NSwxMjc3
-NTEwOTUyLDE5NzI4NzYyNTRdfQ==
+eyJoaXN0b3J5IjpbLTE0Mjc2MTM2NDMsLTE1NzU4NjA1NCwtND
+AwMTc2MjUwLC0xMTEyNTYxMDc0LC0xNTE2MTUyMTg3LDM5NzIy
+NzA0NSwxNzcxMDE5MTAwLDEwMTQxMjgxNDgsLTEzMDIwNjcxOD
+AsLTcyMDcyMjU4OSwtNjc3MjAxOTEzLDE5MjkxMjU4NzUsMTI3
+NzUxMDk1MiwxOTcyODc2MjU0XX0=
 -->
