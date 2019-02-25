@@ -1,8 +1,10 @@
-﻿
+
 # Guía para la facilitación del proceso formativo
 
-![](ESD_small.png)
-![](colnodo_small.png) 
+![](logo_ESD_small.png)
+![](logo_colnodo_small.png)
+![](equalitie_small.png)
+
 
 # Bienvenida
 Este recurso se ha creado en el marco del Proyecto de Escuela de Seguridad Digital para la  implementación del proceso de acompañamiento en Seguridad Digital dirigido a organizaciones de la sociedad civil, defensores de derechos humanos, activistas, comunidad LGBT, ambientalistas y periodistas, entre otras. Este proyecto es apoyado por eQualit.ie y coordinado por Colnodo. 
@@ -20,7 +22,7 @@ En suma, esta currícula tiene el propósito de promover en las personas partici
 ## Ciclo de vida del proceso de acompañamiento
 
 
-![](![](Currícula.png) ) 
+![](Currícula.png) 
      
 
 
@@ -59,13 +61,21 @@ Esta currícula presenta diversas actividades y ejercicios diseñados de forma s
 Cómo se ha mencionado a lo largo de este documento, la currícula es el recurso principal para los facilitadores y facilitadoras de Seguridad Digital, el cual orientará los contenidos de formación y comprende un total de ocho (__8__) módulos, en los cuales se abordarán temáticas específicas así:
 
 ___1. Principios de Seguridad Digital 1 - Básico.___
+
  ***2. Principios de Seguridad Digital 2 - Intermedio.*** 
+ 
  ___3. Anonimato 1- Básico.___
+ 
  ___4. Anonimato 2 - Intermedio.___
+ 
  ___5. Servidores de Correo electrónico seguro 1 - Básico.___
+ 
  ___6. Setvidores de Correo electónico seguro 2 - Intermedio.___
- ___7. Celulares y Comunicación segura.___
+ 
+ ___7. Celulares y Comunicación segura.___  
+ 
  ___8. Redes Sociales.___
+ 
 
 Cada una de estos módulos se ha estructurado en cinco (__5__) momentos, los cuales permitirán abordar el proceso formativo como una experiencia de construcción personal – colectiva de nuevos conocimientos e involucrar capacidades, emociones, habilidades y motivaciones. Por lo tanto, los contenidos del proceso pedagógico no pueden limitarse solo al aprendizaje de hechos y conceptos (contenido contextual), sino que es necesario atender en la misma medida a los procedimientos (contenido procedimental), las actitudes, los valores y las normas (contenido actitudinal), si se quiere una adaptación activa de los y las participantes a nuevas situaciones. Así mismo hay que considerar sus propios estilos, ritmos y estrategias de aprendizaje.
 
@@ -85,5 +95,6 @@ ___-Evaluación:___ Este momento final le permitirá a los y las participantes e
 
 # Plataforma Virtual Escuela de Seguridad Digital
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3NzUxMDk1MiwxOTcyODc2MjU0XX0=
+eyJoaXN0b3J5IjpbMTkyOTEyNTg3NSwxMjc3NTEwOTUyLDE5Nz
+I4NzYyNTRdfQ==
 -->
