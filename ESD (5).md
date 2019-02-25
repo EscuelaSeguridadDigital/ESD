@@ -120,9 +120,6 @@ ___-Evaluación:___ Este momento final le permitirá a los y las participantes e
    -Creación de contraseñas seguras.
    -Autenticación de dos factores.|
 
-|----------------------------|
-|
-|
 |___01 - Principios de Seguridad Digital 1 - Básico___  |
 
 |--|--|
@@ -145,8 +142,8 @@ ___-Evaluación:___ Este momento final le permitirá a los y las participantes e
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjUwNzI5OTMsLTE1MTYxNTIxODcsMz
-k3MjI3MDQ1LDE3NzEwMTkxMDAsMTAxNDEyODE0OCwtMTMwMjA2
-NzE4MCwtNzIwNzIyNTg5LC02NzcyMDE5MTMsMTkyOTEyNTg3NS
-wxMjc3NTEwOTUyLDE5NzI4NzYyNTRdfQ==
+eyJoaXN0b3J5IjpbMTE1NzEzMzA2OSwtMTUxNjE1MjE4NywzOT
+cyMjcwNDUsMTc3MTAxOTEwMCwxMDE0MTI4MTQ4LC0xMzAyMDY3
+MTgwLC03MjA3MjI1ODksLTY3NzIwMTkxMywxOTI5MTI1ODc1LD
+EyNzc1MTA5NTIsMTk3Mjg3NjI1NF19
 -->
