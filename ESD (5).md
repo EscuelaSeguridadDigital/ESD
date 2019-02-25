@@ -125,7 +125,9 @@ ___-Evaluación:___ Este momento final le permitirá a los y las participantes e
 |--|--|
 |  ___(4 Horas)___ |
 |--|--|
+
 |En este módulo los participantes conocerán cómo funciona Internet, los métodos de navegación más seguros, cómo proteger la computadora contra malware y acceso sin consentimiento a la información.|
+
 |
 -¿Cómo funciona Internet?
 -¿Cómo funciona Internet?
@@ -140,7 +142,7 @@ ___-Evaluación:___ Este momento final le permitirá a los y las participantes e
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjI5MDE0MywtMTUxNjE1MjE4NywzOT
+eyJoaXN0b3J5IjpbLTIyNDU2NTQwNywtMTUxNjE1MjE4NywzOT
 cyMjcwNDUsMTc3MTAxOTEwMCwxMDE0MTI4MTQ4LC0xMzAyMDY3
 MTgwLC03MjA3MjI1ODksLTY3NzIwMTkxMywxOTI5MTI1ODc1LD
 EyNzc1MTA5NTIsMTk3Mjg3NjI1NF19
