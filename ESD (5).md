@@ -118,7 +118,7 @@ ___-Evaluación:___ Este momento final le permitirá a los y las participantes e
 |<ul><li>Recuperación de información.</li><li>Eliminación permanente de información.</li><li>Copias de Seguridad de la Información.</li><li>Almacenamiento y Cifrado>Recuperación de información.</li></ul>|
 
 
-| _**03 - anonimat 1 - Básico**_ |  
+| _**03 - Anonimato 1 - Básico**_ |  
 |---|  
 | _**(4 Horas)**_ |  
 |En este módulo los participantes conseguirán identificar cuando sus datos e información son utilizados para fines comerciales y así mismo tomar las correctivos correspondientes para que esto no suceda. |  
@@ -160,9 +160,9 @@ ___-Evaluación:___ Este momento final le permitirá a los y las participantes e
 |<ul><li></li><li></li><li></li><li></li></ul>|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTE1NTg2ODQsLTE0Mjc2MTM2NDMsLT
-E1NzU4NjA1NCwtNDAwMTc2MjUwLC0xMTEyNTYxMDc0LC0xNTE2
-MTUyMTg3LDM5NzIyNzA0NSwxNzcxMDE5MTAwLDEwMTQxMjgxND
-gsLTEzMDIwNjcxODAsLTcyMDcyMjU4OSwtNjc3MjAxOTEzLDE5
-MjkxMjU4NzUsMTI3NzUxMDk1MiwxOTcyODc2MjU0XX0=
+eyJoaXN0b3J5IjpbNjA2MTAzMzUzLC0xNDI3NjEzNjQzLC0xNT
+c1ODYwNTQsLTQwMDE3NjI1MCwtMTExMjU2MTA3NCwtMTUxNjE1
+MjE4NywzOTcyMjcwNDUsMTc3MTAxOTEwMCwxMDE0MTI4MTQ4LC
+0xMzAyMDY3MTgwLC03MjA3MjI1ODksLTY3NzIwMTkxMywxOTI5
+MTI1ODc1LDEyNzc1MTA5NTIsMTk3Mjg3NjI1NF19
 -->
