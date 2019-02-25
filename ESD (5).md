@@ -141,8 +141,20 @@ ___-Evaluación:___ Este momento final le permitirá a los y las participantes e
 | _** 06 - Servidores de Correo electrónico seguro 2 – Intermedio**_ |  
 |---|  
 | _**(4 Horas)**_ |  
-| |  
-|<ul><li></li><li></li><li></li><li></li></ul>|
+|En este módulo los participantes conocerán y trabajaran algunas de las formas que hay para cifrar los mensajes en los servicios de correo electrónico por medio de herramientas fáciles y gratuitas. |  
+|<ul><li>Mensajes cifrados.</li><li>Funcionamiento de PGP.</li><li>Protección de la comunicación utilizando SSL/TLS.</li><li>Instalación y configuración de Enigmail.</li><l1>Importancia del correo cifrado.</ul>|
+
+
+<![if !supportLists]>- <![endif]>
+
+<![if !supportLists]>- <![endif]>
+
+<![if !supportLists]>- <![endif]>
+
+<![if !supportLists]>- <![endif]>
+
+<![if !supportLists]>- <![endif]>
+
 
 
 | _** **_ |  
@@ -158,7 +170,7 @@ ___-Evaluación:___ Este momento final le permitirá a los y las participantes e
 |<ul><li></li><li></li><li></li><li></li></ul>|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTkzODA0NDUsLTE0Mjc2MTM2NDMsLT
+eyJoaXN0b3J5IjpbLTEwMDY2NTg0MzksLTE0Mjc2MTM2NDMsLT
 E1NzU4NjA1NCwtNDAwMTc2MjUwLC0xMTEyNTYxMDc0LC0xNTE2
 MTUyMTg3LDM5NzIyNzA0NSwxNzcxMDE5MTAwLDEwMTQxMjgxND
 gsLTEzMDIwNjcxODAsLTcyMDcyMjU4OSwtNjc3MjAxOTEzLDE5
