@@ -103,16 +103,16 @@ ___-Evaluación:___ Este momento final le permitirá a los y las participantes e
 
 # Estructura de contenidos
 
-|Principios de Seguridad Digital 1|  |
-|--|--|
-|  |  |
+|___ 01 - Principios de Seguridad Digital 1 - Básico___|
+|----|
+| ___(4 Horas)___|  
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ5MjQxMzk3LDEwMTQxMjgxNDgsLTEzMD
-IwNjcxODAsLTcyMDcyMjU4OSwtNjc3MjAxOTEzLDE5MjkxMjU4
-NzUsMTI3NzUxMDk1MiwxOTcyODc2MjU0XX0=
+eyJoaXN0b3J5IjpbLTQ4Mzc3Njk3OSwxMDE0MTI4MTQ4LC0xMz
+AyMDY3MTgwLC03MjA3MjI1ODksLTY3NzIwMTkxMywxOTI5MTI1
+ODc1LDEyNzc1MTA5NTIsMTk3Mjg3NjI1NF19
 -->
