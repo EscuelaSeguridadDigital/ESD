@@ -111,16 +111,22 @@ ___-Evaluación:___ Este momento final le permitirá a los y las participantes e
 | En este módulo los participantes conocerán cómo funciona Internet, los métodos de navegación más seguros, cómo proteger la computadora contra malware y acceso sin consentimiento a la información.|  
 |<ul><li>¿Cómo funciona Internet?</li><li>Como hacer más segura nuestra computadora.</li><li>Malware y Virus.</li><li>Creación de contraseñas seguras.</li><li>Autenticación de dos factores.</li></ul>|
 
-| _**01 - Principios de Seguridad Digital 2 - Intermedio**_ |  
+| _**02 - Principios de Seguridad Digital 2 - Intermedio**_ |  
 |---|  
 | _**(4 Horas)**_ |  
 |Para este módulo los participantes aprenderán almacenar y asegurar la información más relevante, así mismo aplicaran técnicas y herramientas para recuperar información borrada de forma no segura. |  
 |<ul><li>Recuperación de información.</li><li>Eliminación permanente de información.</li><li>Copias de Seguridad de la Información.</li><li>Almacenamiento y Cifrado>Recuperación de información.</li></ul>|
 
+
+| _**03 - anonimat 1 - BPrincipios de Seguridad Digital 2 - Intermedio**_ |  
+|---|  
+| _**(4 Horas)**_ |  
+|Para este módulo los participantes aprenderán almacenar y asegurar la información más relevante, así mismo aplicaran técnicas y herramientas para recuperar información borrada de forma no segura. |  
+|<ul><li>Recuperación de información.</li><li>Eliminación permanente de información.</li><li>Copias de Seguridad de la Información.</li><li>Almacenamiento y Cifrado>Recuperación de información.</li></ul>|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzU4NjA1NCwtNDAwMTc2MjUwLC0xMT
-EyNTYxMDc0LC0xNTE2MTUyMTg3LDM5NzIyNzA0NSwxNzcxMDE5
-MTAwLDEwMTQxMjgxNDgsLTEzMDIwNjcxODAsLTcyMDcyMjU4OS
-wtNjc3MjAxOTEzLDE5MjkxMjU4NzUsMTI3NzUxMDk1MiwxOTcy
-ODc2MjU0XX0=
+eyJoaXN0b3J5IjpbMTk5MzgwMTc3LC0xNTc1ODYwNTQsLTQwMD
+E3NjI1MCwtMTExMjU2MTA3NCwtMTUxNjE1MjE4NywzOTcyMjcw
+NDUsMTc3MTAxOTEwMCwxMDE0MTI4MTQ4LC0xMzAyMDY3MTgwLC
+03MjA3MjI1ODksLTY3NzIwMTkxMywxOTI5MTI1ODc1LDEyNzc1
+MTA5NTIsMTk3Mjg3NjI1NF19
 -->
