@@ -115,15 +115,15 @@ ___-Evaluación:___ Este momento final le permitirá a los y las participantes e
 -Como hacer más segura nuestra computadora.
 -Malware y Virus.
 -Creación de contraseñas seguras.
--Autenticación de dos factores.
+-Autenticación de dos factores.|
 |----------------------------|
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjE3NzAwNDMsLTE1MTYxNTIxODcsMz
-k3MjI3MDQ1LDE3NzEwMTkxMDAsMTAxNDEyODE0OCwtMTMwMjA2
-NzE4MCwtNzIwNzIyNTg5LC02NzcyMDE5MTMsMTkyOTEyNTg3NS
-wxMjc3NTEwOTUyLDE5NzI4NzYyNTRdfQ==
+eyJoaXN0b3J5IjpbLTQ4NzE2NzgwOSwtMTUxNjE1MjE4NywzOT
+cyMjcwNDUsMTc3MTAxOTEwMCwxMDE0MTI4MTQ4LC0xMzAyMDY3
+MTgwLC03MjA3MjI1ODksLTY3NzIwMTkxMywxOTI5MTI1ODc1LD
+EyNzc1MTA5NTIsMTk3Mjg3NjI1NF19
 -->
