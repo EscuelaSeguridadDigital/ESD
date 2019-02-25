@@ -114,13 +114,23 @@ ___-Evaluación:___ Este momento final le permitirá a los y las participantes e
 | _**01 - Principios de Seguridad Digital 2 - Intermedio**_ |  
 |---|  
 | _**(4 Horas)**_ |  
-| En este módulo los participantes conocerán cómo funciona Internet, los métodos de navegación más seguros, cómo proteger la computadora contra malware y acceso sin consentimiento a la información.|  
-|<ul><li>¿Cómo funciona Internet?</li><li>Como hacer más segura nuestra computadora.</li><li>Malware y Virus.</li><li>Creación de contraseñas seguras.</li><li>Autenticación de dos factores.</li></ul>|
+|Para este módulo los participantes aprenderán almacenar y asegurar la información más relevante, así mismo aplicaran técnicas y herramientas para recuperar información borrada de forma no segura. |  
+|<ul><li>Recuperación de información.</li><li>Eliminación permanente de información.</li><li>Copias de Seguridad de la Información.</li><li>Creación de contraseñas seguras.</li><li>Autenticación de dos factores.</li></ul>|
+<![endif]-->
 
+<![if !supportLists]>- <![endif]<![endif]-->
+
+<![if !supportLists]>- <![endif]>Recuperación de información.
+
+<![if !supportLists]>- <![endif]>
+
+<![if !supportLists]>- <![endif]>
+
+<![if !supportLists]>- <![endif]>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NTI0MjEzNSwtNDAwMTc2MjUwLC0xMT
-EyNTYxMDc0LC0xNTE2MTUyMTg3LDM5NzIyNzA0NSwxNzcxMDE5
-MTAwLDEwMTQxMjgxNDgsLTEzMDIwNjcxODAsLTcyMDcyMjU4OS
-wtNjc3MjAxOTEzLDE5MjkxMjU4NzUsMTI3NzUxMDk1MiwxOTcy
-ODc2MjU0XX0=
+eyJoaXN0b3J5IjpbLTIwMDE3NzcyNTcsLTQwMDE3NjI1MCwtMT
+ExMjU2MTA3NCwtMTUxNjE1MjE4NywzOTcyMjcwNDUsMTc3MTAx
+OTEwMCwxMDE0MTI4MTQ4LC0xMzAyMDY3MTgwLC03MjA3MjI1OD
+ksLTY3NzIwMTkxMywxOTI5MTI1ODc1LDEyNzc1MTA5NTIsMTk3
+Mjg3NjI1NF19
 -->
