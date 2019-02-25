@@ -94,7 +94,15 @@ ___-Síntesis:___  En este momento los y las participantes socializarán su expe
 ___-Evaluación:___ Este momento final le permitirá a los y las participantes expresar su percepción frente al desarrollo de la metodología y logística de la sesión, esto con el fin de organizar y mejorar posibles falencias en las sesiones siguientes.
 
 # Plataforma Virtual Escuela de Seguridad Digital
+![](Virtual.png)
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyOTEyNTg3NSwxMjc3NTEwOTUyLDE5Nz
-I4NzYyNTRdfQ==
+eyJoaXN0b3J5IjpbLTEyODAxODIyMDEsMTkyOTEyNTg3NSwxMj
+c3NTEwOTUyLDE5NzI4NzYyNTRdfQ==
 -->
