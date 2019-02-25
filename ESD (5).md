@@ -141,13 +141,13 @@ ___-Evaluación:___ Este momento final le permitirá a los y las participantes e
 |---|  
 | _**(4 Horas)**_ |  
 | En este módulo los participantes conocerán cómo funciona Internet, los métodos de navegación más seguros, cómo proteger la computadora contra malware y acceso sin consentimiento a la información.|  
-|<ul><li>¿Cómo funciona Internet?</li><li>Como hacer más segura nuestra computadora.</li><li>Malware y Virus.</li><li>Creación de contraseñas seguras.</li><li>Autenticación de dos factores.</li></ul>||
+|<ul><li>¿Cómo funciona Internet?</li><li>Como hacer más segura nuestra computadora.</li><li>Malware y Virus.</li><li>Creación de contraseñas seguras.</li><li>Autenticación de dos factores.</li></ul>|
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE5MzM1NzgyLC0xMTEyNTYxMDc0LC0xNT
-E2MTUyMTg3LDM5NzIyNzA0NSwxNzcxMDE5MTAwLDEwMTQxMjgx
-NDgsLTEzMDIwNjcxODAsLTcyMDcyMjU4OSwtNjc3MjAxOTEzLD
-E5MjkxMjU4NzUsMTI3NzUxMDk1MiwxOTcyODc2MjU0XX0=
+eyJoaXN0b3J5IjpbLTQwMDE3NjI1MCwtMTExMjU2MTA3NCwtMT
+UxNjE1MjE4NywzOTcyMjcwNDUsMTc3MTAxOTEwMCwxMDE0MTI4
+MTQ4LC0xMzAyMDY3MTgwLC03MjA3MjI1ODksLTY3NzIwMTkxMy
+wxOTI5MTI1ODc1LDEyNzc1MTA5NTIsMTk3Mjg3NjI1NF19
 -->
