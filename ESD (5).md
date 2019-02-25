@@ -99,10 +99,10 @@ ___-Evaluación:___ Este momento final le permitirá a los y las participantes e
 ![](Videos.png)
 ![](Actividades.png)
 ![](Lectras.png)
-![]()
-![]()
+![](Foros.png)
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTI1NTcxMDMsMTkyOTEyNTg3NSwxMj
-c3NTEwOTUyLDE5NzI4NzYyNTRdfQ==
+eyJoaXN0b3J5IjpbLTY3NzIwMTkxMywxOTI5MTI1ODc1LDEyNz
+c1MTA5NTIsMTk3Mjg3NjI1NF19
 -->
