@@ -101,6 +101,8 @@ ___-Evaluación:___ Este momento final le permitirá a los y las participantes e
 ![](Lectras.png)
 ![](Foros.png)
 
+![](Est. Documentos.png)
+
 # Estructura de contenidos
 
 |___01 - Principios de Seguridad Digital 1 - Básico___|
@@ -120,8 +122,8 @@ ___-Evaluación:___ Este momento final le permitirá a los y las participantes e
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk3MjI3MDQ1LDE3NzEwMTkxMDAsMTAxND
-EyODE0OCwtMTMwMjA2NzE4MCwtNzIwNzIyNTg5LC02NzcyMDE5
-MTMsMTkyOTEyNTg3NSwxMjc3NTEwOTUyLDE5NzI4NzYyNTRdfQ
-==
+eyJoaXN0b3J5IjpbLTE1MTYxNTIxODcsMzk3MjI3MDQ1LDE3Nz
+EwMTkxMDAsMTAxNDEyODE0OCwtMTMwMjA2NzE4MCwtNzIwNzIy
+NTg5LC02NzcyMDE5MTMsMTkyOTEyNTg3NSwxMjc3NTEwOTUyLD
+E5NzI4NzYyNTRdfQ==
 -->
