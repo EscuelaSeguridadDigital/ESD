@@ -104,38 +104,6 @@ ___-Evaluación:___ Este momento final le permitirá a los y las participantes e
 ![](Est. Documentos.png)
 
 # Estructura de contenidos
-![](Est.png)
-|___01 - Principios de Seguridad Digital 1 - Básico___|
-|-----------------------------|
-| ___(4 Horas)___|  
-
-|En este módulo los participantes conocerán cómo funciona Internet, los métodos de navegación más seguros, cómo proteger la computadora contra malware y acceso sin consentimiento a la información.| 
-
- | 
-
- - -¿Cómo funciona Internet?
-   -¿Cómo funciona Internet?
-   -Como hacer más segura nuestra computadora.
-   -Malware y Virus.
-   -Creación de contraseñas seguras.
-   -Autenticación de dos factores.|
-
-|___01 - Principios de Seguridad Digital 1 - Básico___  |
-
-|--|--|
-|  ___(4 Horas)___ |
-|--|--|
-
-|En este módulo los participantes conocerán cómo funciona Internet, los métodos de navegación más seguros, cómo proteger la computadora contra malware y acceso sin consentimiento a la información.|
-
-|
--¿Cómo funciona Internet?
--¿Cómo funciona Internet?
-   -Como hacer más segura nuestra computadora.
-   -Malware y Virus.
-   -Creación de contraseñas seguras.
-   -Autenticación de dos factores. |
-   | |
 
 | _**01 - Principios de Seguridad Digital 1 - Básico**_ |  
 |---|  
@@ -146,8 +114,9 @@ ___-Evaluación:___ Este momento final le permitirá a los y las participantes e
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMDE3NjI1MCwtMTExMjU2MTA3NCwtMT
-UxNjE1MjE4NywzOTcyMjcwNDUsMTc3MTAxOTEwMCwxMDE0MTI4
-MTQ4LC0xMzAyMDY3MTgwLC03MjA3MjI1ODksLTY3NzIwMTkxMy
-wxOTI5MTI1ODc1LDEyNzc1MTA5NTIsMTk3Mjg3NjI1NF19
+eyJoaXN0b3J5IjpbLTIxMjEyNjc2NDEsLTQwMDE3NjI1MCwtMT
+ExMjU2MTA3NCwtMTUxNjE1MjE4NywzOTcyMjcwNDUsMTc3MTAx
+OTEwMCwxMDE0MTI4MTQ4LC0xMzAyMDY3MTgwLC03MjA3MjI1OD
+ksLTY3NzIwMTkxMywxOTI5MTI1ODc1LDEyNzc1MTA5NTIsMTk3
+Mjg3NjI1NF19
 -->
