@@ -130,11 +130,25 @@ ___-Evaluación:___ Este momento final le permitirá a los y las participantes e
 | En este módulo los participantes lograrán reconocer los espacios virtuales para así obtener un control de las identidades y rastros que dejan en Internet. |  
 |<ul><li>Virtual Private Network (VPN)</li>Protocolos seguros de navegación HTTPS y certificados de seguridad SSL<li></li>Navegador TOR - Sistema Operativo TAILS<li></ul>|
 
-| _** **_ |  
+| _** 05 - Servidores de Correo electrónico seguro 1 – Básico**_ |  
 |---|  
 | _**(4 Horas)**_ |  
-| |  
-|<ul><li></li><li></li><li></li><li></li></ul>|
+|En este módulo el participante conocerá más a fondo el funcionamiento del correo electrónico, aprenderá a manejar herramientas para la administración de mensajes, y la caracterización de riesgos a los que está expuesta la información.|  
+|<ul><li>Funcionamiento del correo electrónico.</li><li>
+Configuración de clientes de correo electrónico.</li><li></li><li></li></ul>|
+
+
+
+
+Quien ve el contenido del correo electrónico.
+
+Cómo evitar los ataques de phishing o suplantación de identidad
+
+Acerca de la privacidad del correo electrónico.
+
+Modelo de negocio de los correos gratuito.
+
+
 
 | _** **_ |  
 |---|  
@@ -155,9 +169,9 @@ ___-Evaluación:___ Este momento final le permitirá a los y las participantes e
 |<ul><li></li><li></li><li></li><li></li></ul>|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODU2NTYyMDksLTE0Mjc2MTM2NDMsLT
-E1NzU4NjA1NCwtNDAwMTc2MjUwLC0xMTEyNTYxMDc0LC0xNTE2
-MTUyMTg3LDM5NzIyNzA0NSwxNzcxMDE5MTAwLDEwMTQxMjgxND
-gsLTEzMDIwNjcxODAsLTcyMDcyMjU4OSwtNjc3MjAxOTEzLDE5
-MjkxMjU4NzUsMTI3NzUxMDk1MiwxOTcyODc2MjU0XX0=
+eyJoaXN0b3J5IjpbMTA3NzMyNTQyOCwtMTQyNzYxMzY0MywtMT
+U3NTg2MDU0LC00MDAxNzYyNTAsLTExMTI1NjEwNzQsLTE1MTYx
+NTIxODcsMzk3MjI3MDQ1LDE3NzEwMTkxMDAsMTAxNDEyODE0OC
+wtMTMwMjA2NzE4MCwtNzIwNzIyNTg5LC02NzcyMDE5MTMsMTky
+OTEyNTg3NSwxMjc3NTEwOTUyLDE5NzI4NzYyNTRdfQ==
 -->
