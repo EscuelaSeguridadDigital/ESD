@@ -101,14 +101,18 @@ ___-Evaluación:___ Este momento final le permitirá a los y las participantes e
 ![](Lectras.png)
 ![](Foros.png)
 
-![](Est. Contenidos.png)     
 # Estructura de contenidos
+
+|Principios de Seguridad Digital 1|  |
+|--|--|
+|  |  |
+
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNDEyODE0OCwtMTMwMjA2NzE4MCwtNz
-IwNzIyNTg5LC02NzcyMDE5MTMsMTkyOTEyNTg3NSwxMjc3NTEw
-OTUyLDE5NzI4NzYyNTRdfQ==
+eyJoaXN0b3J5IjpbODQ5MjQxMzk3LDEwMTQxMjgxNDgsLTEzMD
+IwNjcxODAsLTcyMDcyMjU4OSwtNjc3MjAxOTEzLDE5MjkxMjU4
+NzUsMTI3NzUxMDk1MiwxOTcyODc2MjU0XX0=
 -->
