@@ -124,13 +124,13 @@ ___-Evaluación:___ Este momento final le permitirá a los y las participantes e
 |En este módulo los participantes conseguirán identificar cuando sus datos e información son utilizados para fines comerciales y así mismo tomar las correctivos correspondientes para que esto no suceda. |  
 |<ul><li>Navegadores y motores de búsqueda.</li><li>¿Qué son los metadatos?</li><li>Pautas de navegación segura.</li><li>Buenas prácticas de navegación.</li></ul>|
 
-| _** 04 - Anonimato 2 - Intermedio **_ |  
+| _**04 - Anonimato 2 - Intermedio**_ |  
 |---|  
 | _**(4 Horas)**_ |  
 | En este módulo los participantes lograrán reconocer los espacios virtuales para así obtener un control de las identidades y rastros que dejan en Internet. |  
 |<ul><li>Virtual Private Network (VPN)</li><li>Protocolos seguros de navegación HTTPS y certificados de seguridad SSL</li><li>Navegador TOR - Sistema Operativo TAILS</li></ul>|
 
-| _** 05 - Servidores de Correo electrónico seguro 1 – Básico**_ |  
+| _**05 - Servidores de Correo electrónico seguro 1 – Básico**_ |  
 |---|  
 | _**(4 Horas)**_ |  
 |En este módulo el participante conocerá más a fondo el funcionamiento del correo electrónico, aprenderá a manejar herramientas para la administración de mensajes, y la caracterización de riesgos a los que está expuesta la información.|  
@@ -138,7 +138,7 @@ ___-Evaluación:___ Este momento final le permitirá a los y las participantes e
 
 
 
-| _** 06 - Servidores de Correo electrónico seguro 2 – Intermedio**_ |  
+| _**06 - Servidores de Correo electrónico seguro 2 – Intermedio**_ |  
 |---|  
 | _**(4 Horas)**_ |  
 |En este módulo los participantes conocerán y trabajaran algunas de las formas que hay para cifrar los mensajes en los servicios de correo electrónico por medio de herramientas fáciles y gratuitas. |  
@@ -160,9 +160,9 @@ ___-Evaluación:___ Este momento final le permitirá a los y las participantes e
 |<ul><li></li><li></li><li></li><li></li></ul>|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA2MTAzMzUzLC0xNDI3NjEzNjQzLC0xNT
-c1ODYwNTQsLTQwMDE3NjI1MCwtMTExMjU2MTA3NCwtMTUxNjE1
-MjE4NywzOTcyMjcwNDUsMTc3MTAxOTEwMCwxMDE0MTI4MTQ4LC
-0xMzAyMDY3MTgwLC03MjA3MjI1ODksLTY3NzIwMTkxMywxOTI5
-MTI1ODc1LDEyNzc1MTA5NTIsMTk3Mjg3NjI1NF19
+eyJoaXN0b3J5IjpbLTE1MjIxMTEzNDksLTE0Mjc2MTM2NDMsLT
+E1NzU4NjA1NCwtNDAwMTc2MjUwLC0xMTEyNTYxMDc0LC0xNTE2
+MTUyMTg3LDM5NzIyNzA0NSwxNzcxMDE5MTAwLDEwMTQxMjgxND
+gsLTEzMDIwNjcxODAsLTcyMDcyMjU4OSwtNjc3MjAxOTEzLDE5
+MjkxMjU4NzUsMTI3NzUxMDk1MiwxOTcyODc2MjU0XX0=
 -->
