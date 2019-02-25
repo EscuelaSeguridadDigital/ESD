@@ -118,15 +118,23 @@ ___-Evaluación:___ Este momento final le permitirá a los y las participantes e
 |<ul><li>Recuperación de información.</li><li>Eliminación permanente de información.</li><li>Copias de Seguridad de la Información.</li><li>Almacenamiento y Cifrado>Recuperación de información.</li></ul>|
 
 
-| _**03 - anonimat 1 - BPrincipios de Seguridad Digital 2 - Intermedio**_ |  
+| _**03 - anonimat 1 - Básico**_ |  
 |---|  
 | _**(4 Horas)**_ |  
-|Para este módulo los participantes aprenderán almacenar y asegurar la información más relevante, así mismo aplicaran técnicas y herramientas para recuperar información borrada de forma no segura. |  
-|<ul><li>Recuperación de información.</li><li>Eliminación permanente de información.</li><li>Copias de Seguridad de la Información.</li><li>Almacenamiento y Cifrado>Recuperación de información.</li></ul>|
+|En este módulo los participantes conseguirán identificar cuando sus datos e información son utilizados para fines comerciales y así mismo tomar las correctivos correspondientes para que esto no suceda. |  
+|<ul><li>Navegadores y motores de búsqueda</li><li>Eliminación permanente de información.</li><li>Copias de Seguridad de la Información.</li><li>Almacenamiento y Cifrado>Recuperación de información.</li></ul>|
+
+<![if !supportLists]>- <![endif]>**.**
+
+<![if !supportLists]>- <![endif]>
+
+<![if !supportLists]>- <![endif]>Pautas de navegación segura**.**
+
+<![if !supportLists]>- <![endif]>Buenas prácticas de navegación**.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5MzgwMTc3LC0xNTc1ODYwNTQsLTQwMD
-E3NjI1MCwtMTExMjU2MTA3NCwtMTUxNjE1MjE4NywzOTcyMjcw
-NDUsMTc3MTAxOTEwMCwxMDE0MTI4MTQ4LC0xMzAyMDY3MTgwLC
-03MjA3MjI1ODksLTY3NzIwMTkxMywxOTI5MTI1ODc1LDEyNzc1
-MTA5NTIsMTk3Mjg3NjI1NF19
+eyJoaXN0b3J5IjpbLTE4MDIxODk2OSwtMTU3NTg2MDU0LC00MD
+AxNzYyNTAsLTExMTI1NjEwNzQsLTE1MTYxNTIxODcsMzk3MjI3
+MDQ1LDE3NzEwMTkxMDAsMTAxNDEyODE0OCwtMTMwMjA2NzE4MC
+wtNzIwNzIyNTg5LC02NzcyMDE5MTMsMTkyOTEyNTg3NSwxMjc3
+NTEwOTUyLDE5NzI4NzYyNTRdfQ==
 -->
