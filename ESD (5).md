@@ -158,10 +158,10 @@ ___-Evaluación:___ Este momento final le permitirá a los y las participantes e
 
 # Agenda de Implementación
 
-|   **PRESENTACIÓN INICIAL - PRIMERA SESIÓN**
-**_Tiempo total: 15 Minutos_** |
+|**PRESENTACIÓN INICIAL - PRIMERA SESIÓN**
+**_Tiempo total: 15 Minutos_**|
 |----|
-|_Bienvenida al proceso formativo de la Escuela de Seguridad Digital._  
+|_Bienvenida al proceso formativo de la Escuela de Seguridad Digital.|  
 <ul><li>_Presentación de los Objetivos de la Escuela de Seguridad Digital._</li><li>_Presentación del Kit de Seguridad Digital._</li><li>_Actividad: Presentación de las personas participantes._</li><li>_Actividad: Reglas de Juego de los talleres de capacitación._</li></ul>|
 |<ul>_ACTIVIDADES-PRESENTACIÓN__ (*Puedes escoger una de las tres actividades propuestas*)</ul>|
 
@@ -172,11 +172,11 @@ ___-Evaluación:___ Este momento final le permitirá a los y las participantes e
 |Para este módulo los participantes aprenderán a reconocer y abordar los riesgos a los cuales se exponen  al momento de publicar cierta información en Redes sociales, por medio de pautas que le permitirán mitigar las vulnerabilidades a las cuales están más expuestos.|  
 |<ul><li>Configuración de opciones de seguridad y privacidad.</li><li>Recomendaciones para el Uso Seguro de Internet y las Redes Sociales.</li><li>Impacto de la información que se publica en redes sociales.</li><li>Modelo de negocio y riesgos de las redes sociales.</li></ul>|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzAxNjMwNzAzLC0xOTQ2MTY0NTc1LDkzOD
-Y1NzYwNywxOTU2OTY3Mjk5LC0xNTIyMTExMzQ5LC0xNDI3NjEz
-NjQzLC0xNTc1ODYwNTQsLTQwMDE3NjI1MCwtMTExMjU2MTA3NC
-wtMTUxNjE1MjE4NywzOTcyMjcwNDUsMTc3MTAxOTEwMCwxMDE0
-MTI4MTQ4LC0xMzAyMDY3MTgwLC03MjA3MjI1ODksLTY3NzIwMT
-kxMywxOTI5MTI1ODc1LDEyNzc1MTA5NTIsMTk3Mjg3NjI1NF19
-
+eyJoaXN0b3J5IjpbMTQzMzA2NzY5NCwtMTk0NjE2NDU3NSw5Mz
+g2NTc2MDcsMTk1Njk2NzI5OSwtMTUyMjExMTM0OSwtMTQyNzYx
+MzY0MywtMTU3NTg2MDU0LC00MDAxNzYyNTAsLTExMTI1NjEwNz
+QsLTE1MTYxNTIxODcsMzk3MjI3MDQ1LDE3NzEwMTkxMDAsMTAx
+NDEyODE0OCwtMTMwMjA2NzE4MCwtNzIwNzIyNTg5LC02NzcyMD
+E5MTMsMTkyOTEyNTg3NSwxMjc3NTEwOTUyLDE5NzI4NzYyNTRd
+fQ==
 -->
