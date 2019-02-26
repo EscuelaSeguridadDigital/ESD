@@ -154,12 +154,10 @@ ___-Evaluación:___ Este momento final le permitirá a los y las participantes e
 |---|  
 | _**(4 Horas)**_ |  
 |Para este módulo los participantes aprenderán a reconocer y abordar los riesgos a los cuales se exponen  al momento de publicar cierta información en Redes sociales, por medio de pautas que le permitirán mitigar las vulnerabilidades a las cuales están más expuestos.|  
-|<ul><li>Configuración de opciones de seguridad y privacidad.</li><li><![endif]-->
-
-<![if !supportLists]>- <![endif]>Recomendaciones para el Uso Seguro de Internet y las Redes Sociales.</li><li></li><li></li></ul>|
+|<ul><li>Configuración de opciones de seguridad y privacidad.</li><li>Recomendaciones para el Uso Seguro de Internet y las Redes Sociales.</li><li>Impacto de la información que se publica en redes sociales.</li><li>Modelo de negocio y riesgos de las redes sociales.</li></ul>|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwNjgwMjQ0OCwtMTUyMjExMTM0OSwtMT
+eyJoaXN0b3J5IjpbMTk1Njk2NzI5OSwtMTUyMjExMTM0OSwtMT
 QyNzYxMzY0MywtMTU3NTg2MDU0LC00MDAxNzYyNTAsLTExMTI1
 NjEwNzQsLTE1MTYxNTIxODcsMzk3MjI3MDQ1LDE3NzEwMTkxMD
 AsMTAxNDEyODE0OCwtMTMwMjA2NzE4MCwtNzIwNzIyNTg5LC02
