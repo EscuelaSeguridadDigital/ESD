@@ -158,26 +158,13 @@ ___-Evaluación:___ Este momento final le permitirá a los y las participantes e
 
 # Agenda de Implementación
 
-
-|**PRESENTACIÓN INICIAL - PRIMERA SESIÓN**
-**_Tiempo total: 15 Minutos_**|
-|----|
-|_Bienvenida al proceso formativo de la Escuela de Seguridad Digital._|  
-|<ul><li>_Presentación de los Objetivos de la Escuela de Seguridad Digital._</li><li>_Presentación del Kit de Seguridad Digital._</li><li>_Actividad: Presentación de las personas participantes._</li><li>_Actividad: Reglas de Juego de los talleres de capacitación._</li></ul>|
-|<ul>_ACTIVIDADES-PRESENTACIÓN__ (*Puedes escoger una de las tres actividades propuestas*)</ul>|
-
-|  **PRESENTACIÓN INICIAL - PRIMERA SESIÓN**
-**_Tiempo total: 15 Minutos_**  |  
-
-| _**(4 Horas)**_ |  
-|Para este módulo los participantes aprenderán a reconocer y abordar los riesgos a los cuales se exponen  al momento de publicar cierta información en Redes sociales, por medio de pautas que le permitirán mitigar las vulnerabilidades a las cuales están más expuestos.|  
-|<ul><li>Configuración de opciones de seguridad y privacidad.</li><li>Recomendaciones para el Uso Seguro de Internet y las Redes Sociales.</li><li>Impacto de la información que se publica en redes sociales.</li><li>Modelo de negocio y riesgos de las redes sociales.</li></ul>|
+|**PRESENTACIÓN INICIAL - PRIMERA SESIÓN**|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxOTcwNDc0NiwtMTcxOTc3NDAzNSwtMT
-k0NjE2NDU3NSw5Mzg2NTc2MDcsMTk1Njk2NzI5OSwtMTUyMjEx
-MTM0OSwtMTQyNzYxMzY0MywtMTU3NTg2MDU0LC00MDAxNzYyNT
-AsLTExMTI1NjEwNzQsLTE1MTYxNTIxODcsMzk3MjI3MDQ1LDE3
-NzEwMTkxMDAsMTAxNDEyODE0OCwtMTMwMjA2NzE4MCwtNzIwNz
-IyNTg5LC02NzcyMDE5MTMsMTkyOTEyNTg3NSwxMjc3NTEwOTUy
-LDE5NzI4NzYyNTRdfQ==
+eyJoaXN0b3J5IjpbLTEwNjI5MTkzNCwxNjE5NzA0NzQ2LC0xNz
+E5Nzc0MDM1LC0xOTQ2MTY0NTc1LDkzODY1NzYwNywxOTU2OTY3
+Mjk5LC0xNTIyMTExMzQ5LC0xNDI3NjEzNjQzLC0xNTc1ODYwNT
+QsLTQwMDE3NjI1MCwtMTExMjU2MTA3NCwtMTUxNjE1MjE4Nywz
+OTcyMjcwNDUsMTc3MTAxOTEwMCwxMDE0MTI4MTQ4LC0xMzAyMD
+Y3MTgwLC03MjA3MjI1ODksLTY3NzIwMTkxMywxOTI5MTI1ODc1
+LDEyNzc1MTA5NTJdfQ==
 -->
