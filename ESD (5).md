@@ -158,6 +158,7 @@ ___-Evaluación:___ Este momento final le permitirá a los y las participantes e
 
 # Agenda de Implementación
 
+
 |**PRESENTACIÓN INICIAL - PRIMERA SESIÓN**
 **_Tiempo total: 15 Minutos_**|
 |----|
@@ -172,7 +173,7 @@ ___-Evaluación:___ Este momento final le permitirá a los y las participantes e
 |Para este módulo los participantes aprenderán a reconocer y abordar los riesgos a los cuales se exponen  al momento de publicar cierta información en Redes sociales, por medio de pautas que le permitirán mitigar las vulnerabilidades a las cuales están más expuestos.|  
 |<ul><li>Configuración de opciones de seguridad y privacidad.</li><li>Recomendaciones para el Uso Seguro de Internet y las Redes Sociales.</li><li>Impacto de la información que se publica en redes sociales.</li><li>Modelo de negocio y riesgos de las redes sociales.</li></ul>|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyNDM2OTAwMCwtMTcxOTc3NDAzNSwtMT
+eyJoaXN0b3J5IjpbMTYxOTcwNDc0NiwtMTcxOTc3NDAzNSwtMT
 k0NjE2NDU3NSw5Mzg2NTc2MDcsMTk1Njk2NzI5OSwtMTUyMjEx
 MTM0OSwtMTQyNzYxMzY0MywtMTU3NTg2MDU0LC00MDAxNzYyNT
 AsLTExMTI1NjEwNzQsLTE1MTYxNTIxODcsMzk3MjI3MDQ1LDE3
