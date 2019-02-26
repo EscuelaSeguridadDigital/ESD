@@ -150,17 +150,19 @@ ___-Evaluación:___ Este momento final le permitirá a los y las participantes e
 |Con este módulo los participantes comprenderán el funcionamiento de los dispositivos móviles, adquirirán conocimientos que les servirán para tener más control sobre la información que almacenan en estos dispositivos.|  
 |<ul><li>Reconocimiento del celular.</li><li>Manejo de información en el dispositivo móvil.</li><li>Apps & Plataformas online: ¿Amigo/a o enemigo/a?</li></ul>|
 
-| _** **_ |  
+| _**08 - Redes Sociales**_ |  
 |---|  
 | _**(4 Horas)**_ |  
-| |  
-|<ul><li></li><li></li><li></li><li></li></ul>|
+|Para este módulo los participantes aprenderán a reconocer y abordar los riesgos a los cuales se exponen  al momento de publicar cierta información en Redes sociales, por medio de pautas que le permitirán mitigar las vulnerabilidades a las cuales están más expuestos.|  
+|<ul><li>Configuración de opciones de seguridad y privacidad.</li><li><![endif]-->
+
+<![if !supportLists]>- <![endif]>Recomendaciones para el Uso Seguro de Internet y las Redes Sociales.</li><li></li><li></li></ul>|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjczNjk1MzkwLC0xNTIyMTExMzQ5LC0xND
-I3NjEzNjQzLC0xNTc1ODYwNTQsLTQwMDE3NjI1MCwtMTExMjU2
-MTA3NCwtMTUxNjE1MjE4NywzOTcyMjcwNDUsMTc3MTAxOTEwMC
-wxMDE0MTI4MTQ4LC0xMzAyMDY3MTgwLC03MjA3MjI1ODksLTY3
-NzIwMTkxMywxOTI5MTI1ODc1LDEyNzc1MTA5NTIsMTk3Mjg3Nj
-I1NF19
+eyJoaXN0b3J5IjpbMTgwNjgwMjQ0OCwtMTUyMjExMTM0OSwtMT
+QyNzYxMzY0MywtMTU3NTg2MDU0LC00MDAxNzYyNTAsLTExMTI1
+NjEwNzQsLTE1MTYxNTIxODcsMzk3MjI3MDQ1LDE3NzEwMTkxMD
+AsMTAxNDEyODE0OCwtMTMwMjA2NzE4MCwtNzIwNzIyNTg5LC02
+NzcyMDE5MTMsMTkyOTEyNTg3NSwxMjc3NTEwOTUyLDE5NzI4Nz
+YyNTRdfQ==
 -->
