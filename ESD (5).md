@@ -167,16 +167,16 @@ ___-Evaluación:___ Este momento final le permitirá a los y las participantes e
 
 |  **PRESENTACIÓN INICIAL - PRIMERA SESIÓN**
 **_Tiempo total: 15 Minutos_**  |  
-|---|  
+
 | _**(4 Horas)**_ |  
 |Para este módulo los participantes aprenderán a reconocer y abordar los riesgos a los cuales se exponen  al momento de publicar cierta información en Redes sociales, por medio de pautas que le permitirán mitigar las vulnerabilidades a las cuales están más expuestos.|  
 |<ul><li>Configuración de opciones de seguridad y privacidad.</li><li>Recomendaciones para el Uso Seguro de Internet y las Redes Sociales.</li><li>Impacto de la información que se publica en redes sociales.</li><li>Modelo de negocio y riesgos de las redes sociales.</li></ul>|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTk3NzQwMzUsLTE5NDYxNjQ1NzUsOT
-M4NjU3NjA3LDE5NTY5NjcyOTksLTE1MjIxMTEzNDksLTE0Mjc2
-MTM2NDMsLTE1NzU4NjA1NCwtNDAwMTc2MjUwLC0xMTEyNTYxMD
-c0LC0xNTE2MTUyMTg3LDM5NzIyNzA0NSwxNzcxMDE5MTAwLDEw
-MTQxMjgxNDgsLTEzMDIwNjcxODAsLTcyMDcyMjU4OSwtNjc3Mj
-AxOTEzLDE5MjkxMjU4NzUsMTI3NzUxMDk1MiwxOTcyODc2MjU0
-XX0=
+eyJoaXN0b3J5IjpbLTQyNDM2OTAwMCwtMTcxOTc3NDAzNSwtMT
+k0NjE2NDU3NSw5Mzg2NTc2MDcsMTk1Njk2NzI5OSwtMTUyMjEx
+MTM0OSwtMTQyNzYxMzY0MywtMTU3NTg2MDU0LC00MDAxNzYyNT
+AsLTExMTI1NjEwNzQsLTE1MTYxNTIxODcsMzk3MjI3MDQ1LDE3
+NzEwMTkxMDAsMTAxNDEyODE0OCwtMTMwMjA2NzE4MCwtNzIwNz
+IyNTg5LC02NzcyMDE5MTMsMTkyOTEyNTg3NSwxMjc3NTEwOTUy
+LDE5NzI4NzYyNTRdfQ==
 -->
