@@ -158,10 +158,11 @@ ___-Evaluación:___ Este momento final le permitirá a los y las participantes e
 
 # Agenda de Implementación
 
-|   _**PRESENTACIÓN INICIAL - PRIMERA SESIÓN**-|
-|*_Tiempo total: 15 Minutos_** |
+|   **PRESENTACIÓN INICIAL - PRIMERA SESIÓN**|
+|**_Tiempo total: 15 Minutos_** |
 |----|
-|    |
+|_Bienvenida al proceso formativo de la Escuela de Seguridad Digital._  
+|
 
 
 
@@ -170,10 +171,10 @@ ___-Evaluación:___ Este momento final le permitirá a los y las participantes e
 |    |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM4NjU3NjA3LDE5NTY5NjcyOTksLTE1Mj
-IxMTEzNDksLTE0Mjc2MTM2NDMsLTE1NzU4NjA1NCwtNDAwMTc2
-MjUwLC0xMTEyNTYxMDc0LC0xNTE2MTUyMTg3LDM5NzIyNzA0NS
-wxNzcxMDE5MTAwLDEwMTQxMjgxNDgsLTEzMDIwNjcxODAsLTcy
-MDcyMjU4OSwtNjc3MjAxOTEzLDE5MjkxMjU4NzUsMTI3NzUxMD
-k1MiwxOTcyODc2MjU0XX0=
+eyJoaXN0b3J5IjpbLTEwOTYzMzg1NjYsOTM4NjU3NjA3LDE5NT
+Y5NjcyOTksLTE1MjIxMTEzNDksLTE0Mjc2MTM2NDMsLTE1NzU4
+NjA1NCwtNDAwMTc2MjUwLC0xMTEyNTYxMDc0LC0xNTE2MTUyMT
+g3LDM5NzIyNzA0NSwxNzcxMDE5MTAwLDEwMTQxMjgxNDgsLTEz
+MDIwNjcxODAsLTcyMDcyMjU4OSwtNjc3MjAxOTEzLDE5MjkxMj
+U4NzUsMTI3NzUxMDk1MiwxOTcyODc2MjU0XX0=
 -->
