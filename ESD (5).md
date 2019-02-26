@@ -158,20 +158,20 @@ ___-Evaluación:___ Este momento final le permitirá a los y las participantes e
 
 # Agenda de Implementación
 
-|   **PRESENTACIÓN INICIAL - PRIMERA SESIÓN**|
-|**_Tiempo total: 15 Minutos_** |
+|   **PRESENTACIÓN INICIAL - PRIMERA SESIÓN**
+**_Tiempo total: 15 Minutos_** |
 |----|
 |_Bienvenida al proceso formativo de la Escuela de Seguridad Digital._  
 <ul><li>_Presentación de los Objetivos de la Escuela de Seguridad Digital._</li><li>_Presentación del Kit de Seguridad Digital._</li><li>_Actividad: Presentación de las personas participantes._</li><li>_Actividad: Reglas de Juego de los talleres de capacitación._</li></ul>|
 | --- | 
-
+|ACTIVIDADES-PRESENTACIÓN (**_Puedes escoger una de las tres actividades propuestas_**)**
 
 |    |
 |----|
 |    |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk1MzU2NjE3LDkzODY1NzYwNywxOTU2OT
+eyJoaXN0b3J5IjpbMTQ3MjYxNjczLDkzODY1NzYwNywxOTU2OT
 Y3Mjk5LC0xNTIyMTExMzQ5LC0xNDI3NjEzNjQzLC0xNTc1ODYw
 NTQsLTQwMDE3NjI1MCwtMTExMjU2MTA3NCwtMTUxNjE1MjE4Ny
 wzOTcyMjcwNDUsMTc3MTAxOTEwMCwxMDE0MTI4MTQ4LC0xMzAy
