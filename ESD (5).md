@@ -144,14 +144,11 @@ ___-Evaluación:___ Este momento final le permitirá a los y las participantes e
 |En este módulo los participantes conocerán y trabajaran algunas de las formas que hay para cifrar los mensajes en los servicios de correo electrónico por medio de herramientas fáciles y gratuitas. |  
 |<ul><li>Mensajes cifrados.</li><li>Funcionamiento de PGP.</li><li>Protección de la comunicación utilizando SSL/TLS.</li><li>Instalación y configuración de Enigmail.</li><l1>Importancia del correo cifrado.</li></ul>|
 
-
-
-
-| _** **_ |  
+| _**07 - Celulares y comunicación segura**_ |  
 |---|  
 | _**(4 Horas)**_ |  
-| |  
-|<ul><li></li><li></li><li></li><li></li></ul>|
+|Con este módulo los participantes comprenderán el funcionamiento de los dispositivos móviles, adquirirán conocimientos que les servirán para tener más control sobre la información que almacenan en estos dispositivos.|  
+|<ul><li>Reconocimiento del celular.</li><li></li><li></li><li></li></ul>|
 
 | _** **_ |  
 |---|  
@@ -160,9 +157,10 @@ ___-Evaluación:___ Este momento final le permitirá a los y las participantes e
 |<ul><li></li><li></li><li></li><li></li></ul>|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjIxMTEzNDksLTE0Mjc2MTM2NDMsLT
-E1NzU4NjA1NCwtNDAwMTc2MjUwLC0xMTEyNTYxMDc0LC0xNTE2
-MTUyMTg3LDM5NzIyNzA0NSwxNzcxMDE5MTAwLDEwMTQxMjgxND
-gsLTEzMDIwNjcxODAsLTcyMDcyMjU4OSwtNjc3MjAxOTEzLDE5
-MjkxMjU4NzUsMTI3NzUxMDk1MiwxOTcyODc2MjU0XX0=
+eyJoaXN0b3J5IjpbLTM3OTk2NjAyNCwtMTUyMjExMTM0OSwtMT
+QyNzYxMzY0MywtMTU3NTg2MDU0LC00MDAxNzYyNTAsLTExMTI1
+NjEwNzQsLTE1MTYxNTIxODcsMzk3MjI3MDQ1LDE3NzEwMTkxMD
+AsMTAxNDEyODE0OCwtMTMwMjA2NzE4MCwtNzIwNzIyNTg5LC02
+NzcyMDE5MTMsMTkyOTEyNTg3NSwxMjc3NTEwOTUyLDE5NzI4Nz
+YyNTRdfQ==
 -->
