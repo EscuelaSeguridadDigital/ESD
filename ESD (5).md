@@ -160,9 +160,9 @@ ___-Evaluación:___ Este momento final le permitirá a los y las participantes e
 
 
   
-|  __PRESENTACIÓN INICIAL - PRIMERA SESIÓN__
-*Tiempo total: 15 Minutos*|  
-|---|  
+|   __PRESENTACIÓN INICIAL - PRIMERA SESIÓN__ <br| 
+|---| 
+| *Tiempo total: 15 Minutos*|  
 | _Bienvenida al proceso formativo de la Escuela de Seguridad Digital._
 
 <ul><li>_Presentación de los Objetivos de la Escuela de Seguridad Digital._</li><li>_Presentación del Kit de Seguridad Digital._</li><li>Actividad: Presentación de las personas participantes.</li><li>Actividad: Reglas de Juego de los talleres de capacitación.</li></ul>
@@ -172,7 +172,7 @@ ___-Evaluación:___ Este momento final le permitirá a los y las participantes e
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MzgzNTY5MywtMTMxODY4Njc1MywtMj
+eyJoaXN0b3J5IjpbLTMxNjIzNzI5MywtMTMxODY4Njc1MywtMj
 E0NTY2OTM5MSwxNjE5NzA0NzQ2LC0xNzE5Nzc0MDM1LC0xOTQ2
 MTY0NTc1LDkzODY1NzYwNywxOTU2OTY3Mjk5LC0xNTIyMTExMz
 Q5LC0xNDI3NjEzNjQzLC0xNTc1ODYwNTQsLTQwMDE3NjI1MCwt
