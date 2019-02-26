@@ -158,9 +158,11 @@ ___-Evaluación:___ Este momento final le permitirá a los y las participantes e
 
 # Agenda de Implementación
 
-|**PRESENTACIÓN INICIAL - PRIMERA SESIÓN**|
+|**PRESENTACIÓN INICIAL - PRIMERA SESIÓN**
+<![endif]--> **_Tiempo total: 15 Minutos_** |
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjI5MTkzNCwxNjE5NzA0NzQ2LC0xNz
+eyJoaXN0b3J5IjpbLTQzNjE4MjE0MCwxNjE5NzA0NzQ2LC0xNz
 E5Nzc0MDM1LC0xOTQ2MTY0NTc1LDkzODY1NzYwNywxOTU2OTY3
 Mjk5LC0xNTIyMTExMzQ5LC0xNDI3NjEzNjQzLC0xNTc1ODYwNT
 QsLTQwMDE3NjI1MCwtMTExMjU2MTA3NCwtMTUxNjE1MjE4Nywz
