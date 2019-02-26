@@ -162,7 +162,9 @@ ___-Evaluación:___ Este momento final le permitirá a los y las participantes e
 |**_Tiempo total: 15 Minutos_** |
 |----|
 |_Bienvenida al proceso formativo de la Escuela de Seguridad Digital._  
-|
+<ul><li>_Presentación de los Objetivos de la Escuela de Seguridad Digital._</li><li><![endif]-->
+
+<![if !supportLists]>· <![endif]>_Presentación del Kit de Seguridad Digital._
 
 
 
@@ -171,7 +173,7 @@ ___-Evaluación:___ Este momento final le permitirá a los y las participantes e
 |    |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTYzMzg1NjYsOTM4NjU3NjA3LDE5NT
+eyJoaXN0b3J5IjpbLTE2NjA4NDc1MjQsOTM4NjU3NjA3LDE5NT
 Y5NjcyOTksLTE1MjIxMTEzNDksLTE0Mjc2MTM2NDMsLTE1NzU4
 NjA1NCwtNDAwMTc2MjUwLC0xMTEyNTYxMDc0LC0xNTE2MTUyMT
 g3LDM5NzIyNzA0NSwxNzcxMDE5MTAwLDEwMTQxMjgxNDgsLTEz
