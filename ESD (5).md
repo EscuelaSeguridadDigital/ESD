@@ -165,15 +165,17 @@ ___-Evaluación:___ Este momento final le permitirá a los y las participantes e
 | _Bienvenida al proceso formativo de la Escuela de Seguridad Digital._
 
 <ul><li>_Presentación de los Objetivos de la Escuela de Seguridad Digital._</li><li>_Presentación del Kit de Seguridad Digital._</li><li>_Actividad: Presentación de las personas participantes._</li><li>_Actividad: Reglas de Juego de los talleres de capacitación._</li></ul>
-| ---- |
-||
+---- |
+| **ACTIVIDADES-PRESENTACIÓN** (*Puedes escoger una de las tres actividades propuestas*)|
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODAyMjI4NywtMjE0NTY2OTM5MSwxNj
-E5NzA0NzQ2LC0xNzE5Nzc0MDM1LC0xOTQ2MTY0NTc1LDkzODY1
-NzYwNywxOTU2OTY3Mjk5LC0xNTIyMTExMzQ5LC0xNDI3NjEzNj
-QzLC0xNTc1ODYwNTQsLTQwMDE3NjI1MCwtMTExMjU2MTA3NCwt
-MTUxNjE1MjE4NywzOTcyMjcwNDUsMTc3MTAxOTEwMCwxMDE0MT
-I4MTQ4LC0xMzAyMDY3MTgwLC03MjA3MjI1ODksLTY3NzIwMTkx
-MywxOTI5MTI1ODc1XX0=
+eyJoaXN0b3J5IjpbLTEzMTg2ODY3NTMsLTIxNDU2NjkzOTEsMT
+YxOTcwNDc0NiwtMTcxOTc3NDAzNSwtMTk0NjE2NDU3NSw5Mzg2
+NTc2MDcsMTk1Njk2NzI5OSwtMTUyMjExMTM0OSwtMTQyNzYxMz
+Y0MywtMTU3NTg2MDU0LC00MDAxNzYyNTAsLTExMTI1NjEwNzQs
+LTE1MTYxNTIxODcsMzk3MjI3MDQ1LDE3NzEwMTkxMDAsMTAxND
+EyODE0OCwtMTMwMjA2NzE4MCwtNzIwNzIyNTg5LC02NzcyMDE5
+MTMsMTkyOTEyNTg3NV19
 -->
