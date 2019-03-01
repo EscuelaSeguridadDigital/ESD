@@ -176,18 +176,18 @@ ___-Evaluación:___ Este momento final le permitirá a los y las participantes e
 
 |  **ACTIVIDAD-REGLAS DE JUEGO** <br>___Reglas del Juego___ |
 |---|
-|Objetivo: Construir colectivamente acuerdos de convivencia y participación. “Las reglas del juego”.<br>Duración: 5 minutos.<br>Materiales requeridos:<ul><li>Tablero.</li><li>Marcadores.</li><li>Stickers de colores preferiblemente rojo y amarillo.</li></ul><br>__*¿Cómo conducir la actividad?*__<br>Esta actividad  ayudará a generar  acuerdos colectivos de convivencia, reconociendo las preferencias de las personas participantes, para que puedan sentirse cómodas, y pueda dar lugar a mayor receptividad durante la sesión.<br><br><ol>a. _Pídeles a las personas participantes que den ejemplos de acuerdos de convivencia que consideren importantes para su bienestar en la sesión. Los facilitadores pueden iniciar dando ejemplos como “levantar la mano para pedir la palabra”, “No usar dispositivos móviles durante la sesión” o “no compartiremos nada sobre la sesión en plataformas de redes sociales sin el consentimiento de las demás personas” El facilitador deberá anotar cada uno de los cuerdos en el tablero o en un lugar visible e indicar que pueden ser modificados en la medida que se discutan y consensuen en grupo._</ol><br>_Nota: Asegúrate de ofrecer a las personas participantes la opción de hacer sugerencias directamente a ti o de manera anónima en caso de que no se sientan cómodas de hacerlo abiertamente._<br><ol>_b._ _Los Stickers les permitirán hacer referencia a condiciones especiales a las personas participantes, pueden asignar una condición a cada color, e indicarles que pueden tomar uno y pegarlo a su Escarapela según lo vean necesario y de manera individual en cualquier momento de la sesión para no generar incomodidades. Por ejemplo:_|
+|Objetivo: Construir colectivamente acuerdos de convivencia y participación. “Las reglas del juego”.<br>Duración: 5 minutos.<br>Materiales requeridos:<ul><li>Tablero.</li><li>Marcadores.</li><li>Stickers de colores preferiblemente rojo y amarillo.</li></ul><br>__*¿Cómo conducir la actividad?*__<br>Esta actividad  ayudará a generar  acuerdos colectivos de convivencia, reconociendo las preferencias de las personas participantes, para que puedan sentirse cómodas, y pueda dar lugar a mayor receptividad durante la sesión.<br><br><ol>a. _Pídeles a las personas participantes que den ejemplos de acuerdos de convivencia que consideren importantes para su bienestar en la sesión. Los facilitadores pueden iniciar dando ejemplos como “levantar la mano para pedir la palabra”, “No usar dispositivos móviles durante la sesión” o “no compartiremos nada sobre la sesión en plataformas de redes sociales sin el consentimiento de las demás personas” El facilitador deberá anotar cada uno de los cuerdos en el tablero o en un lugar visible e indicar que pueden ser modificados en la medida que se discutan y consensuen en grupo._</ol><br>_Nota: Asegúrate de ofrecer a las personas participantes la opción de hacer sugerencias directamente a ti o de manera anónima en caso de que no se sientan cómodas de hacerlo abiertamente._<br><ol>_b._ _Los Stickers les permitirán hacer referencia a condiciones especiales a las personas participantes, pueden asignar una condición a cada color, e indicarles que pueden tomar uno y pegarlo a su Escarapela según lo vean necesario y de manera individual en cualquier momento de la sesión para no generar incomodidades. Por ejemplo:_<br>|
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTM3MTcyNzUsLTExODEyMzExMTUsLT
-E3NzE3NjQ1NjgsMTMzMDc4NTQzOCwxNTQ0NDgzODIzLDMyNzgw
-NTczOCwtMTUyMzgzNzg0NywtMTk5ODY3MDgwMywxMjIyNjcxNz
-E1LDE2NzE3MTIwMjksLTE1NTYyNDIxOTksLTQzODgwMzMxMywy
-MTM3NTU1MjUxLDEyNDk4ODYzMTYsLTEzMTg2ODY3NTMsLTIxND
-U2NjkzOTEsMTYxOTcwNDc0NiwtMTcxOTc3NDAzNSwtMTk0NjE2
-NDU3NSw5Mzg2NTc2MDddfQ==
+eyJoaXN0b3J5IjpbLTE2Njg0NTgwMSwtMTE4MTIzMTExNSwtMT
+c3MTc2NDU2OCwxMzMwNzg1NDM4LDE1NDQ0ODM4MjMsMzI3ODA1
+NzM4LC0xNTIzODM3ODQ3LC0xOTk4NjcwODAzLDEyMjI2NzE3MT
+UsMTY3MTcxMjAyOSwtMTU1NjI0MjE5OSwtNDM4ODAzMzEzLDIx
+Mzc1NTUyNTEsMTI0OTg4NjMxNiwtMTMxODY4Njc1MywtMjE0NT
+Y2OTM5MSwxNjE5NzA0NzQ2LC0xNzE5Nzc0MDM1LC0xOTQ2MTY0
+NTc1LDkzODY1NzYwN119
 -->
