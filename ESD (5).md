@@ -219,15 +219,15 @@ En esta etapa la práctica será un elemento esencial en la relación de enseña
 
 **SÍNTESIS**
 __Duración: 15 Minutos__
-<ol><li type=a > Los facilitadores realizaran algunas preguntas claves que permitirán reforzar y repasar los contenidos presentados, con el fin  de evidenciar la comprensión de los temas presentados en el módulo.</li>><ul> * ¿Cuáles son las características que debe tener una contraseña segura? * ¿Qué herramientas permiten hacen más segura nuestras computadoras? *Qué significa Malware? ¿Qué consecuencias traen? *Explique es sus propias palabras que es la autenticación de dos factores. <li type=a>Los facilitadores darán la palabra a las personas participantes para que libremente hagan  preguntas y aclaren sus dudas.</ol>
+<ol><li type=a > Los facilitadores realizaran algunas preguntas claves que permitirán reforzar y repasar los contenidos presentados, con el fin  de evidenciar la comprensión de los temas presentados en el módulo.</li><ul><li * ¿Cuáles son las características que debe tener una contraseña segura? * ¿Qué herramientas permiten hacen más segura nuestras computadoras? *Qué significa Malware? ¿Qué consecuencias traen? *Explique es sus propias palabras que es la autenticación de dos factores.</ul><li type=a>Los facilitadores darán la palabra a las personas participantes para que libremente hagan  preguntas y aclaren sus dudas.</li></ol>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2MjI2ODMzNCwtMTQwODI2Mjc0Myw4OD
-gyMzI0NzAsLTE5NTQxNjE1OCw5NjY1OTQ4NSwtMTk5ODQ0ODUz
-NywxMzA0NjQ3NTEzLC0xMTgxMjMxMTE1LC0xNzcxNzY0NTY4LD
-EzMzA3ODU0MzgsMTU0NDQ4MzgyMywzMjc4MDU3MzgsLTE1MjM4
-Mzc4NDcsLTE5OTg2NzA4MDMsMTIyMjY3MTcxNSwxNjcxNzEyMD
-I5LC0xNTU2MjQyMTk5LC00Mzg4MDMzMTMsMjEzNzU1NTI1MSwx
-MjQ5ODg2MzE2XX0=
+eyJoaXN0b3J5IjpbLTEwMzMwODA1MTEsLTE0MDgyNjI3NDMsOD
+g4MjMyNDcwLC0xOTU0MTYxNTgsOTY2NTk0ODUsLTE5OTg0NDg1
+MzcsMTMwNDY0NzUxMywtMTE4MTIzMTExNSwtMTc3MTc2NDU2OC
+wxMzMwNzg1NDM4LDE1NDQ0ODM4MjMsMzI3ODA1NzM4LC0xNTIz
+ODM3ODQ3LC0xOTk4NjcwODAzLDEyMjI2NzE3MTUsMTY3MTcxMj
+AyOSwtMTU1NjI0MjE5OSwtNDM4ODAzMzEzLDIxMzc1NTUyNTEs
+MTI0OTg4NjMxNl19
 -->
