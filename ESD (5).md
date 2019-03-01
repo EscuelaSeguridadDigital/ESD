@@ -212,13 +212,13 @@ Trabajando en parejas, las personas participantes recibirán unos DADOS que vien
 ###  Práctica
 __Duración: 2 Horas__
 
-
+En esta etapa la práctica será un elemento esencial en la relación de enseñanza – aprendizaje, el facilitador/a acompañará a las personas participantes de una manera permanente resolviendo dudas y orientando el proceso.
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU4OTI4OTc4LC0xOTU0MTYxNTgsOTY2NT
+eyJoaXN0b3J5IjpbMTc2NjI4OTY3LC0xOTU0MTYxNTgsOTY2NT
 k0ODUsLTE5OTg0NDg1MzcsMTMwNDY0NzUxMywtMTE4MTIzMTEx
 NSwtMTc3MTc2NDU2OCwxMzMwNzg1NDM4LDE1NDQ0ODM4MjMsMz
 I3ODA1NzM4LC0xNTIzODM3ODQ3LC0xOTk4NjcwODAzLDEyMjI2
