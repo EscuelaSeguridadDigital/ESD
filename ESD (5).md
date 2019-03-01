@@ -176,18 +176,18 @@ ___-Evaluación:___ Este momento final le permitirá a los y las participantes e
 
 |  **ACTIVIDAD-REGLAS DE JUEGO** <br>___Reglas del Juego___ |
 |---|
-|Objetivo: Construir colectivamente acuerdos de convivencia y participación. “Las reglas del juego”.<br>Duración: 5 minutos.<br>Materiales requeridos:<ul><li>Tablero.</li><li>Marcadores.</li><li>Stickers de colores preferiblemente rojo y amarillo.</li></ul><br>__*¿Cómo conducir la actividad?*__<br>Esta actividad  ayudará a generar  acuerdos colectivos de convivencia, reconociendo las preferencias de las personas participantes, para que puedan sentirse cómodas, y pueda dar lugar a mayor receptividad durante la sesión.<br><ol>a._Pídeles a las personas participantes que den ejemplos de acuerdos de convivencia que consideren importantes para su bienestar en la sesión. Los facilitadores pueden iniciar dando ejemplos como “levantar la mano para pedir la palabra”, “No usar dispositivos móviles durante la sesión” o “no compartiremos nada sobre la sesión en plataformas de redes sociales sin el consentimiento de las demás personas” El facilitador deberá anotar cada uno de los cuerdos en el tablero o en un lugar visible e indicar que pueden ser modificados en la medida que se discutan y consensuen en grupo._|
+|Objetivo: Construir colectivamente acuerdos de convivencia y participación. “Las reglas del juego”.<br>Duración: 5 minutos.<br>Materiales requeridos:<ul><li>Tablero.</li><li>Marcadores.</li><li>Stickers de colores preferiblemente rojo y amarillo.</li></ul><br>__*¿Cómo conducir la actividad?*__<br>Esta actividad  ayudará a generar  acuerdos colectivos de convivencia, reconociendo las preferencias de las personas participantes, para que puedan sentirse cómodas, y pueda dar lugar a mayor receptividad durante la sesión.<br><br><ol>a. _Pídeles a las personas participantes que den ejemplos de acuerdos de convivencia que consideren importantes para su bienestar en la sesión. Los facilitadores pueden iniciar dando ejemplos como “levantar la mano para pedir la palabra”, “No usar dispositivos móviles durante la sesión” o “no compartiremos nada sobre la sesión en plataformas de redes sociales sin el consentimiento de las demás personas” El facilitador deberá anotar cada uno de los cuerdos en el tablero o en un lugar visible e indicar que pueden ser modificados en la medida que se discutan y consensuen en grupo._|
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODEyMzExMTUsLTE3NzE3NjQ1NjgsMT
-MzMDc4NTQzOCwxNTQ0NDgzODIzLDMyNzgwNTczOCwtMTUyMzgz
-Nzg0NywtMTk5ODY3MDgwMywxMjIyNjcxNzE1LDE2NzE3MTIwMj
-ksLTE1NTYyNDIxOTksLTQzODgwMzMxMywyMTM3NTU1MjUxLDEy
-NDk4ODYzMTYsLTEzMTg2ODY3NTMsLTIxNDU2NjkzOTEsMTYxOT
-cwNDc0NiwtMTcxOTc3NDAzNSwtMTk0NjE2NDU3NSw5Mzg2NTc2
-MDcsMTk1Njk2NzI5OV19
+eyJoaXN0b3J5IjpbMTUyNjQ5NTQzMSwtMTE4MTIzMTExNSwtMT
+c3MTc2NDU2OCwxMzMwNzg1NDM4LDE1NDQ0ODM4MjMsMzI3ODA1
+NzM4LC0xNTIzODM3ODQ3LC0xOTk4NjcwODAzLDEyMjI2NzE3MT
+UsMTY3MTcxMjAyOSwtMTU1NjI0MjE5OSwtNDM4ODAzMzEzLDIx
+Mzc1NTUyNTEsMTI0OTg4NjMxNiwtMTMxODY4Njc1MywtMjE0NT
+Y2OTM5MSwxNjE5NzA0NzQ2LC0xNzE5Nzc0MDM1LC0xOTQ2MTY0
+NTc1LDkzODY1NzYwN119
 -->
