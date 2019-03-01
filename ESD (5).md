@@ -219,22 +219,22 @@ En esta etapa la práctica será un elemento esencial en la relación de enseña
 
 **SÍNTESIS**
 __Duración: 15 Minutos__
-<ol>a.Los facilitadores realizaran algunas preguntas claves que permitirán reforzar y repasar los contenidos presentados, con el fin  de evidenciar la comprensión de los temas presentados en el módulo.</ol>
+<ol style=>a.Los facilitadores realizaran algunas preguntas claves que permitirán reforzar y repasar los contenidos presentados, con el fin  de evidenciar la comprensión de los temas presentados en el módulo.</ol>
 
 <li>¿Cuáles son las características que debe tener una contraseña segura?</li><li>b. ¿Qué herramientas permiten hacen más segura nuestras computadoras?</li><li>Qué significa Malware? ¿Qué consecuencias traen?</li><li>Explique es sus propias palabras que es la autenticación de dos factores.</ol>
 
 
 
 
-<ol>Los facilitadores darán la palabra a las personas participantes para que libremente hagan  preguntas y aclaren sus dudas.</ol>
+<ol>b. Los facilitadores darán la palabra a las personas participantes para que libremente hagan  preguntas y aclaren sus dudas.</ol>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDgyNjI3NDMsODg4MjMyNDcwLC0xOT
-U0MTYxNTgsOTY2NTk0ODUsLTE5OTg0NDg1MzcsMTMwNDY0NzUx
-MywtMTE4MTIzMTExNSwtMTc3MTc2NDU2OCwxMzMwNzg1NDM4LD
-E1NDQ0ODM4MjMsMzI3ODA1NzM4LC0xNTIzODM3ODQ3LC0xOTk4
-NjcwODAzLDEyMjI2NzE3MTUsMTY3MTcxMjAyOSwtMTU1NjI0Mj
-E5OSwtNDM4ODAzMzEzLDIxMzc1NTUyNTEsMTI0OTg4NjMxNiwt
-MTMxODY4Njc1M119
+eyJoaXN0b3J5IjpbLTExMjg3MDA5NzMsLTE0MDgyNjI3NDMsOD
+g4MjMyNDcwLC0xOTU0MTYxNTgsOTY2NTk0ODUsLTE5OTg0NDg1
+MzcsMTMwNDY0NzUxMywtMTE4MTIzMTExNSwtMTc3MTc2NDU2OC
+wxMzMwNzg1NDM4LDE1NDQ0ODM4MjMsMzI3ODA1NzM4LC0xNTIz
+ODM3ODQ3LC0xOTk4NjcwODAzLDEyMjI2NzE3MTUsMTY3MTcxMj
+AyOSwtMTU1NjI0MjE5OSwtNDM4ODAzMzEzLDIxMzc1NTUyNTEs
+MTI0OTg4NjMxNl19
 -->
