@@ -185,11 +185,14 @@ ___-Evaluación:___ Este momento final le permitirá a los y las participantes e
 
 __¿Cómo conducir la actividad?__
 
-__INTRODUCCIÓN.__<br>__Duración: 5 Minutos.__
+###__INTRODUCCIÓN.__
+__Duración: 5 Minutos.__
+
 Los facilitadores presentaran de una manera global a las personas participantes  los temas que se presentaran en el transcurso de la sesión, la metodología de trabajo (Ruta de aprendizaje) y mencionaran nuevamente los acuerdos de convivencia y participación en la sesión.  (_Presentación anexa en la carpeta de material de trabajo_)
 
 ### **CONTEXTUALIZACIÓN**
 __Duración: 1 Hora 30 Minutos.__
+
 Esta etapa estará enfocada a fortalecer conocimientos teóricos
 <ol>a.   Los facilitadores harán uso de la presentación correspondiente al módulo _Principios de Seguridad Digital 1 – Básico_ (_Presentación anexa en la carpeta de material de trabajo_)</ol>
 <ol>b. Los facilitadores realizaran  distintas actividades en el transcurso de las presentaciones, con el objetivo de que las personas participantes afiancen mejor los conceptos con ejemplos prácticos.</ol>
@@ -206,17 +209,20 @@ _Los facilitadores realizaran observaciones del orden de las tarjetas y repasara
 
 Trabajando en parejas, las personas participantes recibirán unos DADOS que vienen dentro de los materiales del KIT de Seguridad Digital, los facilitadores darán las indicaciones y suministraran el cuadernillo con la explicación de la actividad.
 
+###  Práctica
+__Duración: 2 Horas__
+
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4OTExNTUxMSwtMTk1NDE2MTU4LDk2Nj
-U5NDg1LC0xOTk4NDQ4NTM3LDEzMDQ2NDc1MTMsLTExODEyMzEx
-MTUsLTE3NzE3NjQ1NjgsMTMzMDc4NTQzOCwxNTQ0NDgzODIzLD
-MyNzgwNTczOCwtMTUyMzgzNzg0NywtMTk5ODY3MDgwMywxMjIy
-NjcxNzE1LDE2NzE3MTIwMjksLTE1NTYyNDIxOTksLTQzODgwMz
-MxMywyMTM3NTU1MjUxLDEyNDk4ODYzMTYsLTEzMTg2ODY3NTMs
-LTIxNDU2NjkzOTFdfQ==
+eyJoaXN0b3J5IjpbODU4OTI4OTc4LC0xOTU0MTYxNTgsOTY2NT
+k0ODUsLTE5OTg0NDg1MzcsMTMwNDY0NzUxMywtMTE4MTIzMTEx
+NSwtMTc3MTc2NDU2OCwxMzMwNzg1NDM4LDE1NDQ0ODM4MjMsMz
+I3ODA1NzM4LC0xNTIzODM3ODQ3LC0xOTk4NjcwODAzLDEyMjI2
+NzE3MTUsMTY3MTcxMjAyOSwtMTU1NjI0MjE5OSwtNDM4ODAzMz
+EzLDIxMzc1NTUyNTEsMTI0OTg4NjMxNiwtMTMxODY4Njc1Mywt
+MjE0NTY2OTM5MV19
 -->
