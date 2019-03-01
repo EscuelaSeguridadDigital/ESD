@@ -178,16 +178,19 @@ ___-Evaluación:___ Este momento final le permitirá a los y las participantes e
 |---|
 |Objetivo: Construir colectivamente acuerdos de convivencia y participación. “Las reglas del juego”.<br>Duración: 5 minutos.<br>Materiales requeridos:<ul><li>Tablero.</li><li>Marcadores.</li><li>Stickers de colores preferiblemente rojo y amarillo.</li></ul><br>__*¿Cómo conducir la actividad?*__<br>Esta actividad  ayudará a generar  acuerdos colectivos de convivencia, reconociendo las preferencias de las personas participantes, para que puedan sentirse cómodas, y pueda dar lugar a mayor receptividad durante la sesión.<br><br><ol>a. _Pídeles a las personas participantes que den ejemplos de acuerdos de convivencia que consideren importantes para su bienestar en la sesión. Los facilitadores pueden iniciar dando ejemplos como “levantar la mano para pedir la palabra”, “No usar dispositivos móviles durante la sesión” o “no compartiremos nada sobre la sesión en plataformas de redes sociales sin el consentimiento de las demás personas” El facilitador deberá anotar cada uno de los cuerdos en el tablero o en un lugar visible e indicar que pueden ser modificados en la medida que se discutan y consensuen en grupo._</ol><br>_Nota: Asegúrate de ofrecer a las personas participantes la opción de hacer sugerencias directamente a ti o de manera anónima en caso de que no se sientan cómodas de hacerlo abiertamente._<br><br><ol>_b._ _Los Stickers les permitirán hacer referencia a condiciones especiales a las personas participantes, pueden asignar una condición a cada color, e indicarles que pueden tomar uno y pegarlo a su Escarapela según lo vean necesario y de manera individual en cualquier momento de la sesión para no generar incomodidades. Por ejemplo:_<br><ul><li>_Rojo:_ _El contacto físico me incomoda un poco. Por favor, respeta mi espacio._</li><li>_Amarillo: No deseo salir en ningún registro fotográfico. (Toma de fotos sin consentimiento)._</li></ul>|
 
+# **Principios de Seguridad Digital 1 – Básico**
+
+**_Tiempo total: 4 Horas_**
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTg0NDg1MzcsMTMwNDY0NzUxMywtMT
-E4MTIzMTExNSwtMTc3MTc2NDU2OCwxMzMwNzg1NDM4LDE1NDQ0
-ODM4MjMsMzI3ODA1NzM4LC0xNTIzODM3ODQ3LC0xOTk4NjcwOD
-AzLDEyMjI2NzE3MTUsMTY3MTcxMjAyOSwtMTU1NjI0MjE5OSwt
-NDM4ODAzMzEzLDIxMzc1NTUyNTEsMTI0OTg4NjMxNiwtMTMxOD
-Y4Njc1MywtMjE0NTY2OTM5MSwxNjE5NzA0NzQ2LC0xNzE5Nzc0
-MDM1LC0xOTQ2MTY0NTc1XX0=
+eyJoaXN0b3J5IjpbLTExNDQ4NTMxMjUsLTE5OTg0NDg1MzcsMT
+MwNDY0NzUxMywtMTE4MTIzMTExNSwtMTc3MTc2NDU2OCwxMzMw
+Nzg1NDM4LDE1NDQ0ODM4MjMsMzI3ODA1NzM4LC0xNTIzODM3OD
+Q3LC0xOTk4NjcwODAzLDEyMjI2NzE3MTUsMTY3MTcxMjAyOSwt
+MTU1NjI0MjE5OSwtNDM4ODAzMzEzLDIxMzc1NTUyNTEsMTI0OT
+g4NjMxNiwtMTMxODY4Njc1MywtMjE0NTY2OTM5MSwxNjE5NzA0
+NzQ2LC0xNzE5Nzc0MDM1XX0=
 -->
