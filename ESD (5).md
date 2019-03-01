@@ -262,13 +262,38 @@ En esta etapa la práctica será un elemento esencial en la relación de enseña
 
 <li>Instalación y configuración _RECUVA_. Las personas participantes tendrán que crear una carpeta con información de prueba, puede ser una ya existente si lo desean, seguido a esto deberán eliminarla y proceder a vaciarla también en la papelera de reciclaje, por último las personas participantes tendrán que recuperar la carpeta con la información con el uso de _RECUVA._</li>
 
-<li>Instalación y configuración _ERASER_. -  Las personas participantes tendrán que eliminar de manera permanente un archivo de su computadora o de una USB utilizando el _ERASER_. _Nota: Los facilitadores deben estar pendientes y recordarles a las personas participantes que estén seguros de cual archivo van a eliminar, pues una vez que  el archivo se elimine con la herramienta ERASER este no se podrá recuperar._
+<li>Instalación y configuración _ERASER_. -  Las personas participantes tendrán que eliminar de manera permanente un archivo de su computadora o de una USB utilizando el _ERASER_. _Nota: Los facilitadores deben estar pendientes y recordarles a las personas participantes que estén seguros de cual archivo van a eliminar, pues una vez que  el archivo se elimine con la herramienta ERASER este no se podrá recuperar._</li>
+
+### SÍNTESIS
+Duración: 20 Minutos
+
+<ol><li type=a>
+
+Los facilitadores leerán en voz alta la siguiente afirmación: “**_Desde un punto de vista técnico, no se puede borrar algo en tu computadora._**” A continuación se les realizara las siguientes preguntas a las personas participantes:
+
+<![if !supportLists]>· <![endif]>¿Qué opinan de la afirmación?
+
+<![if !supportLists]>· <![endif]>¿Por qué no existirá una función de “borrado” real?
+
+<![if !supportLists]>· <![endif]>¿Qué crees que pasa con esos datos cuando se “elimina”?
+
+<![if !supportLists]>b. <![endif]>Los facilitadores darán la palabra a las personas participantes para que libremente hagan  preguntas y aclaren sus dudas.
+
+<![endif]-->
+
+**EVALUACIÓN**
+
+Duración: 10 Minutos
+
+Materiales requeridos: Hojas de papel con una Diana. (_Anexo en la carpeta de material de trabajo_)
+
+**_¿Cómo conducir la actividad? “LA DIANA”_**  Los facilitadores repartirán una hoja la cual tiene dibujado una _Diana_ con tres aspectos a evaluar >> ¿Qué te gusto?, ¿Qué aprendiste?, ¿Qué mejorarías? Los facilitadores darán las instrucciones a las personas participantes para que coloquen allí sus opiniones en cada uno de los aspectos indicados. Al finalizar la sesión se recogerán las hojas y se socializaran con el equipo de la EDSD.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwMTE1MzgzOSwtMTE3MjY3MTMzMiwzMD
-YzNTAzMTEsLTE0MDgyNjI3NDMsODg4MjMyNDcwLC0xOTU0MTYx
-NTgsOTY2NTk0ODUsLTE5OTg0NDg1MzcsMTMwNDY0NzUxMywtMT
-E4MTIzMTExNSwtMTc3MTc2NDU2OCwxMzMwNzg1NDM4LDE1NDQ0
-ODM4MjMsMzI3ODA1NzM4LC0xNTIzODM3ODQ3LC0xOTk4NjcwOD
-AzLDEyMjI2NzE3MTUsMTY3MTcxMjAyOSwtMTU1NjI0MjE5OSwt
-NDM4ODAzMzEzXX0=
+eyJoaXN0b3J5IjpbLTE2OTA4NzcxNzQsLTExNzI2NzEzMzIsMz
+A2MzUwMzExLC0xNDA4MjYyNzQzLDg4ODIzMjQ3MCwtMTk1NDE2
+MTU4LDk2NjU5NDg1LC0xOTk4NDQ4NTM3LDEzMDQ2NDc1MTMsLT
+ExODEyMzExMTUsLTE3NzE3NjQ1NjgsMTMzMDc4NTQzOCwxNTQ0
+NDgzODIzLDMyNzgwNTczOCwtMTUyMzgzNzg0NywtMTk5ODY3MD
+gwMywxMjIyNjcxNzE1LDE2NzE3MTIwMjksLTE1NTYyNDIxOTks
+LTQzODgwMzMxM119
 -->
