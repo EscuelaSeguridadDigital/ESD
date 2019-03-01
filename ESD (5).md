@@ -181,7 +181,7 @@ ___-Evaluación:___ Este momento final le permitirá a los y las participantes e
 # **Principios de Seguridad Digital 1 – Básico** 
 **_Tiempo total: 4 Horas_**
 
-![](SD1) 
+![](SD1.png) 
 
 __¿Cómo conducir la actividad?__
 
@@ -192,7 +192,7 @@ __INTRODUCCIÓN.__
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNDQ3Njg1Myw5NjY1OTQ4NSwtMTk5OD
+eyJoaXN0b3J5IjpbMTgyMTg1MDA1NCw5NjY1OTQ4NSwtMTk5OD
 Q0ODUzNywxMzA0NjQ3NTEzLC0xMTgxMjMxMTE1LC0xNzcxNzY0
 NTY4LDEzMzA3ODU0MzgsMTU0NDQ4MzgyMywzMjc4MDU3MzgsLT
 E1MjM4Mzc4NDcsLTE5OTg2NzA4MDMsMTIyMjY3MTcxNSwxNjcx
