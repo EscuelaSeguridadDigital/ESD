@@ -188,12 +188,11 @@ __¿Cómo conducir la actividad?__
 __INTRODUCCIÓN.__<br>__Duración: 5 Minutos.__
 Los facilitadores presentaran de una manera global a las personas participantes  los temas que se presentaran en el transcurso de la sesión, la metodología de trabajo (Ruta de aprendizaje) y mencionaran nuevamente los acuerdos de convivencia y participación en la sesión.  (_Presentación anexa en la carpeta de material de trabajo_)
 
-**CONTEXTUALIZACIÓN**<br>__Duración: 1 Hora 30 Minutos.__
+### **CONTEXTUALIZACIÓN**<br>__Duración: 1 Hora 30 Minutos.__
 Esta etapa estará enfocada a fortalecer conocimientos teóricos
 <ol>a.   Los facilitadores harán uso de la presentación correspondiente al módulo _Principios de Seguridad Digital 1 – Básico_ (_Presentación anexa en la carpeta de material de trabajo_)</ol>
 <ol>b. Los facilitadores realizaran  distintas actividades en el transcurso de las presentaciones, con el objetivo de que las personas participantes afiancen mejor los conceptos con ejemplos prácticos.</ol>
 
-<![endif]-->
 
 **ACTIVIDAD 1 - ¿CÓMO FUNCIONA INTERNET?**
 
@@ -212,11 +211,11 @@ Trabajando en parejas, las personas participantes recibirán unos DADOS que vien
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNDg4MzkyMSwtMTk1NDE2MTU4LDk2Nj
-U5NDg1LC0xOTk4NDQ4NTM3LDEzMDQ2NDc1MTMsLTExODEyMzEx
-MTUsLTE3NzE3NjQ1NjgsMTMzMDc4NTQzOCwxNTQ0NDgzODIzLD
-MyNzgwNTczOCwtMTUyMzgzNzg0NywtMTk5ODY3MDgwMywxMjIy
-NjcxNzE1LDE2NzE3MTIwMjksLTE1NTYyNDIxOTksLTQzODgwMz
-MxMywyMTM3NTU1MjUxLDEyNDk4ODYzMTYsLTEzMTg2ODY3NTMs
-LTIxNDU2NjkzOTFdfQ==
+eyJoaXN0b3J5IjpbLTE1Mzc1NTc3MTksLTE5NTQxNjE1OCw5Nj
+Y1OTQ4NSwtMTk5ODQ0ODUzNywxMzA0NjQ3NTEzLC0xMTgxMjMx
+MTE1LC0xNzcxNzY0NTY4LDEzMzA3ODU0MzgsMTU0NDQ4MzgyMy
+wzMjc4MDU3MzgsLTE1MjM4Mzc4NDcsLTE5OTg2NzA4MDMsMTIy
+MjY3MTcxNSwxNjcxNzEyMDI5LC0xNTU2MjQyMTk5LC00Mzg4MD
+MzMTMsMjEzNzU1NTI1MSwxMjQ5ODg2MzE2LC0xMzE4Njg2NzUz
+LC0yMTQ1NjY5MzkxXX0=
 -->
