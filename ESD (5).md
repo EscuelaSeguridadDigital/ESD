@@ -267,7 +267,7 @@ En esta etapa la práctica será un elemento esencial en la relación de enseña
 ### SÍNTESIS
 Duración: 20 Minutos
 
-<ol><li type=a>Los facilitadores leerán en voz alta la siguiente afirmación: “**_Desde un punto de vista técnico, no se puede borrar algo en tu computadora._**” A continuación se les realizara las siguientes preguntas a las personas participantes:<ul> <li>¿Qué opinan de la afirmación?</li><li>¿Por qué no existirá una función de “borrado” real?</li><li>¿Qué crees que pasa con esos datos cuando se “elimina”?</li></ul><li type=a> Los facilitadores darán la palabra a las personas participantes para que libremente hagan  preguntas y aclaren sus dudas.</li>
+<ol><li type=a>Los facilitadores leerán en voz alta la siguiente afirmación: “*Desde un punto de vista técnico, no se puede borrar algo en tu computadora.*” A continuación se les realizara las siguientes preguntas a las personas participantes:<ul> <li>¿Qué opinan de la afirmación?</li><li>¿Por qué no existirá una función de “borrado” real?</li><li>¿Qué crees que pasa con esos datos cuando se “elimina”?</li></ul><li type=a> Los facilitadores darán la palabra a las personas participantes para que libremente hagan  preguntas y aclaren sus dudas.</li>
 
 ### EVALUACIÓN
 Duración: 10 Minutos
@@ -275,11 +275,11 @@ Duración: 10 Minutos
 Materiales requeridos: Hojas de papel con una Diana. (_Anexo en la carpeta de material de trabajo_) 
 **_¿Cómo conducir la actividad? “LA DIANA”_**  Los facilitadores repartirán una hoja la cual tiene dibujado una _Diana_ con tres aspectos a evaluar >> ¿Qué te gusto?, ¿Qué aprendiste?, ¿Qué mejorarías? Los facilitadores darán las instrucciones a las personas participantes para que coloquen allí sus opiniones en cada uno de los aspectos indicados. Al finalizar la sesión se recogerán las hojas y se socializaran con el equipo de la EDSD.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3OTY2OTIyMSwtNzQ0MjY5NTg0LC0xMT
-cyNjcxMzMyLDMwNjM1MDMxMSwtMTQwODI2Mjc0Myw4ODgyMzI0
-NzAsLTE5NTQxNjE1OCw5NjY1OTQ4NSwtMTk5ODQ0ODUzNywxMz
-A0NjQ3NTEzLC0xMTgxMjMxMTE1LC0xNzcxNzY0NTY4LDEzMzA3
-ODU0MzgsMTU0NDQ4MzgyMywzMjc4MDU3MzgsLTE1MjM4Mzc4ND
-csLTE5OTg2NzA4MDMsMTIyMjY3MTcxNSwxNjcxNzEyMDI5LC0x
-NTU2MjQyMTk5XX0=
+eyJoaXN0b3J5IjpbMTQ5NDM3NzczMywtNDc5NjY5MjIxLC03ND
+QyNjk1ODQsLTExNzI2NzEzMzIsMzA2MzUwMzExLC0xNDA4MjYy
+NzQzLDg4ODIzMjQ3MCwtMTk1NDE2MTU4LDk2NjU5NDg1LC0xOT
+k4NDQ4NTM3LDEzMDQ2NDc1MTMsLTExODEyMzExMTUsLTE3NzE3
+NjQ1NjgsMTMzMDc4NTQzOCwxNTQ0NDgzODIzLDMyNzgwNTczOC
+wtMTUyMzgzNzg0NywtMTk5ODY3MDgwMywxMjIyNjcxNzE1LDE2
+NzE3MTIwMjldfQ==
 -->
