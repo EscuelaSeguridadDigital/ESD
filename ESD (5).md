@@ -175,14 +175,14 @@ ___-Evaluación:___ Este momento final le permitirá a los y las participantes e
 
 | PRESENTACIÓN INICIAL - PRIMERA SESIÓN <br>*Tiempo total: 15 Minutos*|  
 |---|  
-| _Bienvenida al proceso formativo de la Escuela de Seguridad Digital._ <ul><li>_Presentación de los Objetivos de la Escuela de Seguridad Digital._</li><li>_Presentación del Kit de Seguridad Digital._</li><li>Actividad: Presentación de las personas participantes.</li><li>Actividad: Reglas de Juego de los talleres de capacitación.</li></ul>|  
+| _Bienvenida al proceso formativo de la Escuela de Seguridad Digital._ <ul><li>_Presentación de los Objetivos de la Escuela de Seguridad Digital._</li><li>_Presentación del Kit de Seguridad Digital._</li><li>_Actividad: Presentación de las personas participantes._</li><li>_Actividad: Reglas de Juego de los talleres de capacitación._</li></ul>|  
 | ACTIVIDADES-PRESENTACIÓN (*Puedes escoger una de las tres actividades propuestas*)<ol><li> _Endulza tu entorno_ <br>Duración: 5 Minutos<br>Materiales requeridos:<ul><li>1 o 2 bolsas de dulces.</li><li> Escarapela y Marcadores.</li></ul><br>_¿Cómo conducir la actividad?_<br>Los facilitadores deberán ofrecerles dulces a todas las personas del grupo, indicando que puedan tomar de uno a tres dulces, al finalizar la entrega los facilitadores deberán indicar que por cada dulce tomado por el participante este debe compartir su nombre y un detalle o cualidad. Al terminar de hablar el participante deberá escribir su nombre en la escarapela y colocarlo en un lugar visible de su cuerpo.</li><br><li> _Fila India_<br>Duración:5 Minutos<br>Materiales requeridos:<ul><li>Cinta adhesiva.</li><li>Escarapela y Marcadores.</li></ul><br>_¿Cómo conducir la actividad?_<br>Se les pide a los participantes colocar su nombre en Escarapelas y colocarlos en un lugar visible de su cuerpo, luego hacemos una línea en el suelo con cinta adhesiva (preferiblemente) y les advertimos a los participantes que no se pueden salir de la línea, entonces todos los participantes se colocan sobre línea y se les pide que se ordenen por orden alfabético, pero teniendo cuidado de no dejar de pisar la línea. Se puede dar un tiempo para darle más emoción. Al final se comprueba que la fila india ha quedado bien presentándose cada uno por orden.</li><br> <li>_Crucemos nuestros nombres_<br>Duración: 5 Minutos<br>Materiales requeridos:<ul><li> Tablero.</li> <li>Escarapela y Marcadores.</li></ul><br>_¿Cómo conducir la actividad?_<br>La actividad consiste en escribir en el tablero todos los nombres unidos entre sí. Primero pueden salir los facilitadores escriben su nombre en el tablero y hacen una pequeña presentación, a que se dedica, que le gusta, cuales son las expectativas, etc… luego los demás participantes van saliendo de uno en uno, y realizan la misma metodología hasta terminar con todos. Al terminar de hablar el participante deberá escribir su nombre en la escarapela y colocarlo en un lugar visible de su cuerpo.</li></ol>|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTg2NzA4MDMsMTIyMjY3MTcxNSwxNj
-cxNzEyMDI5LC0xNTU2MjQyMTk5LC00Mzg4MDMzMTMsMjEzNzU1
-NTI1MSwxMjQ5ODg2MzE2LC0xMzE4Njg2NzUzLC0yMTQ1NjY5Mz
-kxLDE2MTk3MDQ3NDYsLTE3MTk3NzQwMzUsLTE5NDYxNjQ1NzUs
-OTM4NjU3NjA3LDE5NTY5NjcyOTksLTE1MjIxMTEzNDksLTE0Mj
-c2MTM2NDMsLTE1NzU4NjA1NCwtNDAwMTc2MjUwLC0xMTEyNTYx
-MDc0LC0xNTE2MTUyMTg3XX0=
+eyJoaXN0b3J5IjpbLTE4NjA1MjMyOSwtMTk5ODY3MDgwMywxMj
+IyNjcxNzE1LDE2NzE3MTIwMjksLTE1NTYyNDIxOTksLTQzODgw
+MzMxMywyMTM3NTU1MjUxLDEyNDk4ODYzMTYsLTEzMTg2ODY3NT
+MsLTIxNDU2NjkzOTEsMTYxOTcwNDc0NiwtMTcxOTc3NDAzNSwt
+MTk0NjE2NDU3NSw5Mzg2NTc2MDcsMTk1Njk2NzI5OSwtMTUyMj
+ExMTM0OSwtMTQyNzYxMzY0MywtMTU3NTg2MDU0LC00MDAxNzYy
+NTAsLTExMTI1NjEwNzRdfQ==
 -->
