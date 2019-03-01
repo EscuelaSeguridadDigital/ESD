@@ -176,18 +176,18 @@ ___-Evaluación:___ Este momento final le permitirá a los y las participantes e
 
 |  **ACTIVIDAD-REGLAS DE JUEGO** <br>___Reglas del Juego___ |
 |---|
-|Objetivo: Construir colectivamente acuerdos de convivencia y participación. “Las reglas del juego”.<br>Duración: 5 minutos.<br>Materiales requeridos:<ul><li>Tablero.</li><li>Marcadores.</li><li>Stickers de colores preferiblemente rojo y amarillo.</li></ul><br>__*¿Cómo conducir la actividad?*__<br>Esta actividad  ayudará a generar  acuerdos colectivos de convivencia, reconociendo las preferencias de las personas participantes, para que puedan sentirse cómodas, y pueda dar lugar a mayor receptividad durante la sesión.<br><br><ol>a. _Pídeles a las personas participantes que den ejemplos de acuerdos de convivencia que consideren importantes para su bienestar en la sesión. Los facilitadores pueden iniciar dando ejemplos como “levantar la mano para pedir la palabra”, “No usar dispositivos móviles durante la sesión” o “no compartiremos nada sobre la sesión en plataformas de redes sociales sin el consentimiento de las demás personas” El facilitador deberá anotar cada uno de los cuerdos en el tablero o en un lugar visible e indicar que pueden ser modificados en la medida que se discutan y consensuen en grupo._<br><br>_Nota: Asegúrate de ofrecer a las personas participantes la opción de hacer sugerencias directamente a ti o de manera anónima en caso de que no se sientan cómodas de hacerlo abiertamente._|
+|Objetivo: Construir colectivamente acuerdos de convivencia y participación. “Las reglas del juego”.<br>Duración: 5 minutos.<br>Materiales requeridos:<ul><li>Tablero.</li><li>Marcadores.</li><li>Stickers de colores preferiblemente rojo y amarillo.</li></ul><br>__*¿Cómo conducir la actividad?*__<br>Esta actividad  ayudará a generar  acuerdos colectivos de convivencia, reconociendo las preferencias de las personas participantes, para que puedan sentirse cómodas, y pueda dar lugar a mayor receptividad durante la sesión.<br><br><ol>a. _Pídeles a las personas participantes que den ejemplos de acuerdos de convivencia que consideren importantes para su bienestar en la sesión. Los facilitadores pueden iniciar dando ejemplos como “levantar la mano para pedir la palabra”, “No usar dispositivos móviles durante la sesión” o “no compartiremos nada sobre la sesión en plataformas de redes sociales sin el consentimiento de las demás personas” El facilitador deberá anotar cada uno de los cuerdos en el tablero o en un lugar visible e indicar que pueden ser modificados en la medida que se discutan y consensuen en grupo._</ol><br><br>_Nota: Asegúrate de ofrecer a las personas participantes la opción de hacer sugerencias directamente a ti o de manera anónima en caso de que no se sientan cómodas de hacerlo abiertamente._|
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0MDExMDUzMSwtMTE4MTIzMTExNSwtMT
-c3MTc2NDU2OCwxMzMwNzg1NDM4LDE1NDQ0ODM4MjMsMzI3ODA1
-NzM4LC0xNTIzODM3ODQ3LC0xOTk4NjcwODAzLDEyMjI2NzE3MT
-UsMTY3MTcxMjAyOSwtMTU1NjI0MjE5OSwtNDM4ODAzMzEzLDIx
-Mzc1NTUyNTEsMTI0OTg4NjMxNiwtMTMxODY4Njc1MywtMjE0NT
-Y2OTM5MSwxNjE5NzA0NzQ2LC0xNzE5Nzc0MDM1LC0xOTQ2MTY0
-NTc1LDkzODY1NzYwN119
+eyJoaXN0b3J5IjpbNTEyODcxMjExLC0xMTgxMjMxMTE1LC0xNz
+cxNzY0NTY4LDEzMzA3ODU0MzgsMTU0NDQ4MzgyMywzMjc4MDU3
+MzgsLTE1MjM4Mzc4NDcsLTE5OTg2NzA4MDMsMTIyMjY3MTcxNS
+wxNjcxNzEyMDI5LC0xNTU2MjQyMTk5LC00Mzg4MDMzMTMsMjEz
+NzU1NTI1MSwxMjQ5ODg2MzE2LC0xMzE4Njg2NzUzLC0yMTQ1Nj
+Y5MzkxLDE2MTk3MDQ3NDYsLTE3MTk3NzQwMzUsLTE5NDYxNjQ1
+NzUsOTM4NjU3NjA3XX0=
 -->
