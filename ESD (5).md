@@ -241,12 +241,12 @@ Los facilitadores presentaran de una manera global a las personas participantes 
 Duración: 1 Hora 30 Minutos
 
 Esta etapa estará enfocada a fortalecer conocimientos teóricos
-<ol> <li type_a> Los facilitadores harán uso de la presentación correspondiente al módulo _Principios de Seguridad Digital 2 – Intermedio_ (_Presentación anexa en la carpeta de material de trabajo_)</ol>
+<ol> <li type=a> Los facilitadores harán uso de la presentación correspondiente al módulo _Principios de Seguridad Digital 2 – Intermedio_ (_Presentación anexa en la carpeta de material de trabajo_)</li><li type=a>Los facilitadores realizaran  distintas actividades en el transcurso de las presentaciones, con el objetivo de que las personas participantes afiancen mejor la teoría con ejemplos prácticos.</li></ol>
 
 
-<![if !supportLists]>b. <![endif]>Los facilitadores realizaran  distintas actividades en el transcurso de las presentaciones, con el objetivo de que las personas participantes afiancen mejor la teoría con ejemplos prácticos.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1OTc1ODAxOCwtMTE3MjY3MTMzMiwzMD
+eyJoaXN0b3J5IjpbMTYwMDIzODExNSwtMTE3MjY3MTMzMiwzMD
 YzNTAzMTEsLTE0MDgyNjI3NDMsODg4MjMyNDcwLC0xOTU0MTYx
 NTgsOTY2NTk0ODUsLTE5OTg0NDg1MzcsMTMwNDY0NzUxMywtMT
 E4MTIzMTExNSwtMTc3MTc2NDU2OCwxMzMwNzg1NDM4LDE1NDQ0
