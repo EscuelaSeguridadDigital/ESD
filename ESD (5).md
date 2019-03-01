@@ -194,21 +194,17 @@ Materiales requeridos:
 
 Se les pide a los participantes colocar su nombre en Escarapelas y colocarlos en un lugar visible de su cuerpo, luego hacemos una línea en el suelo con cinta adhesiva (preferiblemente) y les advertimos a los participantes que no se pueden salir de la línea, entonces todos los participantes se colocan sobre línea y se les pide que se ordenen por orden alfabético, pero teniendo cuidado de no dejar de pisar la línea. Se puede dar un tiempo para darle más emoción. Al final se comprueba que la fila india ha quedado bien presentándose cada uno por orden.
 
-<![if !supportLists]>**_3._** <![endif]>**_Crucemos nuestros nombres_**
-
+ ___3. Crucemos nuestros nombres___
 Duración: 5 Minutos
-
 Materiales requeridos:
-
-<![if !supportLists]>· <![endif]>Tablero.
-
-<![if !supportLists]>· <![endif]>Escarapela y Marcadores.
+ - Tablero.
+ -  Escarapela y Marcadores.
 
 **_¿Cómo conducir la actividad?_**
 
 La actividad consiste en escribir en el tablero todos los nombres unidos entre sí. Primero pueden salir los facilitadores escriben su nombre en el tablero y hacen una pequeña presentación, a que se dedica, que le gusta, cuales son las expectativas, etc… luego los demás participantes van saliendo de uno en uno, y realizan la misma metodología hasta terminar con todos.  Al terminar de hablar el participante deberá escribir su nombre en la escarapela y colocarlo en un lugar visible de su cuerpo.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4NTQ0NTE0NywtNDM4ODAzMzEzLDIxMz
+eyJoaXN0b3J5IjpbLTIyNjYwOTgxNSwtNDM4ODAzMzEzLDIxMz
 c1NTUyNTEsMTI0OTg4NjMxNiwtMTMxODY4Njc1MywtMjE0NTY2
 OTM5MSwxNjE5NzA0NzQ2LC0xNzE5Nzc0MDM1LC0xOTQ2MTY0NT
 c1LDkzODY1NzYwNywxOTU2OTY3Mjk5LC0xNTIyMTExMzQ5LC0x
