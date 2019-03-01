@@ -190,7 +190,7 @@ Los facilitadores presentaran de una manera global a las personas participantes 
 
 **CONTEXTUALIZACIÓN**<br>__Duración: 1 Hora 30 Minutos.__
 Esta etapa estará enfocada a fortalecer conocimientos teóricos
-<ul><l>
+<ul><ol><a. <![endif]>Los facilitadores harán uso de la presentación correspondiente al módulo _Principios de Seguridad Digital 1 – Básico_ (_Presentación anexa en la carpeta de material de trabajo_)<br>Los facilitadores realizaran  distintas actividades en el transcurso de las presentaciones, con el objetivo de que las personas participantes afiancen mejor los conceptos con ejemplos prácticos.</ol>
 
 
 
@@ -200,11 +200,11 @@ Esta etapa estará enfocada a fortalecer conocimientos teóricos
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzUyNjIyMTEsLTE5NTQxNjE1OCw5Nj
-Y1OTQ4NSwtMTk5ODQ0ODUzNywxMzA0NjQ3NTEzLC0xMTgxMjMx
-MTE1LC0xNzcxNzY0NTY4LDEzMzA3ODU0MzgsMTU0NDQ4MzgyMy
-wzMjc4MDU3MzgsLTE1MjM4Mzc4NDcsLTE5OTg2NzA4MDMsMTIy
-MjY3MTcxNSwxNjcxNzEyMDI5LC0xNTU2MjQyMTk5LC00Mzg4MD
-MzMTMsMjEzNzU1NTI1MSwxMjQ5ODg2MzE2LC0xMzE4Njg2NzUz
-LC0yMTQ1NjY5MzkxXX0=
+eyJoaXN0b3J5IjpbMTA4ODEzNTMwNSwtMTk1NDE2MTU4LDk2Nj
+U5NDg1LC0xOTk4NDQ4NTM3LDEzMDQ2NDc1MTMsLTExODEyMzEx
+MTUsLTE3NzE3NjQ1NjgsMTMzMDc4NTQzOCwxNTQ0NDgzODIzLD
+MyNzgwNTczOCwtMTUyMzgzNzg0NywtMTk5ODY3MDgwMywxMjIy
+NjcxNzE1LDE2NzE3MTIwMjksLTE1NTYyNDIxOTksLTQzODgwMz
+MxMywyMTM3NTU1MjUxLDEyNDk4ODYzMTYsLTEzMTg2ODY3NTMs
+LTIxNDU2NjkzOTFdfQ==
 -->
