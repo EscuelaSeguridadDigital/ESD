@@ -222,12 +222,13 @@ __Duración: 15 Minutos__
 <ol><li type=a > Los facilitadores realizaran algunas preguntas claves que permitirán reforzar y repasar los contenidos presentados, con el fin  de evidenciar la comprensión de los temas presentados en el módulo.</li><ul><li> ¿Cuáles son las características que debe tener una contraseña segura? </li><li> ¿Qué herramientas permiten hacen más segura nuestras computadoras?</li><li>¿Qué significa Malware? ¿Qué consecuencias traen?</li><li> Explique es sus propias palabras que es la autenticación de dos factores.</li></ul><li type=a>Los facilitadores darán la palabra a las personas participantes para que libremente hagan  preguntas y aclaren sus dudas.</li></ol>
 
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA2MzUwMzExLC0xNDA4MjYyNzQzLDg4OD
-IzMjQ3MCwtMTk1NDE2MTU4LDk2NjU5NDg1LC0xOTk4NDQ4NTM3
-LDEzMDQ2NDc1MTMsLTExODEyMzExMTUsLTE3NzE3NjQ1NjgsMT
-MzMDc4NTQzOCwxNTQ0NDgzODIzLDMyNzgwNTczOCwtMTUyMzgz
-Nzg0NywtMTk5ODY3MDgwMywxMjIyNjcxNzE1LDE2NzE3MTIwMj
-ksLTE1NTYyNDIxOTksLTQzODgwMzMxMywyMTM3NTU1MjUxLDEy
-NDk4ODYzMTZdfQ==
+eyJoaXN0b3J5IjpbODM0OTExNTcsMzA2MzUwMzExLC0xNDA4Mj
+YyNzQzLDg4ODIzMjQ3MCwtMTk1NDE2MTU4LDk2NjU5NDg1LC0x
+OTk4NDQ4NTM3LDEzMDQ2NDc1MTMsLTExODEyMzExMTUsLTE3Nz
+E3NjQ1NjgsMTMzMDc4NTQzOCwxNTQ0NDgzODIzLDMyNzgwNTcz
+OCwtMTUyMzgzNzg0NywtMTk5ODY3MDgwMywxMjIyNjcxNzE1LD
+E2NzE3MTIwMjksLTE1NTYyNDIxOTksLTQzODgwMzMxMywyMTM3
+NTU1MjUxXX0=
 -->
