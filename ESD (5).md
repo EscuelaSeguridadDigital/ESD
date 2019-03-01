@@ -243,10 +243,22 @@ Duración: 1 Hora 30 Minutos
 Esta etapa estará enfocada a fortalecer conocimientos teóricos
 <ol> <li type=a> Los facilitadores harán uso de la presentación correspondiente al módulo _Principios de Seguridad Digital 2 – Intermedio_ (_Presentación anexa en la carpeta de material de trabajo_)</li><li type=a>Los facilitadores realizaran  distintas actividades en el transcurso de las presentaciones, con el objetivo de que las personas participantes afiancen mejor la teoría con ejemplos prácticos.</li></ol>
 
+<![endif]-->
 
+**ACTIVIDAD 1 – EL A, B, C DE LA INFORMACIÓN**
+
+Los facilitadores dividirán a las personas participantes en tres grupos, donde cada uno de ellos tendrá actividades diferentes:
+
+<li>Grupo A_**: Elaborara un listado de que tipos de archivos o información importante que manejan tanto en computadores como en dispositivos móviles, cada uno de ellos se debe colocar en una cartulina diferente.
+
+<![if !supportLists]>· <![endif]>**_Grupo B_**: Elaborara un listado de mecanismos o formas en las que se puede perder información, cada uno de ellos se debe colocar en una cartulina diferente.
+
+<![if !supportLists]>· <![endif]>**_Grupo C_**: Elaborara un listado con modos de prevención que conozcan en el manejo de la información (Herramientas o prácticas), cada uno de ellos se debe colocar en una cartulina diferente.
+
+Una vez finalizada la instrucción, se pasará a realizar un mapeo juntando la información y se socializaran con todos los grupos.  Se corregirán los posibles errores y se aclararán dudas que puedan surgir.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMDIzODExNSwtMTE3MjY3MTMzMiwzMD
+eyJoaXN0b3J5IjpbLTQxMzgxMTk3MywtMTE3MjY3MTMzMiwzMD
 YzNTAzMTEsLTE0MDgyNjI3NDMsODg4MjMyNDcwLC0xOTU0MTYx
 NTgsOTY2NTk0ODUsLTE5OTg0NDg1MzcsMTMwNDY0NzUxMywtMT
 E4MTIzMTExNSwtMTc3MTc2NDU2OCwxMzMwNzg1NDM4LDE1NDQ0
