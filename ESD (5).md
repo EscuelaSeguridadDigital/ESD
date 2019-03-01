@@ -236,8 +236,17 @@ _¿Cómo conducir la actividad?_
 Duración: 5 Minutos
 
 Los facilitadores presentaran de una manera global a las personas participantes  los temas que se presentaran en el transcurso de la sesión, la metodología de trabajo (Ruta de aprendizaje) y mencionaran nuevamente los acuerdos de convivencia y participación en la sesión.  (_Presentación anexa en la carpeta de material de trabajo_)
+
+### CONTEXTUALIZACIÓN
+Duración: 1 Hora 30 Minutos
+
+Esta etapa estará enfocada a fortalecer conocimientos teóricos
+<ol> </ol>
+<![if !supportLists]>a. <![endif]>Los facilitadores harán uso de la presentación correspondiente al módulo _Principios de Seguridad Digital 2 – Intermedio_ (_Presentación anexa en la carpeta de material de trabajo_)
+
+<![if !supportLists]>b. <![endif]>Los facilitadores realizaran  distintas actividades en el transcurso de las presentaciones, con el objetivo de que las personas participantes afiancen mejor la teoría con ejemplos prácticos.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzODc5NDQyNiwtMTE3MjY3MTMzMiwzMD
+eyJoaXN0b3J5IjpbMTUxODI0MzA5NCwtMTE3MjY3MTMzMiwzMD
 YzNTAzMTEsLTE0MDgyNjI3NDMsODg4MjMyNDcwLC0xOTU0MTYx
 NTgsOTY2NTk0ODUsLTE5OTg0NDg1MzcsMTMwNDY0NzUxMywtMT
 E4MTIzMTExNSwtMTc3MTc2NDU2OCwxMzMwNzg1NDM4LDE1NDQ0
