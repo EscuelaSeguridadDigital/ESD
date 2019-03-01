@@ -220,7 +220,7 @@ En esta etapa la práctica será un elemento esencial en la relación de enseña
 **SÍNTESIS**
 __Duración: 15 Minutos__
 
-<ol>
+
 <ol> Los facilitadores realizaran algunas preguntas claves que permitirán reforzar y repasar los contenidos presentados, con el fin  de evidenciar la comprensión de los temas presentados en el módulo.</ol>
 
 <![if !supportLists]>· <![endif]>¿Cuáles son las características que debe tener una contraseña segura?
@@ -233,11 +233,11 @@ __Duración: 15 Minutos__
 
 <![if !supportLists]>b. <![endif]>Los facilitadores darán la palabra a las personas participantes para que libremente hagan  preguntas y aclaren sus dudas.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI0NzA5NDUsLTE5NTQxNjE1OCw5NjY1OT
-Q4NSwtMTk5ODQ0ODUzNywxMzA0NjQ3NTEzLC0xMTgxMjMxMTE1
-LC0xNzcxNzY0NTY4LDEzMzA3ODU0MzgsMTU0NDQ4MzgyMywzMj
-c4MDU3MzgsLTE1MjM4Mzc4NDcsLTE5OTg2NzA4MDMsMTIyMjY3
-MTcxNSwxNjcxNzEyMDI5LC0xNTU2MjQyMTk5LC00Mzg4MDMzMT
-MsMjEzNzU1NTI1MSwxMjQ5ODg2MzE2LC0xMzE4Njg2NzUzLC0y
-MTQ1NjY5MzkxXX0=
+eyJoaXN0b3J5IjpbLTE0NDU5MTI0ODQsLTE5NTQxNjE1OCw5Nj
+Y1OTQ4NSwtMTk5ODQ0ODUzNywxMzA0NjQ3NTEzLC0xMTgxMjMx
+MTE1LC0xNzcxNzY0NTY4LDEzMzA3ODU0MzgsMTU0NDQ4MzgyMy
+wzMjc4MDU3MzgsLTE1MjM4Mzc4NDcsLTE5OTg2NzA4MDMsMTIy
+MjY3MTcxNSwxNjcxNzEyMDI5LC0xNTU2MjQyMTk5LC00Mzg4MD
+MzMTMsMjEzNzU1NTI1MSwxMjQ5ODg2MzE2LC0xMzE4Njg2NzUz
+LC0yMTQ1NjY5MzkxXX0=
 -->
