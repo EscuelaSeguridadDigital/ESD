@@ -181,29 +181,17 @@ ___-Evaluación:___ Este momento final le permitirá a los y las participantes e
 # **Principios de Seguridad Digital 1 – Básico** 
 **_Tiempo total: 4 Horas_**
 
-|<![endif]-->
-
-_En este módulo los participantes conocerán cómo funciona Internet, los métodos de navegación más seguros, cómo proteger la computadora contra malware y acceso sin consentimiento a la información._
-
-<![if !supportLists]>· <![endif]>_¿Cómo funciona Internet?_
-
-<![if !supportLists]>· <![endif]>_Como hacer más segura nuestra computadora._
-
-<![if !supportLists]>· <![endif]>_Malware y Virus._
-
-<![if !supportLists]>· <![endif]>_Creación de contraseñas seguras._
-
-<![if !supportLists]>· <![endif]>_Autenticación de dos factores._ |
+![](SD1) 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODQzMTc2MDAsLTE5OTg0NDg1MzcsMT
-MwNDY0NzUxMywtMTE4MTIzMTExNSwtMTc3MTc2NDU2OCwxMzMw
-Nzg1NDM4LDE1NDQ0ODM4MjMsMzI3ODA1NzM4LC0xNTIzODM3OD
-Q3LC0xOTk4NjcwODAzLDEyMjI2NzE3MTUsMTY3MTcxMjAyOSwt
-MTU1NjI0MjE5OSwtNDM4ODAzMzEzLDIxMzc1NTUyNTEsMTI0OT
-g4NjMxNiwtMTMxODY4Njc1MywtMjE0NTY2OTM5MSwxNjE5NzA0
-NzQ2LC0xNzE5Nzc0MDM1XX0=
+eyJoaXN0b3J5IjpbOTY2NTk0ODUsLTE5OTg0NDg1MzcsMTMwND
+Y0NzUxMywtMTE4MTIzMTExNSwtMTc3MTc2NDU2OCwxMzMwNzg1
+NDM4LDE1NDQ0ODM4MjMsMzI3ODA1NzM4LC0xNTIzODM3ODQ3LC
+0xOTk4NjcwODAzLDEyMjI2NzE3MTUsMTY3MTcxMjAyOSwtMTU1
+NjI0MjE5OSwtNDM4ODAzMzEzLDIxMzc1NTUyNTEsMTI0OTg4Nj
+MxNiwtMTMxODY4Njc1MywtMjE0NTY2OTM5MSwxNjE5NzA0NzQ2
+LC0xNzE5Nzc0MDM1XX0=
 -->
