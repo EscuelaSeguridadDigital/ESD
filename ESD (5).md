@@ -178,7 +178,7 @@ ___-Evaluación:___ Este momento final le permitirá a los y las participantes e
 |---|
 |Objetivo: Construir colectivamente acuerdos de convivencia y participación. “Las reglas del juego”.<br>Duración: 5 minutos.<br>Materiales requeridos:<ul><li>Tablero.</li><li>Marcadores.</li><li>Stickers de colores preferiblemente rojo y amarillo.</li></ul><br>__*¿Cómo conducir la actividad?*__<br>Esta actividad  ayudará a generar  acuerdos colectivos de convivencia, reconociendo las preferencias de las personas participantes, para que puedan sentirse cómodas, y pueda dar lugar a mayor receptividad durante la sesión.<br><br><ol>a. _Pídeles a las personas participantes que den ejemplos de acuerdos de convivencia que consideren importantes para su bienestar en la sesión. Los facilitadores pueden iniciar dando ejemplos como “levantar la mano para pedir la palabra”, “No usar dispositivos móviles durante la sesión” o “no compartiremos nada sobre la sesión en plataformas de redes sociales sin el consentimiento de las demás personas” El facilitador deberá anotar cada uno de los cuerdos en el tablero o en un lugar visible e indicar que pueden ser modificados en la medida que se discutan y consensuen en grupo._</ol><br>_Nota: Asegúrate de ofrecer a las personas participantes la opción de hacer sugerencias directamente a ti o de manera anónima en caso de que no se sientan cómodas de hacerlo abiertamente._<br><br><ol>_b._ _Los Stickers les permitirán hacer referencia a condiciones especiales a las personas participantes, pueden asignar una condición a cada color, e indicarles que pueden tomar uno y pegarlo a su Escarapela según lo vean necesario y de manera individual en cualquier momento de la sesión para no generar incomodidades. Por ejemplo:_<br><ul><li>_Rojo:_ _El contacto físico me incomoda un poco. Por favor, respeta mi espacio._</li><li>_Amarillo: No deseo salir en ningún registro fotográfico. (Toma de fotos sin consentimiento)._</li></ul>|
 
-# **Principios de Seguridad Digital 1 – Básico** 
+# Principios de Seguridad Digital 1 – Básico
 **_Tiempo total: 4 Horas_**
 
 ![](SD1.png) 
@@ -223,15 +223,19 @@ __Duración: 15 Minutos__
 
 ### EVALUACIÓN
 __Duración: 10 Minutos__
+
 Materiales requeridos: Hojas de papel con un termómetro. (_Anexo en la carpeta de material de trabajo_) **_¿Cómo conducir la actividad?_**  **_“EL TERMÓMETRO”_**  Los facilitadores repartirán una hoja la cual tiene dibujado un termómetro con tres aspectos a evaluar >> ¿Qué te gusto?, ¿Qué aprendiste?, ¿Qué mejorarías? Los facilitadores darán las instrucciones a las personas participantes para que coloquen allí sus opiniones en cada uno de los aspectos indicados. Al finalizar la sesión se recogerán las hojas y se socializaran con el equipo de la EDSD.
+<![endif]-->
+
+# Principios de Seguridad Digital 2 – Intermedio
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzI2NzEzMzIsMzA2MzUwMzExLC0xND
-A4MjYyNzQzLDg4ODIzMjQ3MCwtMTk1NDE2MTU4LDk2NjU5NDg1
-LC0xOTk4NDQ4NTM3LDEzMDQ2NDc1MTMsLTExODEyMzExMTUsLT
-E3NzE3NjQ1NjgsMTMzMDc4NTQzOCwxNTQ0NDgzODIzLDMyNzgw
-NTczOCwtMTUyMzgzNzg0NywtMTk5ODY3MDgwMywxMjIyNjcxNz
-E1LDE2NzE3MTIwMjksLTE1NTYyNDIxOTksLTQzODgwMzMxMywy
-MTM3NTU1MjUxXX0=
+eyJoaXN0b3J5IjpbNzMzMTU0NzA2LC0xMTcyNjcxMzMyLDMwNj
+M1MDMxMSwtMTQwODI2Mjc0Myw4ODgyMzI0NzAsLTE5NTQxNjE1
+OCw5NjY1OTQ4NSwtMTk5ODQ0ODUzNywxMzA0NjQ3NTEzLC0xMT
+gxMjMxMTE1LC0xNzcxNzY0NTY4LDEzMzA3ODU0MzgsMTU0NDQ4
+MzgyMywzMjc4MDU3MzgsLTE1MjM4Mzc4NDcsLTE5OTg2NzA4MD
+MsMTIyMjY3MTcxNSwxNjcxNzEyMDI5LC0xNTU2MjQyMTk5LC00
+Mzg4MDMzMTNdfQ==
 -->
