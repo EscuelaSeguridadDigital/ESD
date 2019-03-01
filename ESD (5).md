@@ -176,18 +176,18 @@ ___-Evaluación:___ Este momento final le permitirá a los y las participantes e
 
 |  **ACTIVIDAD-REGLAS DE JUEGO** <br>___Reglas del Juego___ |
 |---|
-|Objetivo: Construir colectivamente acuerdos de convivencia y participación. “Las reglas del juego”.<br>Duración: 5 minutos.<br>Materiales requeridos:<ul><li>Tablero.</li>|
+|Objetivo: Construir colectivamente acuerdos de convivencia y participación. “Las reglas del juego”.<br>Duración: 5 minutos.<br>Materiales requeridos:<ul><li>Tablero.</li><li>Marcadores.</li><li>Stickers de colores preferiblemente rojo y amarillo.</li></ul>|
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY3MDIwODk5LC0xNzcxNzY0NTY4LDEzMz
-A3ODU0MzgsMTU0NDQ4MzgyMywzMjc4MDU3MzgsLTE1MjM4Mzc4
-NDcsLTE5OTg2NzA4MDMsMTIyMjY3MTcxNSwxNjcxNzEyMDI5LC
-0xNTU2MjQyMTk5LC00Mzg4MDMzMTMsMjEzNzU1NTI1MSwxMjQ5
-ODg2MzE2LC0xMzE4Njg2NzUzLC0yMTQ1NjY5MzkxLDE2MTk3MD
-Q3NDYsLTE3MTk3NzQwMzUsLTE5NDYxNjQ1NzUsOTM4NjU3NjA3
-LDE5NTY5NjcyOTldfQ==
+eyJoaXN0b3J5IjpbMTMyNjIzMjU2MSwtMTc3MTc2NDU2OCwxMz
+MwNzg1NDM4LDE1NDQ0ODM4MjMsMzI3ODA1NzM4LC0xNTIzODM3
+ODQ3LC0xOTk4NjcwODAzLDEyMjI2NzE3MTUsMTY3MTcxMjAyOS
+wtMTU1NjI0MjE5OSwtNDM4ODAzMzEzLDIxMzc1NTUyNTEsMTI0
+OTg4NjMxNiwtMTMxODY4Njc1MywtMjE0NTY2OTM5MSwxNjE5Nz
+A0NzQ2LC0xNzE5Nzc0MDM1LC0xOTQ2MTY0NTc1LDkzODY1NzYw
+NywxOTU2OTY3Mjk5XX0=
 -->
