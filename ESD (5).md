@@ -105,11 +105,13 @@ ___-Evaluación:___ Este momento final le permitirá a los y las participantes e
 
 # Estructura de contenidos
 
+
 | _**01 - Principios de Seguridad Digital 1 - Básico**_ |  
 |---|  
 | _**(4 Horas)**_ |  
 | En este módulo los participantes conocerán cómo funciona Internet, los métodos de navegación más seguros, cómo proteger la computadora contra malware y acceso sin consentimiento a la información.|  
 |<ul><li>¿Cómo funciona Internet?</li><li>Como hacer más segura nuestra computadora.</li><li>Malware y Virus.</li><li>Creación de contraseñas seguras.</li><li>Autenticación de dos factores.</li></ul>|
+
 
 | _**02 - Principios de Seguridad Digital 2 - Intermedio**_ |  
 |---|  
@@ -118,17 +120,20 @@ ___-Evaluación:___ Este momento final le permitirá a los y las participantes e
 |<ul><li>Recuperación de información.</li><li>Eliminación permanente de información.</li><li>Copias de Seguridad de la Información.</li><li>Almacenamiento y Cifrado>Recuperación de información.</li></ul>|
 
 
+
 | _**03 - Anonimato 1 - Básico**_ |  
 |---|  
 | _**(4 Horas)**_ |  
 |En este módulo los participantes conseguirán identificar cuando sus datos e información son utilizados para fines comerciales y así mismo tomar las correctivos correspondientes para que esto no suceda. |  
 |<ul><li>Navegadores y motores de búsqueda.</li><li>¿Qué son los metadatos?</li><li>Pautas de navegación segura.</li><li>Buenas prácticas de navegación.</li></ul>|
 
+
 | _**04 - Anonimato 2 - Intermedio**_ |  
 |---|  
 | _**(4 Horas)**_ |  
 | En este módulo los participantes lograrán reconocer los espacios virtuales para así obtener un control de las identidades y rastros que dejan en Internet. |  
 |<ul><li>Virtual Private Network (VPN)</li><li>Protocolos seguros de navegación HTTPS y certificados de seguridad SSL</li><li>Navegador TOR - Sistema Operativo TAILS</li></ul>|
+
 
 | _**05 - Servidores de Correo electrónico seguro 1 – Básico**_ |  
 |---|  
@@ -144,17 +149,20 @@ ___-Evaluación:___ Este momento final le permitirá a los y las participantes e
 |En este módulo los participantes conocerán y trabajaran algunas de las formas que hay para cifrar los mensajes en los servicios de correo electrónico por medio de herramientas fáciles y gratuitas. |  
 |<ul><li>Mensajes cifrados.</li><li>Funcionamiento de PGP.</li><li>Protección de la comunicación utilizando SSL/TLS.</li><li>Instalación y configuración de Enigmail.</li><l1>Importancia del correo cifrado.</li></ul>|
 
+
 | _**07 - Celulares y comunicación segura**_ |  
 |---|  
 | _**(4 Horas)**_ |  
 |Con este módulo los participantes comprenderán el funcionamiento de los dispositivos móviles, adquirirán conocimientos que les servirán para tener más control sobre la información que almacenan en estos dispositivos.|  
 |<ul><li>Reconocimiento del celular.</li><li>Manejo de información en el dispositivo móvil.</li><li>Apps & Plataformas online: ¿Amigo/a o enemigo/a?</li></ul>|
 
+
 | _**08 - Redes Sociales**_ |  
 |---|  
 | _**(4 Horas)**_ |  
 |Para este módulo los participantes aprenderán a reconocer y abordar los riesgos a los cuales se exponen  al momento de publicar cierta información en Redes sociales, por medio de pautas que le permitirán mitigar las vulnerabilidades a las cuales están más expuestos.|  
 |<ul><li>Configuración de opciones de seguridad y privacidad.</li><li>Recomendaciones para el Uso Seguro de Internet y las Redes Sociales.</li><li>Impacto de la información que se publica en redes sociales.</li><li>Modelo de negocio y riesgos de las redes sociales.</li></ul>|
+
 
 # Agenda de Implementación
 
@@ -168,11 +176,11 @@ ___-Evaluación:___ Este momento final le permitirá a los y las participantes e
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzNzU1NTI1MSwxMjQ5ODg2MzE2LC0xMz
-E4Njg2NzUzLC0yMTQ1NjY5MzkxLDE2MTk3MDQ3NDYsLTE3MTk3
-NzQwMzUsLTE5NDYxNjQ1NzUsOTM4NjU3NjA3LDE5NTY5NjcyOT
-ksLTE1MjIxMTEzNDksLTE0Mjc2MTM2NDMsLTE1NzU4NjA1NCwt
-NDAwMTc2MjUwLC0xMTEyNTYxMDc0LC0xNTE2MTUyMTg3LDM5Nz
-IyNzA0NSwxNzcxMDE5MTAwLDEwMTQxMjgxNDgsLTEzMDIwNjcx
-ODAsLTcyMDcyMjU4OV19
+eyJoaXN0b3J5IjpbLTQzODgwMzMxMywyMTM3NTU1MjUxLDEyND
+k4ODYzMTYsLTEzMTg2ODY3NTMsLTIxNDU2NjkzOTEsMTYxOTcw
+NDc0NiwtMTcxOTc3NDAzNSwtMTk0NjE2NDU3NSw5Mzg2NTc2MD
+csMTk1Njk2NzI5OSwtMTUyMjExMTM0OSwtMTQyNzYxMzY0Mywt
+MTU3NTg2MDU0LC00MDAxNzYyNTAsLTExMTI1NjEwNzQsLTE1MT
+YxNTIxODcsMzk3MjI3MDQ1LDE3NzEwMTkxMDAsMTAxNDEyODE0
+OCwtMTMwMjA2NzE4MF19
 -->
