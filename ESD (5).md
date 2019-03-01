@@ -229,7 +229,9 @@ Materiales requeridos: Hojas de papel con un termómetro. (_Anexo en la carpeta 
 
 # Principios de Seguridad Digital 2 – Intermedio
 
-![](SD2.png)
+![](SD2.png
+
+
 _¿Cómo conducir la actividad?_
 
 ### INTRODUCCIÓN
@@ -242,8 +244,6 @@ Duración: 1 Hora 30 Minutos
 
 Esta etapa estará enfocada a fortalecer conocimientos teóricos
 <ol> <li type=a> Los facilitadores harán uso de la presentación correspondiente al módulo _Principios de Seguridad Digital 2 – Intermedio_ (_Presentación anexa en la carpeta de material de trabajo_)</li><li type=a>Los facilitadores realizaran  distintas actividades en el transcurso de las presentaciones, con el objetivo de que las personas participantes afiancen mejor la teoría con ejemplos prácticos.</li></ol>
-
-<![endif]-->
 
 **ACTIVIDAD 1 – EL A, B, C DE LA INFORMACIÓN**
 
@@ -275,11 +275,11 @@ Duración: 10 Minutos
 Materiales requeridos: Hojas de papel con una Diana. (_Anexo en la carpeta de material de trabajo_) 
 **_¿Cómo conducir la actividad? “LA DIANA”_**  Los facilitadores repartirán una hoja la cual tiene dibujado una _Diana_ con tres aspectos a evaluar >> ¿Qué te gusto?, ¿Qué aprendiste?, ¿Qué mejorarías? Los facilitadores darán las instrucciones a las personas participantes para que coloquen allí sus opiniones en cada uno de los aspectos indicados. Al finalizar la sesión se recogerán las hojas y se socializaran con el equipo de la EDSD.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0NDI2OTU4NCwtMTE3MjY3MTMzMiwzMD
-YzNTAzMTEsLTE0MDgyNjI3NDMsODg4MjMyNDcwLC0xOTU0MTYx
-NTgsOTY2NTk0ODUsLTE5OTg0NDg1MzcsMTMwNDY0NzUxMywtMT
-E4MTIzMTExNSwtMTc3MTc2NDU2OCwxMzMwNzg1NDM4LDE1NDQ0
-ODM4MjMsMzI3ODA1NzM4LC0xNTIzODM3ODQ3LC0xOTk4NjcwOD
-AzLDEyMjI2NzE3MTUsMTY3MTcxMjAyOSwtMTU1NjI0MjE5OSwt
-NDM4ODAzMzEzXX0=
+eyJoaXN0b3J5IjpbLTQ3Njk5MTQwOCwtNzQ0MjY5NTg0LC0xMT
+cyNjcxMzMyLDMwNjM1MDMxMSwtMTQwODI2Mjc0Myw4ODgyMzI0
+NzAsLTE5NTQxNjE1OCw5NjY1OTQ4NSwtMTk5ODQ0ODUzNywxMz
+A0NjQ3NTEzLC0xMTgxMjMxMTE1LC0xNzcxNzY0NTY4LDEzMzA3
+ODU0MzgsMTU0NDQ4MzgyMywzMjc4MDU3MzgsLTE1MjM4Mzc4ND
+csLTE5OTg2NzA4MDMsMTIyMjY3MTcxNSwxNjcxNzEyMDI5LC0x
+NTU2MjQyMTk5XX0=
 -->
