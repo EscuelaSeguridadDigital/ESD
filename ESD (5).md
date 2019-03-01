@@ -219,19 +219,22 @@ En esta etapa la práctica será un elemento esencial en la relación de enseña
 
 **SÍNTESIS**
 __Duración: 15 Minutos__
-<ol>a.   ¿Cuáles son las características que debe tener una contraseña segura?</ol>
-<ol>b. ¿Qué herramientas permiten hacen más segura nuestras computadoras?</ol><ol>Qué significa Malware? ¿Qué consecuencias traen?</ol><ol>Explique es sus propias palabras que es la autenticación de dos factores.</ol>
+<ol>a.Los facilitadores realizaran algunas preguntas claves que permitirán reforzar y repasar los contenidos presentados, con el fin  de evidenciar la comprensión de los temas presentados en el módulo.</ol>
+
+<li>¿Cuáles son las características que debe tener una contraseña segura?
+
+<li>b. ¿Qué herramientas permiten hacen más segura nuestras computadoras?</li><li>Qué significa Malware? ¿Qué consecuencias traen?</li><li>Explique es sus propias palabras que es la autenticación de dos factores.</ol>
 
 
 
 
 <![if !supportLists]>b. <![endif]>Los facilitadores darán la palabra a las personas participantes para que libremente hagan  preguntas y aclaren sus dudas.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTYzMTYyNDkyLDg4ODIzMjQ3MCwtMTk1ND
-E2MTU4LDk2NjU5NDg1LC0xOTk4NDQ4NTM3LDEzMDQ2NDc1MTMs
-LTExODEyMzExMTUsLTE3NzE3NjQ1NjgsMTMzMDc4NTQzOCwxNT
-Q0NDgzODIzLDMyNzgwNTczOCwtMTUyMzgzNzg0NywtMTk5ODY3
-MDgwMywxMjIyNjcxNzE1LDE2NzE3MTIwMjksLTE1NTYyNDIxOT
-ksLTQzODgwMzMxMywyMTM3NTU1MjUxLDEyNDk4ODYzMTYsLTEz
-MTg2ODY3NTNdfQ==
+eyJoaXN0b3J5IjpbLTExOTY2OTM2MDIsODg4MjMyNDcwLC0xOT
+U0MTYxNTgsOTY2NTk0ODUsLTE5OTg0NDg1MzcsMTMwNDY0NzUx
+MywtMTE4MTIzMTExNSwtMTc3MTc2NDU2OCwxMzMwNzg1NDM4LD
+E1NDQ0ODM4MjMsMzI3ODA1NzM4LC0xNTIzODM3ODQ3LC0xOTk4
+NjcwODAzLDEyMjI2NzE3MTUsMTY3MTcxMjAyOSwtMTU1NjI0Mj
+E5OSwtNDM4ODAzMzEzLDIxMzc1NTUyNTEsMTI0OTg4NjMxNiwt
+MTMxODY4Njc1M119
 -->
