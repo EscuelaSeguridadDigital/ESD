@@ -219,11 +219,11 @@ En esta etapa la práctica será un elemento esencial en la relación de enseña
 
 **SÍNTESIS**
 __Duración: 15 Minutos__
-<ol><li style=a > Los facilitadores realizaran algunas preguntas claves que permitirán reforzar y repasar los contenidos presentados, con el fin  de evidenciar la comprensión de los temas presentados en el módulo.</li> * ¿Cuáles son las características que debe tener una contraseña segura? * ¿Qué herramientas permiten hacen más segura nuestras computadoras? *Qué significa Malware? ¿Qué consecuencias traen? *Explique es sus propias palabras que es la autenticación de dos factores. style=a>Los facilitadores darán la palabra a las personas participantes para que libremente hagan  preguntas y aclaren sus dudas.</ol>
+<ol><li style=a > Los facilitadores realizaran algunas preguntas claves que permitirán reforzar y repasar los contenidos presentados, con el fin  de evidenciar la comprensión de los temas presentados en el módulo.</li>><ul> * ¿Cuáles son las características que debe tener una contraseña segura? * ¿Qué herramientas permiten hacen más segura nuestras computadoras? *Qué significa Malware? ¿Qué consecuencias traen? *Explique es sus propias palabras que es la autenticación de dos factores. style=a>Los facilitadores darán la palabra a las personas participantes para que libremente hagan  preguntas y aclaren sus dudas.</ol>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTQzNTMzNDYsLTE0MDgyNjI3NDMsOD
+eyJoaXN0b3J5IjpbLTEwNTMzNjU0NDcsLTE0MDgyNjI3NDMsOD
 g4MjMyNDcwLC0xOTU0MTYxNTgsOTY2NTk0ODUsLTE5OTg0NDg1
 MzcsMTMwNDY0NzUxMywtMTE4MTIzMTExNSwtMTc3MTc2NDU2OC
 wxMzMwNzg1NDM4LDE1NDQ0ODM4MjMsMzI3ODA1NzM4LC0xNTIz
