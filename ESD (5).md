@@ -226,13 +226,15 @@ __Duración: 15 Minutos__
 
 
 
-<![if !supportLists]>b. <![endif]>Los facilitadores darán la palabra a las personas participantes para que libremente hagan  preguntas y aclaren sus dudas.
+<ol>Los facilitadores darán la palabra a las personas participantes para que libremente hagan  preguntas y aclaren sus dudas.</ol>
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTg1OTU2OCw4ODgyMzI0NzAsLTE5NT
-QxNjE1OCw5NjY1OTQ4NSwtMTk5ODQ0ODUzNywxMzA0NjQ3NTEz
-LC0xMTgxMjMxMTE1LC0xNzcxNzY0NTY4LDEzMzA3ODU0MzgsMT
-U0NDQ4MzgyMywzMjc4MDU3MzgsLTE1MjM4Mzc4NDcsLTE5OTg2
-NzA4MDMsMTIyMjY3MTcxNSwxNjcxNzEyMDI5LC0xNTU2MjQyMT
-k5LC00Mzg4MDMzMTMsMjEzNzU1NTI1MSwxMjQ5ODg2MzE2LC0x
-MzE4Njg2NzUzXX0=
+eyJoaXN0b3J5IjpbLTE0MDgyNjI3NDMsODg4MjMyNDcwLC0xOT
+U0MTYxNTgsOTY2NTk0ODUsLTE5OTg0NDg1MzcsMTMwNDY0NzUx
+MywtMTE4MTIzMTExNSwtMTc3MTc2NDU2OCwxMzMwNzg1NDM4LD
+E1NDQ0ODM4MjMsMzI3ODA1NzM4LC0xNTIzODM3ODQ3LC0xOTk4
+NjcwODAzLDEyMjI2NzE3MTUsMTY3MTcxMjAyOSwtMTU1NjI0Mj
+E5OSwtNDM4ODAzMzEzLDIxMzc1NTUyNTEsMTI0OTg4NjMxNiwt
+MTMxODY4Njc1M119
 -->
