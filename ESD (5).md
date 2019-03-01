@@ -221,14 +221,16 @@ En esta etapa la práctica será un elemento esencial en la relación de enseña
 __Duración: 15 Minutos__
 <ol><li type=a > Los facilitadores realizaran algunas preguntas claves que permitirán reforzar y repasar los contenidos presentados, con el fin  de evidenciar la comprensión de los temas presentados en el módulo.</li><ul><li> ¿Cuáles son las características que debe tener una contraseña segura? </li><li> ¿Qué herramientas permiten hacen más segura nuestras computadoras?</li><li>¿Qué significa Malware? ¿Qué consecuencias traen?</li><li> Explique es sus propias palabras que es la autenticación de dos factores.</li></ul><li type=a>Los facilitadores darán la palabra a las personas participantes para que libremente hagan  preguntas y aclaren sus dudas.</li></ol>
 
-
+### EVALUACIÓN
+__Duración: 10 Minutos__
+Materiales requeridos: Hojas de papel con un termómetro. (_Anexo en la carpeta de material de trabajo_) **_¿Cómo conducir la actividad?_**  **_“EL TERMÓMETRO”_**  Los facilitadores repartirán una hoja la cual tiene dibujado un termómetro con tres aspectos a evaluar >> ¿Qué te gusto?, ¿Qué aprendiste?, ¿Qué mejorarías? Los facilitadores darán las instrucciones a las personas participantes para que coloquen allí sus opiniones en cada uno de los aspectos indicados. Al finalizar la sesión se recogerán las hojas y se socializaran con el equipo de la EDSD.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM0OTExNTcsMzA2MzUwMzExLC0xNDA4Mj
-YyNzQzLDg4ODIzMjQ3MCwtMTk1NDE2MTU4LDk2NjU5NDg1LC0x
-OTk4NDQ4NTM3LDEzMDQ2NDc1MTMsLTExODEyMzExMTUsLTE3Nz
-E3NjQ1NjgsMTMzMDc4NTQzOCwxNTQ0NDgzODIzLDMyNzgwNTcz
-OCwtMTUyMzgzNzg0NywtMTk5ODY3MDgwMywxMjIyNjcxNzE1LD
-E2NzE3MTIwMjksLTE1NTYyNDIxOTksLTQzODgwMzMxMywyMTM3
-NTU1MjUxXX0=
+eyJoaXN0b3J5IjpbLTMzMjIzNjY4NywzMDYzNTAzMTEsLTE0MD
+gyNjI3NDMsODg4MjMyNDcwLC0xOTU0MTYxNTgsOTY2NTk0ODUs
+LTE5OTg0NDg1MzcsMTMwNDY0NzUxMywtMTE4MTIzMTExNSwtMT
+c3MTc2NDU2OCwxMzMwNzg1NDM4LDE1NDQ0ODM4MjMsMzI3ODA1
+NzM4LC0xNTIzODM3ODQ3LC0xOTk4NjcwODAzLDEyMjI2NzE3MT
+UsMTY3MTcxMjAyOSwtMTU1NjI0MjE5OSwtNDM4ODAzMzEzLDIx
+Mzc1NTUyNTFdfQ==
 -->
