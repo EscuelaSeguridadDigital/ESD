@@ -229,7 +229,7 @@ Materiales requeridos: Hojas de papel con un termómetro. (_Anexo en la carpeta 
 
 # Principios de Seguridad Digital 2 – Intermedio
 
-![](SD2.png
+![](SD2.png)
 
 
 _¿Cómo conducir la actividad?_
@@ -275,7 +275,7 @@ Duración: 10 Minutos
 Materiales requeridos: Hojas de papel con una Diana. (_Anexo en la carpeta de material de trabajo_) 
 **_¿Cómo conducir la actividad? “LA DIANA”_**  Los facilitadores repartirán una hoja la cual tiene dibujado una _Diana_ con tres aspectos a evaluar >> ¿Qué te gusto?, ¿Qué aprendiste?, ¿Qué mejorarías? Los facilitadores darán las instrucciones a las personas participantes para que coloquen allí sus opiniones en cada uno de los aspectos indicados. Al finalizar la sesión se recogerán las hojas y se socializaran con el equipo de la EDSD.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3Njk5MTQwOCwtNzQ0MjY5NTg0LC0xMT
+eyJoaXN0b3J5IjpbLTExOTk1MDU2NSwtNzQ0MjY5NTg0LC0xMT
 cyNjcxMzMyLDMwNjM1MDMxMSwtMTQwODI2Mjc0Myw4ODgyMzI0
 NzAsLTE5NTQxNjE1OCw5NjY1OTQ4NSwtMTk5ODQ0ODUzNywxMz
 A0NjQ3NTEzLC0xMTgxMjMxMTE1LC0xNzcxNzY0NTY4LDEzMzA3
