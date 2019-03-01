@@ -172,16 +172,12 @@ ___-Evaluación:___ Este momento final le permitirá a los y las participantes e
 |---|   
 | _Bienvenida al proceso formativo de la Escuela de Seguridad Digital._ <ul><li>_Presentación de los Objetivos de la Escuela de Seguridad Digital._</li><li>_Presentación del Kit de Seguridad Digital._</li><li>Actividad: Presentación de las personas participantes.</li><li>Actividad: Reglas de Juego de los talleres de capacitación.</li></ul>|   
 | **ACTIVIDADES-PRESENTACIÓN** (*Puedes escoger una de las tres actividades propuestas*)|
-
 ___1. Endulza tu entorno___
 Duración: 5 Minutos
 Materiales requeridos:
-
  - 1 o 2 bolsas de dulces.
  - Escarapela y Marcadores.
-
 **_¿Cómo conducir la actividad?_**
-
 Los facilitadores deberán ofrecerles dulces a todas las personas del grupo, indicando que puedan tomar de uno a tres dulces, al finalizar  la entrega los facilitadores deberán indicar que por cada dulce tomado por el participante este debe compartir su nombre y un detalle o cualidad. Al terminar de hablar el participante deberá escribir su nombre en la escarapela y colocarlo en un lugar visible de su cuerpo.
 
  ___2. Fila India___
@@ -204,11 +200,11 @@ Materiales requeridos:
 
 La actividad consiste en escribir en el tablero todos los nombres unidos entre sí. Primero pueden salir los facilitadores escriben su nombre en el tablero y hacen una pequeña presentación, a que se dedica, que le gusta, cuales son las expectativas, etc… luego los demás participantes van saliendo de uno en uno, y realizan la misma metodología hasta terminar con todos.  Al terminar de hablar el participante deberá escribir su nombre en la escarapela y colocarlo en un lugar visible de su cuerpo.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNjYwOTgxNSwtNDM4ODAzMzEzLDIxMz
-c1NTUyNTEsMTI0OTg4NjMxNiwtMTMxODY4Njc1MywtMjE0NTY2
-OTM5MSwxNjE5NzA0NzQ2LC0xNzE5Nzc0MDM1LC0xOTQ2MTY0NT
-c1LDkzODY1NzYwNywxOTU2OTY3Mjk5LC0xNTIyMTExMzQ5LC0x
-NDI3NjEzNjQzLC0xNTc1ODYwNTQsLTQwMDE3NjI1MCwtMTExMj
-U2MTA3NCwtMTUxNjE1MjE4NywzOTcyMjcwNDUsMTc3MTAxOTEw
-MCwxMDE0MTI4MTQ4XX0=
+eyJoaXN0b3J5IjpbNDY5ODkyODksLTQzODgwMzMxMywyMTM3NT
+U1MjUxLDEyNDk4ODYzMTYsLTEzMTg2ODY3NTMsLTIxNDU2Njkz
+OTEsMTYxOTcwNDc0NiwtMTcxOTc3NDAzNSwtMTk0NjE2NDU3NS
+w5Mzg2NTc2MDcsMTk1Njk2NzI5OSwtMTUyMjExMTM0OSwtMTQy
+NzYxMzY0MywtMTU3NTg2MDU0LC00MDAxNzYyNTAsLTExMTI1Nj
+EwNzQsLTE1MTYxNTIxODcsMzk3MjI3MDQ1LDE3NzEwMTkxMDAs
+MTAxNDEyODE0OF19
 -->
