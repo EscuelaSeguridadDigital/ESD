@@ -217,12 +217,11 @@ En esta etapa la práctica será un elemento esencial en la relación de enseña
 **¡MANOS A LA OBRA!** (*USO KEEPASS*) Las personas participantes tendrán que realizar las siguientes actividades en sus computadores o en los computadores de la sala del taller siguiendo las siguientes instrucciones:
 <li>Instalación y configuración de Idioma en Español  del Keepass.</li><li>Creación de un archivo .kdb</li><li>Creación de un repositorio de información con mínimo 3 cuentas de servicios de Internet.</li>
 
-<![endif]-->
-
 **SÍNTESIS**
-Duración: 15 Minutos
+__Duración: 15 Minutos__
 
-<![if !supportLists]>a. <![endif]>Los facilitadores realizaran algunas preguntas claves que permitirán reforzar y repasar los contenidos presentados, con el fin  de evidenciar la comprensión de los temas presentados en el módulo.
+<ol>
+<ol> Los facilitadores realizaran algunas preguntas claves que permitirán reforzar y repasar los contenidos presentados, con el fin  de evidenciar la comprensión de los temas presentados en el módulo.</ol>
 
 <![if !supportLists]>· <![endif]>¿Cuáles son las características que debe tener una contraseña segura?
 
@@ -234,11 +233,11 @@ Duración: 15 Minutos
 
 <![if !supportLists]>b. <![endif]>Los facilitadores darán la palabra a las personas participantes para que libremente hagan  preguntas y aclaren sus dudas.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMjMxMzY0NywtMTk1NDE2MTU4LDk2Nj
-U5NDg1LC0xOTk4NDQ4NTM3LDEzMDQ2NDc1MTMsLTExODEyMzEx
-MTUsLTE3NzE3NjQ1NjgsMTMzMDc4NTQzOCwxNTQ0NDgzODIzLD
-MyNzgwNTczOCwtMTUyMzgzNzg0NywtMTk5ODY3MDgwMywxMjIy
-NjcxNzE1LDE2NzE3MTIwMjksLTE1NTYyNDIxOTksLTQzODgwMz
-MxMywyMTM3NTU1MjUxLDEyNDk4ODYzMTYsLTEzMTg2ODY3NTMs
-LTIxNDU2NjkzOTFdfQ==
+eyJoaXN0b3J5IjpbNjI0NzA5NDUsLTE5NTQxNjE1OCw5NjY1OT
+Q4NSwtMTk5ODQ0ODUzNywxMzA0NjQ3NTEzLC0xMTgxMjMxMTE1
+LC0xNzcxNzY0NTY4LDEzMzA3ODU0MzgsMTU0NDQ4MzgyMywzMj
+c4MDU3MzgsLTE1MjM4Mzc4NDcsLTE5OTg2NzA4MDMsMTIyMjY3
+MTcxNSwxNjcxNzEyMDI5LC0xNTU2MjQyMTk5LC00Mzg4MDMzMT
+MsMjEzNzU1NTI1MSwxMjQ5ODg2MzE2LC0xMzE4Njg2NzUzLC0y
+MTQ1NjY5MzkxXX0=
 -->
