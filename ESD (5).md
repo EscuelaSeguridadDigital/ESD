@@ -186,12 +186,13 @@ ___-Evaluación:___ Este momento final le permitirá a los y las participantes e
 __¿Cómo conducir la actividad?__
 
 __INTRODUCCIÓN.__<br>__Duración: 5 Minutos.__
-
 Los facilitadores presentaran de una manera global a las personas participantes  los temas que se presentaran en el transcurso de la sesión, la metodología de trabajo (Ruta de aprendizaje) y mencionaran nuevamente los acuerdos de convivencia y participación en la sesión.  (_Presentación anexa en la carpeta de material de trabajo_)
 
-<![endif]-->
+**CONTEXTUALIZACIÓN**<br>__Duración: 1 Hora 30 Minutos.__
+Esta etapa estará enfocada a fortalecer conocimientos teóricos
+<ul><l>
 
-**CONTEXTUALIZACIÓN**
+
 
 
 
@@ -199,11 +200,11 @@ Los facilitadores presentaran de una manera global a las personas participantes 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYwODAyNzUwLC0xOTU0MTYxNTgsOTY2NT
-k0ODUsLTE5OTg0NDg1MzcsMTMwNDY0NzUxMywtMTE4MTIzMTEx
-NSwtMTc3MTc2NDU2OCwxMzMwNzg1NDM4LDE1NDQ0ODM4MjMsMz
-I3ODA1NzM4LC0xNTIzODM3ODQ3LC0xOTk4NjcwODAzLDEyMjI2
-NzE3MTUsMTY3MTcxMjAyOSwtMTU1NjI0MjE5OSwtNDM4ODAzMz
-EzLDIxMzc1NTUyNTEsMTI0OTg4NjMxNiwtMTMxODY4Njc1Mywt
-MjE0NTY2OTM5MV19
+eyJoaXN0b3J5IjpbLTE3MzUyNjIyMTEsLTE5NTQxNjE1OCw5Nj
+Y1OTQ4NSwtMTk5ODQ0ODUzNywxMzA0NjQ3NTEzLC0xMTgxMjMx
+MTE1LC0xNzcxNzY0NTY4LDEzMzA3ODU0MzgsMTU0NDQ4MzgyMy
+wzMjc4MDU3MzgsLTE1MjM4Mzc4NDcsLTE5OTg2NzA4MDMsMTIy
+MjY3MTcxNSwxNjcxNzEyMDI5LC0xNTU2MjQyMTk5LC00Mzg4MD
+MzMTMsMjEzNzU1NTI1MSwxMjQ5ODg2MzE2LC0xMzE4Njg2NzUz
+LC0yMTQ1NjY5MzkxXX0=
 -->
