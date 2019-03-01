@@ -215,11 +215,26 @@ __Duración: 2 Horas__
 En esta etapa la práctica será un elemento esencial en la relación de enseñanza – aprendizaje, el facilitador/a acompañará a las personas participantes de una manera permanente resolviendo dudas y orientando el proceso.
 
 **¡MANOS A LA OBRA!** (*USO KEEPASS*) Las personas participantes tendrán que realizar las siguientes actividades en sus computadores o en los computadores de la sala del taller siguiendo las siguientes instrucciones:
-<li>Instalación y configuración de Idioma en Español  del Keepass.</li><li>
+<li>Instalación y configuración de Idioma en Español  del Keepass.</li><li>Creación de un archivo .kdb</li><li>Creación de un repositorio de información con mínimo 3 cuentas de servicios de Internet.</li>
 
+<![endif]-->
 
+**SÍNTESIS**
+Duración: 15 Minutos
+
+<![if !supportLists]>a. <![endif]>Los facilitadores realizaran algunas preguntas claves que permitirán reforzar y repasar los contenidos presentados, con el fin  de evidenciar la comprensión de los temas presentados en el módulo.
+
+<![if !supportLists]>· <![endif]>¿Cuáles son las características que debe tener una contraseña segura?
+
+<![if !supportLists]>· <![endif]>¿Qué herramientas permiten hacen más segura nuestras computadoras?
+
+<![if !supportLists]>· <![endif]>¿Qué significa Malware? ¿Qué consecuencias traen?
+
+<![if !supportLists]>· <![endif]>Explique es sus propias palabras que es la autenticación de dos factores.
+
+<![if !supportLists]>b. <![endif]>Los facilitadores darán la palabra a las personas participantes para que libremente hagan  preguntas y aclaren sus dudas.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNzcxNjM0NywtMTk1NDE2MTU4LDk2Nj
+eyJoaXN0b3J5IjpbMTUzMjMxMzY0NywtMTk1NDE2MTU4LDk2Nj
 U5NDg1LC0xOTk4NDQ4NTM3LDEzMDQ2NDc1MTMsLTExODEyMzEx
 MTUsLTE3NzE3NjQ1NjgsMTMzMDc4NTQzOCwxNTQ0NDgzODIzLD
 MyNzgwNTczOCwtMTUyMzgzNzg0NywtMTk5ODY3MDgwMywxMjIy
