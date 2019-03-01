@@ -176,14 +176,14 @@ ___-Evaluación:___ Este momento final le permitirá a los y las participantes e
 
 |  **ACTIVIDAD-REGLAS DE JUEGO** <br>___Reglas del Juego___ |
 |---|
-|Objetivo: Construir colectivamente acuerdos de convivencia y participación. “Las reglas del juego”.<br>Duración: 5 minutos.<br>Materiales requeridos:<ul><li>Tablero.</li><li>Marcadores.</li><li>Stickers de colores preferiblemente rojo y amarillo.</li></ul><br>__*¿Cómo conducir la actividad?*__<br>Esta actividad  ayudará a generar  acuerdos colectivos de convivencia, reconociendo las preferencias de las personas participantes, para que puedan sentirse cómodas, y pueda dar lugar a mayor receptividad durante la sesión.|
+|Objetivo: Construir colectivamente acuerdos de convivencia y participación. “Las reglas del juego”.<br>Duración: 5 minutos.<br>Materiales requeridos:<ul><li>Tablero.</li><li>Marcadores.</li><li>Stickers de colores preferiblemente rojo y amarillo.</li></ul><br>__*¿Cómo conducir la actividad?*__<br>Esta actividad  ayudará a generar  acuerdos colectivos de convivencia, reconociendo las preferencias de las personas participantes, para que puedan sentirse cómodas, y pueda dar lugar a mayor receptividad durante la sesión.<b|
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTY0OTUwNiwtMTc3MTc2NDU2OCwxMz
+eyJoaXN0b3J5IjpbLTIxMjE2MjYyMCwtMTc3MTc2NDU2OCwxMz
 MwNzg1NDM4LDE1NDQ0ODM4MjMsMzI3ODA1NzM4LC0xNTIzODM3
 ODQ3LC0xOTk4NjcwODAzLDEyMjI2NzE3MTUsMTY3MTcxMjAyOS
 wtMTU1NjI0MjE5OSwtNDM4ODAzMzEzLDIxMzc1NTUyNTEsMTI0
