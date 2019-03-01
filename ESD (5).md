@@ -171,7 +171,7 @@ ___-Evaluación:___ Este momento final le permitirá a los y las participantes e
 |   __PRESENTACIÓN INICIAL - PRIMERA SESIÓN__ <br>*Tiempo total: 15 Minutos*| 
 |---|   
 | _Bienvenida al proceso formativo de la Escuela de Seguridad Digital._ <ul><li>_Presentación de los Objetivos de la Escuela de Seguridad Digital._</li><li>_Presentación del Kit de Seguridad Digital._</li><li>Actividad: Presentación de las personas participantes.</li><li>Actividad: Reglas de Juego de los talleres de capacitación.</li></ul>|   
-| **ACTIVIDADES-PRESENTACIÓN** (*Puedes escoger una de las tres actividades propuestas*)
+|**ACTIVIDADES-PRESENTACIÓN** (*Puedes escoger una de las tres actividades propuestas*)
 <ol>___ Endulza tu entorno___ Duración: 5 Minutos
 Materiales requeridos:
  - 1 o 2 bolsas de dulces.
@@ -199,11 +199,11 @@ Materiales requeridos:
 
 La actividad consiste en escribir en el tablero todos los nombres unidos entre sí. Primero pueden salir los facilitadores escriben su nombre en el tablero y hacen una pequeña presentación, a que se dedica, que le gusta, cuales son las expectativas, etc… luego los demás participantes van saliendo de uno en uno, y realizan la misma metodología hasta terminar con todos.  Al terminar de hablar el participante deberá escribir su nombre en la escarapela y colocarlo en un lugar visible de su cuerpo.</li></ol>|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU4OTk4MTU1LC0xNTU2MjQyMTk5LC00Mz
-g4MDMzMTMsMjEzNzU1NTI1MSwxMjQ5ODg2MzE2LC0xMzE4Njg2
-NzUzLC0yMTQ1NjY5MzkxLDE2MTk3MDQ3NDYsLTE3MTk3NzQwMz
-UsLTE5NDYxNjQ1NzUsOTM4NjU3NjA3LDE5NTY5NjcyOTksLTE1
-MjIxMTEzNDksLTE0Mjc2MTM2NDMsLTE1NzU4NjA1NCwtNDAwMT
-c2MjUwLC0xMTEyNTYxMDc0LC0xNTE2MTUyMTg3LDM5NzIyNzA0
-NSwxNzcxMDE5MTAwXX0=
+eyJoaXN0b3J5IjpbMTY3MTcxMjAyOSwtMTU1NjI0MjE5OSwtND
+M4ODAzMzEzLDIxMzc1NTUyNTEsMTI0OTg4NjMxNiwtMTMxODY4
+Njc1MywtMjE0NTY2OTM5MSwxNjE5NzA0NzQ2LC0xNzE5Nzc0MD
+M1LC0xOTQ2MTY0NTc1LDkzODY1NzYwNywxOTU2OTY3Mjk5LC0x
+NTIyMTExMzQ5LC0xNDI3NjEzNjQzLC0xNTc1ODYwNTQsLTQwMD
+E3NjI1MCwtMTExMjU2MTA3NCwtMTUxNjE1MjE4NywzOTcyMjcw
+NDUsMTc3MTAxOTEwMF19
 -->
