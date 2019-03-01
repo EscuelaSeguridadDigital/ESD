@@ -217,7 +217,7 @@ En esta etapa la práctica será un elemento esencial en la relación de enseña
 **¡MANOS A LA OBRA!** (*USO KEEPASS*) Las personas participantes tendrán que realizar las siguientes actividades en sus computadores o en los computadores de la sala del taller siguiendo las siguientes instrucciones:
 <li>Instalación y configuración de Idioma en Español  del Keepass.</li><li>Creación de un archivo .kdb</li><li>Creación de un repositorio de información con mínimo 3 cuentas de servicios de Internet.</li>
 
-**SÍNTESIS
+### SÍNTESIS
 __Duración: 15 Minutos__
 <ol><li type=a > Los facilitadores realizaran algunas preguntas claves que permitirán reforzar y repasar los contenidos presentados, con el fin  de evidenciar la comprensión de los temas presentados en el módulo.</li><ul><li> ¿Cuáles son las características que debe tener una contraseña segura? </li><li> ¿Qué herramientas permiten hacen más segura nuestras computadoras?</li><li>¿Qué significa Malware? ¿Qué consecuencias traen?</li><li> Explique es sus propias palabras que es la autenticación de dos factores.</li></ul><li type=a>Los facilitadores darán la palabra a las personas participantes para que libremente hagan  preguntas y aclaren sus dudas.</li></ol>
 
@@ -227,7 +227,7 @@ Materiales requeridos: Hojas de papel con un termómetro. (_Anexo en la carpeta 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTczMTg5NDUsMzA2MzUwMzExLC0xND
+eyJoaXN0b3J5IjpbLTExNzI2NzEzMzIsMzA2MzUwMzExLC0xND
 A4MjYyNzQzLDg4ODIzMjQ3MCwtMTk1NDE2MTU4LDk2NjU5NDg1
 LC0xOTk4NDQ4NTM3LDEzMDQ2NDc1MTMsLTExODEyMzExMTUsLT
 E3NzE3NjQ1NjgsMTMzMDc4NTQzOCwxNTQ0NDgzODIzLDMyNzgw
