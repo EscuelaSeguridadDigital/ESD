@@ -179,7 +179,7 @@ Materiales requeridos:
 **_¿Cómo conducir la actividad?_**
 Los facilitadores deberán ofrecerles dulces a todas las personas del grupo, indicando que puedan tomar de uno a tres dulces, al finalizar  la entrega los facilitadores deberán indicar que por cada dulce tomado por el participante este debe compartir su nombre y un detalle o cualidad. Al terminar de hablar el participante deberá escribir su nombre en la escarapela y colocarlo en un lugar visible de su cuerpo.
 
- ___2. Fila India___
+ ___ Fila India___
 Duración: 5 Minutos
 Materiales requeridos:
  - Cinta adhesiva.
@@ -189,7 +189,7 @@ Materiales requeridos:
 
 Se les pide a los participantes colocar su nombre en Escarapelas y colocarlos en un lugar visible de su cuerpo, luego hacemos una línea en el suelo con cinta adhesiva (preferiblemente) y les advertimos a los participantes que no se pueden salir de la línea, entonces todos los participantes se colocan sobre línea y se les pide que se ordenen por orden alfabético, pero teniendo cuidado de no dejar de pisar la línea. Se puede dar un tiempo para darle más emoción. Al final se comprueba que la fila india ha quedado bien presentándose cada uno por orden.
 
- ___3. Crucemos nuestros nombres___
+ <li>___Crucemos nuestros nombres___
 Duración: 5 Minutos
 Materiales requeridos:
  - Tablero.
@@ -197,13 +197,13 @@ Materiales requeridos:
 
 **_¿Cómo conducir la actividad?_**
 
-La actividad consiste en escribir en el tablero todos los nombres unidos entre sí. Primero pueden salir los facilitadores escriben su nombre en el tablero y hacen una pequeña presentación, a que se dedica, que le gusta, cuales son las expectativas, etc… luego los demás participantes van saliendo de uno en uno, y realizan la misma metodología hasta terminar con todos.  Al terminar de hablar el participante deberá escribir su nombre en la escarapela y colocarlo en un lugar visible de su cuerpo.|
+La actividad consiste en escribir en el tablero todos los nombres unidos entre sí. Primero pueden salir los facilitadores escriben su nombre en el tablero y hacen una pequeña presentación, a que se dedica, que le gusta, cuales son las expectativas, etc… luego los demás participantes van saliendo de uno en uno, y realizan la misma metodología hasta terminar con todos.  Al terminar de hablar el participante deberá escribir su nombre en la escarapela y colocarlo en un lugar visible de su cuerpo.</li></ol>|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NTU2NDMxMywtMTU1NjI0MjE5OSwtND
-M4ODAzMzEzLDIxMzc1NTUyNTEsMTI0OTg4NjMxNiwtMTMxODY4
-Njc1MywtMjE0NTY2OTM5MSwxNjE5NzA0NzQ2LC0xNzE5Nzc0MD
-M1LC0xOTQ2MTY0NTc1LDkzODY1NzYwNywxOTU2OTY3Mjk5LC0x
-NTIyMTExMzQ5LC0xNDI3NjEzNjQzLC0xNTc1ODYwNTQsLTQwMD
-E3NjI1MCwtMTExMjU2MTA3NCwtMTUxNjE1MjE4NywzOTcyMjcw
-NDUsMTc3MTAxOTEwMF19
+eyJoaXN0b3J5IjpbNjU4OTk4MTU1LC0xNTU2MjQyMTk5LC00Mz
+g4MDMzMTMsMjEzNzU1NTI1MSwxMjQ5ODg2MzE2LC0xMzE4Njg2
+NzUzLC0yMTQ1NjY5MzkxLDE2MTk3MDQ3NDYsLTE3MTk3NzQwMz
+UsLTE5NDYxNjQ1NzUsOTM4NjU3NjA3LDE5NTY5NjcyOTksLTE1
+MjIxMTEzNDksLTE0Mjc2MTM2NDMsLTE1NzU4NjA1NCwtNDAwMT
+c2MjUwLC0xMTEyNTYxMDc0LC0xNTE2MTUyMTg3LDM5NzIyNzA0
+NSwxNzcxMDE5MTAwXX0=
 -->
