@@ -267,15 +267,15 @@ En esta etapa la práctica será un elemento esencial en la relación de enseña
 ### SÍNTESIS
 Duración: 20 Minutos
 
-<ol><li type=a>
+<ol><li type=a>Los facilitadores leerán en voz alta la siguiente afirmación: “**_Desde un punto de vista técnico, no se puede borrar algo en tu computadora._**” A continuación se les realizara las siguientes preguntas a las personas participantes:<ul> <li>¿Qué opinan de la afirmación?</li><li>¿Por qué no existirá una función de “borrado” real?</li><li>¿Qué crees que pasa con esos datos cuando se “elimina”?</li>
 
-Los facilitadores leerán en voz alta la siguiente afirmación: “**_Desde un punto de vista técnico, no se puede borrar algo en tu computadora._**” A continuación se les realizara las siguientes preguntas a las personas participantes:
 
-<![if !supportLists]>· <![endif]>¿Qué opinan de la afirmación?
 
-<![if !supportLists]>· <![endif]>¿Por qué no existirá una función de “borrado” real?
+<![if !supportLists]>· <![endif]>
 
-<![if !supportLists]>· <![endif]>¿Qué crees que pasa con esos datos cuando se “elimina”?
+<![if !supportLists]>· <![endif]>
+
+<![if !supportLists]>· <![endif]>
 
 <![if !supportLists]>b. <![endif]>Los facilitadores darán la palabra a las personas participantes para que libremente hagan  preguntas y aclaren sus dudas.
 
@@ -289,11 +289,11 @@ Materiales requeridos: Hojas de papel con una Diana. (_Anexo en la carpeta de ma
 
 **_¿Cómo conducir la actividad? “LA DIANA”_**  Los facilitadores repartirán una hoja la cual tiene dibujado una _Diana_ con tres aspectos a evaluar >> ¿Qué te gusto?, ¿Qué aprendiste?, ¿Qué mejorarías? Los facilitadores darán las instrucciones a las personas participantes para que coloquen allí sus opiniones en cada uno de los aspectos indicados. Al finalizar la sesión se recogerán las hojas y se socializaran con el equipo de la EDSD.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTA4NzcxNzQsLTExNzI2NzEzMzIsMz
-A2MzUwMzExLC0xNDA4MjYyNzQzLDg4ODIzMjQ3MCwtMTk1NDE2
-MTU4LDk2NjU5NDg1LC0xOTk4NDQ4NTM3LDEzMDQ2NDc1MTMsLT
-ExODEyMzExMTUsLTE3NzE3NjQ1NjgsMTMzMDc4NTQzOCwxNTQ0
-NDgzODIzLDMyNzgwNTczOCwtMTUyMzgzNzg0NywtMTk5ODY3MD
-gwMywxMjIyNjcxNzE1LDE2NzE3MTIwMjksLTE1NTYyNDIxOTks
-LTQzODgwMzMxM119
+eyJoaXN0b3J5IjpbLTYwMzY0NTE2NCwtMTE3MjY3MTMzMiwzMD
+YzNTAzMTEsLTE0MDgyNjI3NDMsODg4MjMyNDcwLC0xOTU0MTYx
+NTgsOTY2NTk0ODUsLTE5OTg0NDg1MzcsMTMwNDY0NzUxMywtMT
+E4MTIzMTExNSwtMTc3MTc2NDU2OCwxMzMwNzg1NDM4LDE1NDQ0
+ODM4MjMsMzI3ODA1NzM4LC0xNTIzODM3ODQ3LC0xOTk4NjcwOD
+AzLDEyMjI2NzE3MTUsMTY3MTcxMjAyOSwtMTU1NjI0MjE5OSwt
+NDM4ODAzMzEzXX0=
 -->
