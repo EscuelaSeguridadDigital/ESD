@@ -172,8 +172,7 @@ ___-Evaluación:___ Este momento final le permitirá a los y las participantes e
 |---|   
 | _Bienvenida al proceso formativo de la Escuela de Seguridad Digital._ <ul><li>_Presentación de los Objetivos de la Escuela de Seguridad Digital._</li><li>_Presentación del Kit de Seguridad Digital._</li><li>Actividad: Presentación de las personas participantes.</li><li>Actividad: Reglas de Juego de los talleres de capacitación.</li></ul>|   
 | **ACTIVIDADES-PRESENTACIÓN** (*Puedes escoger una de las tres actividades propuestas*)
-___1. Endulza tu entorno___
-Duración: 5 Minutos
+___1. Endulza tu entorno___ <br>Duración: 5 Minutos
 Materiales requeridos:
  - 1 o 2 bolsas de dulces.
  - Escarapela y Marcadores.
@@ -200,7 +199,7 @@ Materiales requeridos:
 
 La actividad consiste en escribir en el tablero todos los nombres unidos entre sí. Primero pueden salir los facilitadores escriben su nombre en el tablero y hacen una pequeña presentación, a que se dedica, que le gusta, cuales son las expectativas, etc… luego los demás participantes van saliendo de uno en uno, y realizan la misma metodología hasta terminar con todos.  Al terminar de hablar el participante deberá escribir su nombre en la escarapela y colocarlo en un lugar visible de su cuerpo.|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4ODY3MDQ5NywtNDM4ODAzMzEzLDIxMz
+eyJoaXN0b3J5IjpbLTM3Mzk4NTAzMywtNDM4ODAzMzEzLDIxMz
 c1NTUyNTEsMTI0OTg4NjMxNiwtMTMxODY4Njc1MywtMjE0NTY2
 OTM5MSwxNjE5NzA0NzQ2LC0xNzE5Nzc0MDM1LC0xOTQ2MTY0NT
 c1LDkzODY1NzYwNywxOTU2OTY3Mjk5LC0xNTIyMTExMzQ5LC0x
