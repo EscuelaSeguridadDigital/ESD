@@ -225,12 +225,13 @@ __Duración: 15 Minutos__
 __Duración: 10 Minutos__
 Materiales requeridos: Hojas de papel con un termómetro. (_Anexo en la carpeta de material de trabajo_) **_¿Cómo conducir la actividad?_**  **_“EL TERMÓMETRO”_**  Los facilitadores repartirán una hoja la cual tiene dibujado un termómetro con tres aspectos a evaluar >> ¿Qué te gusto?, ¿Qué aprendiste?, ¿Qué mejorarías? Los facilitadores darán las instrucciones a las personas participantes para que coloquen allí sus opiniones en cada uno de los aspectos indicados. Al finalizar la sesión se recogerán las hojas y se socializaran con el equipo de la EDSD.
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMjIzNjY4NywzMDYzNTAzMTEsLTE0MD
-gyNjI3NDMsODg4MjMyNDcwLC0xOTU0MTYxNTgsOTY2NTk0ODUs
-LTE5OTg0NDg1MzcsMTMwNDY0NzUxMywtMTE4MTIzMTExNSwtMT
-c3MTc2NDU2OCwxMzMwNzg1NDM4LDE1NDQ0ODM4MjMsMzI3ODA1
-NzM4LC0xNTIzODM3ODQ3LC0xOTk4NjcwODAzLDEyMjI2NzE3MT
-UsMTY3MTcxMjAyOSwtMTU1NjI0MjE5OSwtNDM4ODAzMzEzLDIx
-Mzc1NTUyNTFdfQ==
+eyJoaXN0b3J5IjpbNTgxNzA5NDA3LDMwNjM1MDMxMSwtMTQwOD
+I2Mjc0Myw4ODgyMzI0NzAsLTE5NTQxNjE1OCw5NjY1OTQ4NSwt
+MTk5ODQ0ODUzNywxMzA0NjQ3NTEzLC0xMTgxMjMxMTE1LC0xNz
+cxNzY0NTY4LDEzMzA3ODU0MzgsMTU0NDQ4MzgyMywzMjc4MDU3
+MzgsLTE1MjM4Mzc4NDcsLTE5OTg2NzA4MDMsMTIyMjY3MTcxNS
+wxNjcxNzEyMDI5LC0xNTU2MjQyMTk5LC00Mzg4MDMzMTMsMjEz
+NzU1NTI1MV19
 -->
