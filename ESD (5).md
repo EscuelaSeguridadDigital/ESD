@@ -190,11 +190,21 @@ Los facilitadores presentaran de una manera global a las personas participantes 
 
 **CONTEXTUALIZACIÓN**<br>__Duración: 1 Hora 30 Minutos.__
 Esta etapa estará enfocada a fortalecer conocimientos teóricos
-<ol>a. Los facilitadores harán uso de la presentación correspondiente al módulo _Principios de Seguridad Digital 1 – Básico_ (_Presentación anexa en la carpeta de material de trabajo_)</ol>
-<ol>b.Los facilitadores realizaran  distintas actividades en el transcurso de las presentaciones, con el objetivo de que las personas participantes afiancen mejor los conceptos con ejemplos prácticos.</ol>
+<ol>a.   Los facilitadores harán uso de la presentación correspondiente al módulo _Principios de Seguridad Digital 1 – Básico_ (_Presentación anexa en la carpeta de material de trabajo_)</ol>
+<ol>b. Los facilitadores realizaran  distintas actividades en el transcurso de las presentaciones, con el objetivo de que las personas participantes afiancen mejor los conceptos con ejemplos prácticos.</ol>
+
+<![endif]-->
+
+**ACTIVIDAD 1 - ¿CÓMO FUNCIONA INTERNET?**
+
+Trabajando en parejas, las personas participantes recibirán tarjetas representando diferentes componentes de una cadena de flujo de información (módem, computadora, proveedor de servicio de internet, antenas, routers, servidores,  etc.). Los facilitadores le pedirán a los grupos que ordenen correctamente las tarjetas para evidenciar cuál sería el flujo de información que se haría al momento de enviar un correo a través de Internet.
+
+_Los facilitadores realizaran observaciones del orden de las tarjetas y repasaran el proceso con el grupo, los facilitadores podrán apoyarse con el siguiente recurso audiovisual https://www.youtube.com/watch?v=7_LPdttKXPc_
 
 
+**ACTIVIDAD 2 - CREACIÓN DE CONTRASEÑAS SEGURAS**
 
+Trabajando en parejas, las personas participantes recibirán unos DADOS que vienen dentro de los materiales del KIT de Seguridad Digital, los facilitadores darán las indicaciones y suministraran el cuadernillo con la explicación de la actividad.
 
 
 
@@ -202,11 +212,11 @@ Esta etapa estará enfocada a fortalecer conocimientos teóricos
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE4MTc0MDYsLTE5NTQxNjE1OCw5NjY1OT
-Q4NSwtMTk5ODQ0ODUzNywxMzA0NjQ3NTEzLC0xMTgxMjMxMTE1
-LC0xNzcxNzY0NTY4LDEzMzA3ODU0MzgsMTU0NDQ4MzgyMywzMj
-c4MDU3MzgsLTE1MjM4Mzc4NDcsLTE5OTg2NzA4MDMsMTIyMjY3
-MTcxNSwxNjcxNzEyMDI5LC0xNTU2MjQyMTk5LC00Mzg4MDMzMT
-MsMjEzNzU1NTI1MSwxMjQ5ODg2MzE2LC0xMzE4Njg2NzUzLC0y
-MTQ1NjY5MzkxXX0=
+eyJoaXN0b3J5IjpbMTgxNDg4MzkyMSwtMTk1NDE2MTU4LDk2Nj
+U5NDg1LC0xOTk4NDQ4NTM3LDEzMDQ2NDc1MTMsLTExODEyMzEx
+MTUsLTE3NzE3NjQ1NjgsMTMzMDc4NTQzOCwxNTQ0NDgzODIzLD
+MyNzgwNTczOCwtMTUyMzgzNzg0NywtMTk5ODY3MDgwMywxMjIy
+NjcxNzE1LDE2NzE3MTIwMjksLTE1NTYyNDIxOTksLTQzODgwMz
+MxMywyMTM3NTU1MjUxLDEyNDk4ODYzMTYsLTEzMTg2ODY3NTMs
+LTIxNDU2NjkzOTFdfQ==
 -->
