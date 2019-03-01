@@ -214,15 +214,16 @@ __Duración: 2 Horas__
 
 En esta etapa la práctica será un elemento esencial en la relación de enseñanza – aprendizaje, el facilitador/a acompañará a las personas participantes de una manera permanente resolviendo dudas y orientando el proceso.
 
-
+**¡MANOS A LA OBRA!** (*USO KEEPASS*) Las personas participantes tendrán que realizar las siguientes actividades en sus computadores o en los computadores de la sala del taller siguiendo las siguientes instrucciones:
+<li>Instalación y configuración de Idioma en Español  del Keepass.</li><li>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2NjI4OTY3LC0xOTU0MTYxNTgsOTY2NT
-k0ODUsLTE5OTg0NDg1MzcsMTMwNDY0NzUxMywtMTE4MTIzMTEx
-NSwtMTc3MTc2NDU2OCwxMzMwNzg1NDM4LDE1NDQ0ODM4MjMsMz
-I3ODA1NzM4LC0xNTIzODM3ODQ3LC0xOTk4NjcwODAzLDEyMjI2
-NzE3MTUsMTY3MTcxMjAyOSwtMTU1NjI0MjE5OSwtNDM4ODAzMz
-EzLDIxMzc1NTUyNTEsMTI0OTg4NjMxNiwtMTMxODY4Njc1Mywt
-MjE0NTY2OTM5MV19
+eyJoaXN0b3J5IjpbMjAyNzcxNjM0NywtMTk1NDE2MTU4LDk2Nj
+U5NDg1LC0xOTk4NDQ4NTM3LDEzMDQ2NDc1MTMsLTExODEyMzEx
+MTUsLTE3NzE3NjQ1NjgsMTMzMDc4NTQzOCwxNTQ0NDgzODIzLD
+MyNzgwNTczOCwtMTUyMzgzNzg0NywtMTk5ODY3MDgwMywxMjIy
+NjcxNzE1LDE2NzE3MTIwMjksLTE1NTYyNDIxOTksLTQzODgwMz
+MxMywyMTM3NTU1MjUxLDEyNDk4ODYzMTYsLTEzMTg2ODY3NTMs
+LTIxNDU2NjkzOTFdfQ==
 -->
