@@ -438,13 +438,7 @@ Una vez finalizada esta línea de tiempo, las personas participantes deben tomar
 Duración: 1 Hora 40 Minutos
 En esta etapa la práctica será un elemento esencial en la relación de enseñanza – aprendizaje, el facilitador/a acompañará a las personas participantes de una manera permanente resolviendo dudas y orientando el proceso.
 
-**¡MANOS A LA OBRA! (**_USO MÓVILES_**)**  Las personas participantes tendrán que realizar las siguientes actividades en sus computadores o en los computadores de la sala del taller siguiendo las siguientes instrucciones:<ul><li type=disc>Configuración del celular, patrón de bloqueo o contraseña de acceso seguro.</li><li type=disc>Desactivar funciones como Bluetooth y GPS.</li>
-
-<![if !supportLists]>· <![endif]>Actualización del sistema operativo.
-
-<![if !supportLists]>· <![endif]>Consulta número IMEI.
-
-<![if !supportLists]>· <![endif]>Inventario de Apps, verificación de apps seguras.
+**¡MANOS A LA OBRA! (**_USO MÓVILES_**)**  Las personas participantes tendrán que realizar las siguientes actividades en sus computadores o en los computadores de la sala del taller siguiendo las siguientes instrucciones:<ul><li type=disc>Configuración del celular, patrón de bloqueo o contraseña de acceso seguro.</li><li type=disc>Desactivar funciones como Bluetooth y GPS.</li><li type=disc>Actualización del sistema operativo.</li><li type=disc>Consulta número IMEI.<li><li type=disc>Inventario de Apps, verificación de apps seguras.
 
 ### SÍNTESIS
 Duración: 20 Minutos
@@ -485,7 +479,7 @@ Duración: 10 Minutos
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYzMDE5NTcxLC0xNDAzNDg3NTE5LC0xMz
+eyJoaXN0b3J5IjpbNTUxMTAyNTE0LC0xNDAzNDg3NTE5LC0xMz
 YyMDYyNjU1LC00NTI1MzY5OTYsMTYzOTM4NDkyMCwtMTMzMTc2
 Mjk3MCwxNDU3Mzg5ODEyLC04NzcyNjA5NTQsLTEwNjUzNzgxNz
 AsLTEwNjUzNzgxNzAsLTg0ODc2NzI0OCwtMTc3MzYzOTc2Nywt
