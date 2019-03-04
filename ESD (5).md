@@ -482,14 +482,16 @@ Duración: 20 Minutos<ol><li type=a>Los facilitadores proyectarán el siguiente 
 
 ### EVALUACIÓN
 Duración: 10 Minutos
+tres colores diferentes
+**_¿Cómo conducir la actividad? “LA URNA”_**  Los facilitadores colocaran en una mesa la caja que hará el papel de una _URNA_, Los facilitadores darán las instrucciones a las personas participantes para que en cada color de los tres post-tit entregados evalúen >> ¿Qué te gusto?, ¿Qué aprendiste?, ¿Qué mejorarías? Luego los participantes depositaran dentro de la _URNA_ los post-tit con sus opiniones de cada uno de los aspectos indicados. Al finalizar la sesión se recogerá  el material y se socializaran con el equipo de la EDSD.
 
-
+![](final.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Njc0NTI1ODQsLTE0MDM0ODc1MTksLT
-EzNjIwNjI2NTUsLTQ1MjUzNjk5NiwxNjM5Mzg0OTIwLC0xMzMx
-NzYyOTcwLDE0NTczODk4MTIsLTg3NzI2MDk1NCwtMTA2NTM3OD
-E3MCwtMTA2NTM3ODE3MCwtODQ4NzY3MjQ4LC0xNzczNjM5NzY3
-LC05NjY4MzI4NTksMTQ5NDM3NzczMywtNDc5NjY5MjIxLC03ND
-QyNjk1ODQsLTExNzI2NzEzMzIsMzA2MzUwMzExLC0xNDA4MjYy
-NzQzLDg4ODIzMjQ3MF19
+eyJoaXN0b3J5IjpbMTYyMDU0Nzg5MywtMTQwMzQ4NzUxOSwtMT
+M2MjA2MjY1NSwtNDUyNTM2OTk2LDE2MzkzODQ5MjAsLTEzMzE3
+NjI5NzAsMTQ1NzM4OTgxMiwtODc3MjYwOTU0LC0xMDY1Mzc4MT
+cwLC0xMDY1Mzc4MTcwLC04NDg3NjcyNDgsLTE3NzM2Mzk3Njcs
+LTk2NjgzMjg1OSwxNDk0Mzc3NzMzLC00Nzk2NjkyMjEsLTc0ND
+I2OTU4NCwtMTE3MjY3MTMzMiwzMDYzNTAzMTEsLTE0MDgyNjI3
+NDMsODg4MjMyNDcwXX0=
 -->
