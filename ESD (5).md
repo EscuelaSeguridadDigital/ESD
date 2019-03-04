@@ -300,7 +300,7 @@ En esta etapa la práctica será un elemento esencial en la relación de enseña
 
 **¡MANOS A LA OBRA! ** (_USO DuckDuckGo_) Las personas participantes tendrán que realizar las siguientes actividades en sus computadores o en los computadores de la sala del taller siguiendo las siguientes instrucciones:
 
-<li> Instalación y configuración *DuckDuckGo.* Las personas participantes tendrán que realizar la instalación y configuración de motor de búsqueda *DuckDuckGo dejarlo como motor de búsqueda por defecto, luego de esto realizar varias búsquedas para que identifiquen las características del resultado de búsqueda.* </li><br><li>Configuración, limpieza y eliminación de cookies en navegadores. Las personas participantes tendrán que realizar la configuración en el navegador para eliminarlas cookies de los sitios web.</li>
+<ul><li> Instalación y configuración *DuckDuckGo.* Las personas participantes tendrán que realizar la instalación y configuración de motor de búsqueda *DuckDuckGo dejarlo como motor de búsqueda por defecto, luego de esto realizar varias búsquedas para que identifiquen las características del resultado de búsqueda.* </li><br><li>Configuración, limpieza y eliminación de cookies en navegadores. Las personas participantes tendrán que realizar la configuración en el navegador para eliminarlas cookies de los sitios web.</li></ul>
 
 ### SÍNTESIS
 Duración: 20 Minutos
@@ -460,11 +460,11 @@ Duración: 10 Minutos
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIzOTk3Mjg3LC0xMDY1Mzc4MTcwLC04ND
-g3NjcyNDgsLTE3NzM2Mzk3NjcsLTk2NjgzMjg1OSwxNDk0Mzc3
-NzMzLC00Nzk2NjkyMjEsLTc0NDI2OTU4NCwtMTE3MjY3MTMzMi
-wzMDYzNTAzMTEsLTE0MDgyNjI3NDMsODg4MjMyNDcwLC0xOTU0
-MTYxNTgsOTY2NTk0ODUsLTE5OTg0NDg1MzcsMTMwNDY0NzUxMy
-wtMTE4MTIzMTExNSwtMTc3MTc2NDU2OCwxMzMwNzg1NDM4LDE1
-NDQ0ODM4MjNdfQ==
+eyJoaXN0b3J5IjpbLTEwNjUzNzgxNzAsLTEwNjUzNzgxNzAsLT
+g0ODc2NzI0OCwtMTc3MzYzOTc2NywtOTY2ODMyODU5LDE0OTQz
+Nzc3MzMsLTQ3OTY2OTIyMSwtNzQ0MjY5NTg0LC0xMTcyNjcxMz
+MyLDMwNjM1MDMxMSwtMTQwODI2Mjc0Myw4ODgyMzI0NzAsLTE5
+NTQxNjE1OCw5NjY1OTQ4NSwtMTk5ODQ0ODUzNywxMzA0NjQ3NT
+EzLC0xMTgxMjMxMTE1LC0xNzcxNzY0NTY4LDEzMzA3ODU0Mzgs
+MTU0NDQ4MzgyM119
 -->
