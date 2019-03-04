@@ -388,7 +388,7 @@ Para el desarrollo de esta actividad se proyectará una cuadricula de 5 columnas
 
 Los facilitadores preguntaran en voz alta quién quiere enviar un mensaje y quién quiere recibirlo, una vez seleccionadas las personas emisora y receptora del mensaje se pedirá al resto de las personas participantes que salgan del salón por un momento. Entre tanto los facilitadores explicarán a quien enviará y a quien recibirá el mensaje cómo funciona la clave “Cajón”. En el siguiente enlace encontrarás de qué se trata esta clave: [https://youtu.be/KuUWKzD8e00](https://youtu.be/KuUWKzD8e00)
 
-Una vez se ha transmitido esta información, podrán entrar al salón las personas que habían salido. Los facilitadores le pedirán a la persona emisora que escriba un mensaje según la información dada, este mensaje debe contener los siguientes datos:<ul><li type=disc>Remitente:(celda seleccionada por la persona emisora)</li><li type=disc>Destinatario: (celda seleccionada por la persona receptora)</li><li type=disc>Fecha, Hora y Mensaje (debe ser breve para agilizar el ejercicio)
+Una vez se ha transmitido esta información, podrán entrar al salón las personas que habían salido. Los facilitadores le pedirán a la persona emisora que escriba un mensaje según la información dada, este mensaje debe contener los siguientes datos:<ul><li type=disc>Remitente:(celda seleccionada por la persona emisora)</li><li type=disc>Destinatario: (celda seleccionada por la persona receptora)</li><li type=disc>Fecha, Hora y Mensaje (debe ser breve para agilizar el ejercicio)</li></ul>
 
 Cuando haya terminado, la persona emisora deberá entregar el papel sin ningún dobles a la persona participante que esté más lejos de la persona receptora, de modo que el mensaje pase por mínimo 5 intermediarios antes de llegar a la persona receptora. Al final los facilitadores recibirán el papel y lo pegará en la celda de su destinatario.
 
@@ -467,7 +467,7 @@ Duración: 10 Minutos
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY5MjcxNTM1LC0xNDAzNDg3NTE5LC0xMz
+eyJoaXN0b3J5IjpbNDE1Mzc2MzQxLC0xNDAzNDg3NTE5LC0xMz
 YyMDYyNjU1LC00NTI1MzY5OTYsMTYzOTM4NDkyMCwtMTMzMTc2
 Mjk3MCwxNDU3Mzg5ODEyLC04NzcyNjA5NTQsLTEwNjUzNzgxNz
 AsLTEwNjUzNzgxNzAsLTg0ODc2NzI0OCwtMTc3MzYzOTc2Nywt
