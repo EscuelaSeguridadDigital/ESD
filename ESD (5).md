@@ -355,7 +355,7 @@ Para enviar el mensaje, la persona emisora entregará el papel sin ningún doble
 Duración: 1 Hora 40 Minutos
 En esta etapa la práctica será un elemento esencial en la relación de enseñanza – aprendizaje, el facilitador/a acompañará a las personas participantes de una manera permanente resolviendo dudas y orientando el proceso.
 
-**¡MANOS A LA OBRA! (**_USO THUNDERBIRD_**)** Las personas participantes tendrán que realizar las siguientes actividades en sus computadores o en los computadores de la sala del taller siguiendo las siguientes instrucciones:<li type=disc>Instalación y configuración de _THUNDERBIRD_ _POP – IMAP_, integración de una cuenta externa.</li>
+**¡MANOS A LA OBRA! (**_USO THUNDERBIRD_**)** Las personas participantes tendrán que realizar las siguientes actividades en sus computadores o en los computadores de la sala del taller siguiendo las siguientes instrucciones:<ul><li type=disc>Instalación y configuración de _THUNDERBIRD_ _POP – IMAP_, integración de una cuenta externa.</li></ul>
 
 ### SÍNTESIS
 Duración: 20 Minutos<ol><li type=a>Se construirá conjuntamente las 5 conclusiones más importantes del módulo, en especial con relación a la privacidad que ofrece el correo electrónico gratuito comparado con el correo de otros proveedores, estas conclusiones serán escritas en un procesador de texto con el fin de que sean proyectadas y  vistas por las personas participantes.</li><li type=a>Los facilitadores darán la palabra a las personas participantes para que libremente hagan  preguntas y aclaren sus dudas.</li></ol>
@@ -400,9 +400,7 @@ Para terminar los facilitadores preguntará en plenaria si alguien sabe que dec�
 Duración: 1 Hora 40 Minutos
 En esta etapa la práctica será un elemento esencial en la relación de enseñanza – aprendizaje, el facilitador/a acompañará a las personas participantes de una manera permanente resolviendo dudas y orientando el proceso.
 
-**¡MANOS A LA OBRA! (**_USO ENIGMAIL - MAILVELOPE_**)**  Las personas participantes tendrán que realizar las siguientes actividades en sus computadores o en los computadores de la sala del taller siguiendo las siguientes instrucciones:
-
-<li type=disc>Instalación y configuración de la extensión de _ENIGMAIL_ en el cliente de correo _THUNDERBIRD_, o la extensión de _MAILVELOPE_ para navegadores.</li>
+**¡MANOS A LA OBRA! (**_USO ENIGMAIL - MAILVELOPE_**)**  Las personas participantes tendrán que realizar las siguientes actividades en sus computadores o en los computadores de la sala del taller siguiendo las siguientes instrucciones:<ul><li type=disc>Instalación y configuración de la extensión de _ENIGMAIL_ en el cliente de correo _THUNDERBIRD_, o la extensión de _MAILVELOPE_ para navegadores.</li></ul>
 
 ### SÍNTESIS
 Duración: 20 Minutos<ol><li type=a>Se propone discutir sobre la importancia de enviar correo cifrado, las ventajas de que existen, las personas del común estarían interesadas de implementar correo cifrado, estos comentarios y opiniones serán escritas en un procesador de texto con el fin de que sean proyectadas y  vistas por las personas participantes.</li><li type=a>Los facilitadores darán la palabra a las personas participantes para que libremente hagan  preguntas y aclaren sus dudas.</li></ol>
@@ -488,7 +486,7 @@ tres colores diferentes
 
 ![](final.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMTgyMjcyNywxNjIwNTQ3ODkzLC0xND
+eyJoaXN0b3J5IjpbLTI1ODYzNDQ0MSwxNjIwNTQ3ODkzLC0xND
 AzNDg3NTE5LC0xMzYyMDYyNjU1LC00NTI1MzY5OTYsMTYzOTM4
 NDkyMCwtMTMzMTc2Mjk3MCwxNDU3Mzg5ODEyLC04NzcyNjA5NT
 QsLTEwNjUzNzgxNzAsLTEwNjUzNzgxNzAsLTg0ODc2NzI0OCwt
