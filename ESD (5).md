@@ -7,7 +7,7 @@
 
 
 # Bienvenida
-Este recurso se ha creado en el marco del Proyecto de Escuela de Seguridad Digital para la  implementación del proceso de acompañamiento en Seguridad Digital dirigido a organizaciones de la sociedad civil, defensores de derechos humanos, activistas, comunidad LGBT, ambientalistas y periodistas, entre otras. Este proyecto es apoyado por eQualit.ie y coordinado por Colnodo. 
+<p>Este recurso se ha creado en el marco del Proyecto de Escuela de Seguridad Digital para la  implementación del proceso de acompañamiento en Seguridad Digital dirigido a organizaciones de la sociedad civil, defensores de derechos humanos, activistas, comunidad LGBT, ambientalistas y periodistas, entre otras. Este proyecto es apoyado por eQualit.ie y coordinado por Colnodo. 
 
 El objetivo de esta guía es orientar a los facilitadores y facilitadoras respecto al diseño estructural, los lineamientos metodológicos y el plan de contenidos propio del proceso formativo de alfabetización en Seguridad Digital. 
 
@@ -460,11 +460,11 @@ tres colores diferentes
 
 ![](final.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzAwNTEzNDAsLTEwODA3MzA2MjMsLT
-Y2OTY1OTMzMSwtMTQxMjA2OTg1MiwtMjU4NjM0NDQxLDE2MjA1
-NDc4OTMsLTE0MDM0ODc1MTksLTEzNjIwNjI2NTUsLTQ1MjUzNj
-k5NiwxNjM5Mzg0OTIwLC0xMzMxNzYyOTcwLDE0NTczODk4MTIs
-LTg3NzI2MDk1NCwtMTA2NTM3ODE3MCwtMTA2NTM3ODE3MCwtOD
-Q4NzY3MjQ4LC0xNzczNjM5NzY3LC05NjY4MzI4NTksMTQ5NDM3
-NzczMywtNDc5NjY5MjIxXX0=
+eyJoaXN0b3J5IjpbLTQ5NzczNjA0MCwtMTA3MDA1MTM0MCwtMT
+A4MDczMDYyMywtNjY5NjU5MzMxLC0xNDEyMDY5ODUyLC0yNTg2
+MzQ0NDEsMTYyMDU0Nzg5MywtMTQwMzQ4NzUxOSwtMTM2MjA2Mj
+Y1NSwtNDUyNTM2OTk2LDE2MzkzODQ5MjAsLTEzMzE3NjI5NzAs
+MTQ1NzM4OTgxMiwtODc3MjYwOTU0LC0xMDY1Mzc4MTcwLC0xMD
+Y1Mzc4MTcwLC04NDg3NjcyNDgsLTE3NzM2Mzk3NjcsLTk2Njgz
+Mjg1OSwxNDk0Mzc3NzMzXX0=
 -->
