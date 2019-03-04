@@ -228,6 +228,7 @@ Materiales requeridos: Hojas de papel con un termómetro. (_Anexo en la carpeta 
 <![endif]-->
 
 # Principios de Seguridad Digital 2 – Intermedio
+**_Tiempo total: 4 Horas_**
 
 ![](SD2.png)
 
@@ -276,15 +277,16 @@ Materiales requeridos: Hojas de papel con una Diana. (_Anexo en la carpeta de ma
 **_¿Cómo conducir la actividad? “LA DIANA”_**  Los facilitadores repartirán una hoja la cual tiene dibujado una _Diana_ con tres aspectos a evaluar >> ¿Qué te gusto?, ¿Qué aprendiste?, ¿Qué mejorarías? Los facilitadores darán las instrucciones a las personas participantes para que coloquen allí sus opiniones en cada uno de los aspectos indicados. Al finalizar la sesión se recogerán las hojas y se socializaran con el equipo de la EDSD.
 
 # Anonimato 1 – Básico
-Duración: 10 Minutos
+**_Tiempo total: 4 Horas_**
+
 ![](anonimato1.png)
 
 
 ___¿Cómo conducir la actividad?___
 
 ### INTRODUCCIÓN
-Duración: 5 Minutos
-
+Duración: 5 Minutos.
+Los facilitadores presentaran de una manera global a las personas participantes  los temas que se presentaran en el transcurso de la sesión, la metodología de trabajo (Ruta de aprendizaje) y mencionaran nuevamente los acuerdos de convivencia y participación en la sesión.  (_Presentación anexa en la carpeta de material de trabajo_)
 
 ### CONTEXTUALIZACIÓN
 Duración: 1 Hora 30 Minutos
@@ -451,7 +453,7 @@ Duración: 10 Minutos
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3OTM5ODA2MywtMTc3MzYzOTc2NywtOT
+eyJoaXN0b3J5IjpbMTI3NzA4NjQ2OCwtMTc3MzYzOTc2NywtOT
 Y2ODMyODU5LDE0OTQzNzc3MzMsLTQ3OTY2OTIyMSwtNzQ0MjY5
 NTg0LC0xMTcyNjcxMzMyLDMwNjM1MDMxMSwtMTQwODI2Mjc0My
 w4ODgyMzI0NzAsLTE5NTQxNjE1OCw5NjY1OTQ4NSwtMTk5ODQ0
