@@ -477,9 +477,7 @@ En esta etapa la práctica será un elemento esencial en la relación de enseña
 **¡MANOS A LA OBRA! (**_USO FACEBOOK - TWITTER_**)** Las personas participantes tendrán que realizar las siguientes actividades en sus computadores o en los computadores de la sala del taller siguiendo las siguientes instrucciones:<ul><li type=disc>Configuración de privacidad y seguridad de Facebook, Twitter (Social Media)</li></ul>
 
 ### SÍNTESIS
-Duración: 20 Minutos<ol><li type=a<Los facilitadores proyectarán el siguiente video acerca del uso de Internet y las redes Sociales [https://www.youtube.com/watch?v=t-x73w1N1os](https://www.youtube.com/watch?v=t-x73w1N1os) enseguida cada persona participantes escogerá una de las recomendaciones dadas en el video y explicara su importancia y la metodología que implementara dentro de sus pautas diarias para el uso responsable de las redes sociales.
-
-<![if !supportLists]>b. <![endif]>Los facilitadores darán la palabra a las personas participantes para que libremente hagan  preguntas y aclaren sus dudas.
+Duración: 20 Minutos<ol><li type=a>Los facilitadores proyectarán el siguiente video acerca del uso de Internet y las redes Sociales  [https://www.youtube.com/watch?v=t-x73w1N1os](https://www.youtube.com/watch?v=t-x73w1N1os) enseguida cada persona participantes escogerá una de las recomendaciones dadas en el video y explicara su importancia y la metodología que implementara dentro de sus pautas diarias para el uso responsable de las redes sociales.</li><li type=a>Los facilitadores darán la palabra a las personas participantes para que libremente hagan  preguntas y aclaren sus dudas.</li></ol>
 
 
 ### EVALUACIÓN
@@ -487,7 +485,7 @@ Duración: 10 Minutos
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODkyMTIxNjEsLTE0MDM0ODc1MTksLT
+eyJoaXN0b3J5IjpbLTE3Njc0NTI1ODQsLTE0MDM0ODc1MTksLT
 EzNjIwNjI2NTUsLTQ1MjUzNjk5NiwxNjM5Mzg0OTIwLC0xMzMx
 NzYyOTcwLDE0NTczODk4MTIsLTg3NzI2MDk1NCwtMTA2NTM3OD
 E3MCwtMTA2NTM3ODE3MCwtODQ4NzY3MjQ4LC0xNzczNjM5NzY3
