@@ -255,9 +255,7 @@ En esta etapa la práctica será un elemento esencial en la relación de enseña
 **¡MANOS A LA OBRA!** (*USO RECUVA - ERASER*)  Las personas participantes tendrán que realizar las siguientes actividades en sus computadores o en los computadores de la sala del taller siguiendo las siguientes instrucciones<ul><li type=disc>Instalación y configuración _RECUVA_. Las personas participantes tendrán que crear una carpeta con información de prueba, puede ser una ya existente si lo desean, seguido a esto deberán eliminarla y proceder a vaciarla también en la papelera de reciclaje, por último las personas participantes tendrán que recuperar la carpeta con la información con el uso de _RECUVA._</li><br><li type=disc>Instalación y configuración _ERASER_. -  Las personas participantes tendrán que eliminar de manera permanente un archivo de su computadora o de una USB utilizando el _ERASER_. _Nota: Los facilitadores deben estar pendientes y recordarles a las personas participantes que estén seguros de cual archivo van a eliminar, pues una vez que  el archivo se elimine con la herramienta ERASER este no se podrá recuperar._</li></ul>
 
 ### SÍNTESIS
-Duración: 20 Minutos
-
-<ol><li type=a>Los facilitadores leerán en voz alta la siguiente afirmación: “_Desde un punto de vista técnico, no se puede borrar algo en tu computadora._ ” A continuación se les realizara las siguientes preguntas a las personas participantes:</li><ul><li type=disc>¿Qué opinan de la afirmación?</li><li type=disc>¿Por qué no existirá una función de “borrado” real?</li><li type=disc>¿Qué crees que pasa con esos datos cuando se “elimina”?</li></ul><li type=a> Los facilitadores darán la palabra a las personas participantes para que libremente hagan  preguntas y aclaren sus dudas.</li></ol>
+Duración: 20 Minutos<ol><li type=a>Los facilitadores leerán en voz alta la siguiente afirmación: “_Desde un punto de vista técnico, no se puede borrar algo en tu computadora._ ” A continuación se les realizara las siguientes preguntas a las personas participantes:</li><ul><li type=disc>¿Qué opinan de la afirmación?</li><li type=disc>¿Por qué no existirá una función de “borrado” real?</li><li type=disc>¿Qué crees que pasa con esos datos cuando se “elimina”?</li></ul><li type=a> Los facilitadores darán la palabra a las personas participantes para que libremente hagan  preguntas y aclaren sus dudas.</li></ol>
 
 ### EVALUACIÓN
 Duración: 10 Minutos
@@ -279,17 +277,13 @@ Los facilitadores presentaran de una manera global a las personas participantes 
 
 ### CONTEXTUALIZACIÓN
 Duración: 1 Hora 30 Minutos
-Esta etapa estará enfocada a fortalecer conocimientos teóricos.
-
-<ol> <li type=a> Los facilitadores harán uso de la presentación correspondiente al módulo _Anonimato 1 – Básico (Presentación anexa en la carpeta de material de trabajo_ )</li></ol>
+Esta etapa estará enfocada a fortalecer conocimientos teóricos.<ol> <li type=a> Los facilitadores harán uso de la presentación correspondiente al módulo _Anonimato 1 – Básico (Presentación anexa en la carpeta de material de trabajo_ )</li></ol>
 
 ### PRÁCTICA
 Duración: 1 Hora 40 Minutos
 En esta etapa la práctica será un elemento esencial en la relación de enseñanza – aprendizaje, el facilitador/a acompañará a las personas participantes de una manera permanente resolviendo dudas y orientando el proceso.
 
-**¡MANOS A LA OBRA! ** (_USO DuckDuckGo_) Las personas participantes tendrán que realizar las siguientes actividades en sus computadores o en los computadores de la sala del taller siguiendo las siguientes instrucciones:
-
-<ul><li type=disc>Instalación y configuración *DuckDuckGo.* Las personas participantes tendrán que realizar la instalación y configuración de motor de búsqueda *DuckDuckGo dejarlo como motor de búsqueda por defecto, luego de esto realizar varias búsquedas para que identifiquen las características del resultado de búsqueda.* </li><br><li type=disc>Configuración, limpieza y eliminación de cookies en navegadores. Las personas participantes tendrán que realizar la configuración en el navegador para eliminarlas cookies de los sitios web.</li></ul>
+**¡MANOS A LA OBRA! ** (_USO DuckDuckGo_) Las personas participantes tendrán que realizar las siguientes actividades en sus computadores o en los computadores de la sala del taller siguiendo las siguientes instrucciones:<ul><li type=disc>Instalación y configuración *DuckDuckGo.* Las personas participantes tendrán que realizar la instalación y configuración de motor de búsqueda *DuckDuckGo dejarlo como motor de búsqueda por defecto, luego de esto realizar varias búsquedas para que identifiquen las características del resultado de búsqueda.* </li><br><li type=disc>Configuración, limpieza y eliminación de cookies en navegadores. Las personas participantes tendrán que realizar la configuración en el navegador para eliminarlas cookies de los sitios web.</li></ul>
 
 ### SÍNTESIS
 Duración: 20 Minutos
@@ -465,11 +459,11 @@ Duración: 10 Minutos
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5ODI0MDE1OSwxNjM5Mzg0OTIwLC0xMz
-MxNzYyOTcwLDE0NTczODk4MTIsLTg3NzI2MDk1NCwtMTA2NTM3
-ODE3MCwtMTA2NTM3ODE3MCwtODQ4NzY3MjQ4LC0xNzczNjM5Nz
-Y3LC05NjY4MzI4NTksMTQ5NDM3NzczMywtNDc5NjY5MjIxLC03
-NDQyNjk1ODQsLTExNzI2NzEzMzIsMzA2MzUwMzExLC0xNDA4Mj
-YyNzQzLDg4ODIzMjQ3MCwtMTk1NDE2MTU4LDk2NjU5NDg1LC0x
-OTk4NDQ4NTM3XX0=
+eyJoaXN0b3J5IjpbNDI0NjU5Mzk1LDE2MzkzODQ5MjAsLTEzMz
+E3NjI5NzAsMTQ1NzM4OTgxMiwtODc3MjYwOTU0LC0xMDY1Mzc4
+MTcwLC0xMDY1Mzc4MTcwLC04NDg3NjcyNDgsLTE3NzM2Mzk3Nj
+csLTk2NjgzMjg1OSwxNDk0Mzc3NzMzLC00Nzk2NjkyMjEsLTc0
+NDI2OTU4NCwtMTE3MjY3MTMzMiwzMDYzNTAzMTEsLTE0MDgyNj
+I3NDMsODg4MjMyNDcwLC0xOTU0MTYxNTgsOTY2NTk0ODUsLTE5
+OTg0NDg1MzddfQ==
 -->
