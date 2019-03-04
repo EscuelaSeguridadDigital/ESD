@@ -274,12 +274,43 @@ Duración: 10 Minutos
 
 Materiales requeridos: Hojas de papel con una Diana. (_Anexo en la carpeta de material de trabajo_) 
 **_¿Cómo conducir la actividad? “LA DIANA”_**  Los facilitadores repartirán una hoja la cual tiene dibujado una _Diana_ con tres aspectos a evaluar >> ¿Qué te gusto?, ¿Qué aprendiste?, ¿Qué mejorarías? Los facilitadores darán las instrucciones a las personas participantes para que coloquen allí sus opiniones en cada uno de los aspectos indicados. Al finalizar la sesión se recogerán las hojas y se socializaran con el equipo de la EDSD.
+
+# Principios de Seguridad Digital 2 – Intermedio
+
+![](SD2.png)
+
+
+___¿Cómo conducir la actividad?___
+
+### INTRODUCCIÓN
+Duración: 5 Minutos
+
+
+### CONTEXTUALIZACIÓN
+Duración: 1 Hora 30 Minutos
+
+**ACTIVIDAD 1 – EL A, B, C DE LA INFORMACIÓN**
+
+
+### PRÁCTICA
+Duración: 1 Hora 40 Minutos
+
+
+### SÍNTESIS
+Duración: 20 Minutos
+
+
+
+### EVALUACIÓN
+Duración: 10 Minutos
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2NjgzMjg1OSwxNDk0Mzc3NzMzLC00Nz
-k2NjkyMjEsLTc0NDI2OTU4NCwtMTE3MjY3MTMzMiwzMDYzNTAz
-MTEsLTE0MDgyNjI3NDMsODg4MjMyNDcwLC0xOTU0MTYxNTgsOT
-Y2NTk0ODUsLTE5OTg0NDg1MzcsMTMwNDY0NzUxMywtMTE4MTIz
-MTExNSwtMTc3MTc2NDU2OCwxMzMwNzg1NDM4LDE1NDQ0ODM4Mj
-MsMzI3ODA1NzM4LC0xNTIzODM3ODQ3LC0xOTk4NjcwODAzLDEy
-MjI2NzE3MTVdfQ==
+eyJoaXN0b3J5IjpbMTA4MTk0NTg5MywtOTY2ODMyODU5LDE0OT
+QzNzc3MzMsLTQ3OTY2OTIyMSwtNzQ0MjY5NTg0LC0xMTcyNjcx
+MzMyLDMwNjM1MDMxMSwtMTQwODI2Mjc0Myw4ODgyMzI0NzAsLT
+E5NTQxNjE1OCw5NjY1OTQ4NSwtMTk5ODQ0ODUzNywxMzA0NjQ3
+NTEzLC0xMTgxMjMxMTE1LC0xNzcxNzY0NTY4LDEzMzA3ODU0Mz
+gsMTU0NDQ4MzgyMywzMjc4MDU3MzgsLTE1MjM4Mzc4NDcsLTE5
+OTg2NzA4MDNdfQ==
 -->
