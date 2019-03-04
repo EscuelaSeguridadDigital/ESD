@@ -466,16 +466,17 @@ Esta etapa estará enfocada a fortalecer conocimientos teóricos<ol><li type=a>L
 
 Para iniciar se presentará el video ¡Un mago que te dejará sin aliento!, el cual tiene dos minutos y medio de duración. [https://www.youtube.com/watch?v=1LLDS8fIW0A](https://www.youtube.com/watch?v=1LLDS8fIW0A)
 
-Seguidamente, el grupo se dividirá en 4subgrupos y a cada uno se le entregará una pregunta relacionada con el video y la privacidad de la información en internet, estas son:<ul><li type=disc>**Pregunta 1.** ¿Cuál creen que puede ser el impacto en unos años de la información que publicamos en redes sociales en este momento?</li><li type=disc>**Pregunta 2.** ¿Qué tantos detalles de tu vida privada son públicos a través de las redes sociales?</li><li type=disc>
-
-<![if !supportLists]>· <![endif]>**Pregunta 3.** ¿Qué tipo de información compartes en tus redes sociales que pueda ser usada por personas que quieran hacerte daño?
-
-<![if !supportLists]>· <![endif]>**Pregunta 4.** ¿Tú o tus amistades han publicado información de tu vida personal que hubieras preferido mantener en reserva?
+Seguidamente, el grupo se dividirá en 4subgrupos y a cada uno se le entregará una pregunta relacionada con el video y la privacidad de la información en internet, estas son:<ul><li type=disc>**Pregunta 1.** ¿Cuál creen que puede ser el impacto en unos años de la información que publicamos en redes sociales en este momento?</li><li type=disc>**Pregunta 2.** ¿Qué tantos detalles de tu vida privada son públicos a través de las redes sociales?</li><li type=disc>**Pregunta 3.** ¿Qué tipo de información compartes en tus redes sociales que pueda ser usada por personas que quieran hacerte daño?</li><li type=disc>**Pregunta 4.** ¿Tú o tus amistades han publicado información de tu vida personal que hubieras preferido mantener en reserva?</li></ul>
 
 Cada subgrupo deberá analizar la pregunta y reflexionar de acuerdo con la información que publica en sus redes sociales como Facebook, Twitter, Instagram, SnapChat o YouTube. Al final una persona de cada subgrupo compartirá las conclusiones en plenaria.
+
 ### PRÁCTICA
 Duración: 1 Hora 40 Minutos
+En esta etapa la práctica será un elemento esencial en la relación de enseñanza – aprendizaje, el facilitador/a acompañará a las personas participantes de una manera permanente resolviendo dudas y orientando el proceso.
 
+**¡MANOS A LA OBRA! (**_USO FACEBOOK - TWITTER_**)** Las personas participantes tendrán que realizar las siguientes actividades en sus computadores o en los computadores de la sala del taller siguiendo las siguientes instrucciones:
+
+<![if !supportLists]>· <![endif]>Configuración de privacidad y seguridad de Facebook, Twitter (Social Media)
 
 ### SÍNTESIS
 Duración: 20 Minutos
@@ -487,11 +488,11 @@ Duración: 10 Minutos
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzkwNzg1NjAsLTE0MDM0ODc1MTksLT
-EzNjIwNjI2NTUsLTQ1MjUzNjk5NiwxNjM5Mzg0OTIwLC0xMzMx
-NzYyOTcwLDE0NTczODk4MTIsLTg3NzI2MDk1NCwtMTA2NTM3OD
-E3MCwtMTA2NTM3ODE3MCwtODQ4NzY3MjQ4LC0xNzczNjM5NzY3
-LC05NjY4MzI4NTksMTQ5NDM3NzczMywtNDc5NjY5MjIxLC03ND
-QyNjk1ODQsLTExNzI2NzEzMzIsMzA2MzUwMzExLC0xNDA4MjYy
-NzQzLDg4ODIzMjQ3MF19
+eyJoaXN0b3J5IjpbMTkzMzk2NzE2NSwtMTQwMzQ4NzUxOSwtMT
+M2MjA2MjY1NSwtNDUyNTM2OTk2LDE2MzkzODQ5MjAsLTEzMzE3
+NjI5NzAsMTQ1NzM4OTgxMiwtODc3MjYwOTU0LC0xMDY1Mzc4MT
+cwLC0xMDY1Mzc4MTcwLC04NDg3NjcyNDgsLTE3NzM2Mzk3Njcs
+LTk2NjgzMjg1OSwxNDk0Mzc3NzMzLC00Nzk2NjkyMjEsLTc0ND
+I2OTU4NCwtMTE3MjY3MTMzMiwzMDYzNTAzMTEsLTE0MDgyNjI3
+NDMsODg4MjMyNDcwXX0=
 -->
