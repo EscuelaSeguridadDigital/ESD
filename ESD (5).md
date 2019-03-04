@@ -283,7 +283,7 @@ Esta etapa estará enfocada a fortalecer conocimientos teóricos.<ol> <li type=a
 Duración: 1 Hora 40 Minutos
 En esta etapa la práctica será un elemento esencial en la relación de enseñanza – aprendizaje, el facilitador/a acompañará a las personas participantes de una manera permanente resolviendo dudas y orientando el proceso.
 
-**¡MANOS A LA OBRA! ** (_USO DuckDuckGo_) Las personas participantes tendrán que realizar las siguientes actividades en sus computadores o en los computadores de la sala del taller siguiendo las siguientes instrucciones:<ul><li type=disc>Instalación y configuración *DuckDuckGo.* Las personas participantes tendrán que realizar la instalación y configuración de motor de búsqueda *DuckDuckGo dejarlo como motor de búsqueda por defecto, luego de esto realizar varias búsquedas para que identifiquen las características del resultado de búsqueda.* </li><br><li type=disc>Configuración, limpieza y eliminación de cookies en navegadores. Las personas participantes tendrán que realizar la configuración en el navegador para eliminarlas cookies de los sitios web.</li></ul>
+**¡MANOS A LA OBRA! **   (_USO DuckDuckGo_) Las personas participantes tendrán que realizar las siguientes actividades en sus computadores o en los computadores de la sala del taller siguiendo las siguientes instrucciones:<ul><li type=disc>Instalación y configuración *DuckDuckGo.* Las personas participantes tendrán que realizar la instalación y configuración de motor de búsqueda *DuckDuckGo dejarlo como motor de búsqueda por defecto, luego de esto realizar varias búsquedas para que identifiquen las características del resultado de búsqueda.* </li><br><li type=disc>Configuración, limpieza y eliminación de cookies en navegadores. Las personas participantes tendrán que realizar la configuración en el navegador para eliminarlas cookies de los sitios web.</li></ul>
 
 ### SÍNTESIS
 Duración: 20 Minutos
@@ -459,11 +459,11 @@ Duración: 10 Minutos
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI0NjU5Mzk1LDE2MzkzODQ5MjAsLTEzMz
-E3NjI5NzAsMTQ1NzM4OTgxMiwtODc3MjYwOTU0LC0xMDY1Mzc4
-MTcwLC0xMDY1Mzc4MTcwLC04NDg3NjcyNDgsLTE3NzM2Mzk3Nj
-csLTk2NjgzMjg1OSwxNDk0Mzc3NzMzLC00Nzk2NjkyMjEsLTc0
-NDI2OTU4NCwtMTE3MjY3MTMzMiwzMDYzNTAzMTEsLTE0MDgyNj
-I3NDMsODg4MjMyNDcwLC0xOTU0MTYxNTgsOTY2NTk0ODUsLTE5
-OTg0NDg1MzddfQ==
+eyJoaXN0b3J5IjpbLTE0NjY3NjcxNjUsMTYzOTM4NDkyMCwtMT
+MzMTc2Mjk3MCwxNDU3Mzg5ODEyLC04NzcyNjA5NTQsLTEwNjUz
+NzgxNzAsLTEwNjUzNzgxNzAsLTg0ODc2NzI0OCwtMTc3MzYzOT
+c2NywtOTY2ODMyODU5LDE0OTQzNzc3MzMsLTQ3OTY2OTIyMSwt
+NzQ0MjY5NTg0LC0xMTcyNjcxMzMyLDMwNjM1MDMxMSwtMTQwOD
+I2Mjc0Myw4ODgyMzI0NzAsLTE5NTQxNjE1OCw5NjY1OTQ4NSwt
+MTk5ODQ0ODUzN119
 -->
