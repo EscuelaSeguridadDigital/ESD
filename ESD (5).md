@@ -325,13 +325,18 @@ Los facilitadores presentaran de una manera global a las personas participantes 
 ### CONTEXTUALIZACIÓN
 Duración: 1 Hora 30 Minutos
 Esta etapa estará enfocada a fortalecer conocimientos teóricos
+<li type=a>Los facilitadores harán uso de la presentación correspondiente al módulo _Anonimato 2 – Intermedio  (Presentación anexa en la carpeta de material de trabajo)_ </li>
 
-Los facilitadores harán uso de la presentación correspondiente al módulo _Anonimato 2 – Intermedio_ (_Presentación anexa en la carpeta de material de trabajo_)
 
 
 ### PRÁCTICA
 Duración: 1 Hora 40 Minutos
+En esta etapa la práctica será un elemento esencial en la relación de enseñanza – aprendizaje, el facilitador/a acompañará a las personas participantes de una manera permanente resolviendo dudas y orientando el proceso.
 
+**¡MANOS A LA OBRA! (**_USO VPN - TOR - TAILS_**)** Las personas participantes tendrán que realizar las siguientes actividades en sus computadores o en los computadores de la sala del taller siguiendo las siguientes instrucciones:
+
+Implementación de _VPN_. Las personas participantes tendrán que realizar con la ayuda de los facilitadores la implementación de una VPN.
+Instalación y configuración del Navegador TOR. Las personas participantes tendrán que realizar la instalación y configuración del navegador TOR, este instrucción la pueden hacer desde sus computadores o dispositivos móviles y si lo permite el tiempo en ambos.
 
 ### SÍNTESIS
 Duración: 20 Minutos
@@ -459,11 +464,11 @@ Duración: 10 Minutos
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTczMjQ5NDIsLTg3NzI2MDk1NCwtMT
-A2NTM3ODE3MCwtMTA2NTM3ODE3MCwtODQ4NzY3MjQ4LC0xNzcz
-NjM5NzY3LC05NjY4MzI4NTksMTQ5NDM3NzczMywtNDc5NjY5Mj
-IxLC03NDQyNjk1ODQsLTExNzI2NzEzMzIsMzA2MzUwMzExLC0x
-NDA4MjYyNzQzLDg4ODIzMjQ3MCwtMTk1NDE2MTU4LDk2NjU5ND
-g1LC0xOTk4NDQ4NTM3LDEzMDQ2NDc1MTMsLTExODEyMzExMTUs
-LTE3NzE3NjQ1NjhdfQ==
+eyJoaXN0b3J5IjpbMTYxMTE1ODgyNSwtODc3MjYwOTU0LC0xMD
+Y1Mzc4MTcwLC0xMDY1Mzc4MTcwLC04NDg3NjcyNDgsLTE3NzM2
+Mzk3NjcsLTk2NjgzMjg1OSwxNDk0Mzc3NzMzLC00Nzk2NjkyMj
+EsLTc0NDI2OTU4NCwtMTE3MjY3MTMzMiwzMDYzNTAzMTEsLTE0
+MDgyNjI3NDMsODg4MjMyNDcwLC0xOTU0MTYxNTgsOTY2NTk0OD
+UsLTE5OTg0NDg1MzcsMTMwNDY0NzUxMywtMTE4MTIzMTExNSwt
+MTc3MTc2NDU2OF19
 -->
