@@ -353,8 +353,6 @@ Los facilitadores presentaran de una manera global a las personas participantes 
 Duración: 1 Hora 30 Minutos
 Esta etapa estará enfocada a fortalecer conocimientos teóricos<ol><li type=a>Los facilitadores harán uso de la presentación correspondiente al módulo _Servidores de Correo electrónico seguro 2 – Intermedio_ (_Presentación anexa en la carpeta de material de trabajo_)</li><li type=a>Los facilitadores realizaran  distintas actividades en el transcurso de las presentaciones, con el objetivo de que las personas participantes afiancen mejor la teoría con ejemplos prácticos.</li></ol>
 
-<![endif]-->
-
 **ACTIVIDAD - ENVIEMOS MENSAJES EN CLAVE**
 
 Para el desarrollo de esta actividad se proyectará una cuadricula de 5 columnas y 5 filas, en total se visualizarán 25 celdas. Las columnas se identificarán en la parte superior con las letras a, b, c, d y e y las filas con los números 1, 2, 3, 4 y 5 en el costado izquierdo. _En caso de no disponer de proyector se puede usar un pliego de papel periódico con esta cuadricula dibujada._
@@ -458,11 +456,11 @@ tres colores diferentes
 
 ![](final.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTIwNjk4NTIsLTI1ODYzNDQ0MSwxNj
-IwNTQ3ODkzLC0xNDAzNDg3NTE5LC0xMzYyMDYyNjU1LC00NTI1
-MzY5OTYsMTYzOTM4NDkyMCwtMTMzMTc2Mjk3MCwxNDU3Mzg5OD
-EyLC04NzcyNjA5NTQsLTEwNjUzNzgxNzAsLTEwNjUzNzgxNzAs
-LTg0ODc2NzI0OCwtMTc3MzYzOTc2NywtOTY2ODMyODU5LDE0OT
-QzNzc3MzMsLTQ3OTY2OTIyMSwtNzQ0MjY5NTg0LC0xMTcyNjcx
-MzMyLDMwNjM1MDMxMV19
+eyJoaXN0b3J5IjpbLTY2OTY1OTMzMSwtMTQxMjA2OTg1MiwtMj
+U4NjM0NDQxLDE2MjA1NDc4OTMsLTE0MDM0ODc1MTksLTEzNjIw
+NjI2NTUsLTQ1MjUzNjk5NiwxNjM5Mzg0OTIwLC0xMzMxNzYyOT
+cwLDE0NTczODk4MTIsLTg3NzI2MDk1NCwtMTA2NTM3ODE3MCwt
+MTA2NTM3ODE3MCwtODQ4NzY3MjQ4LC0xNzczNjM5NzY3LC05Nj
+Y4MzI4NTksMTQ5NDM3NzczMywtNDc5NjY5MjIxLC03NDQyNjk1
+ODQsLTExNzI2NzEzMzJdfQ==
 -->
