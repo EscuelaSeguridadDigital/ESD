@@ -460,13 +460,8 @@ Los facilitadores presentaran de una manera global a las personas participantes 
 
 ### CONTEXTUALIZACIÓN
 Duración: 1 Hora 30 Minutos
-<![endif]-->
+Esta etapa estará enfocada a fortalecer conocimientos teóricos<ol><li type=a>Los facilitadores harán uso de la presentación correspondiente al módulo _Redes Sociales_ (_Presentación anexa en la carpeta de material de trabajo_)</li><li type=a>Los facilitadores realizaran  distintas actividades en el transcurso de las presentaciones, con el objetivo de que las personas participantes afiancen mejor la teoría con ejemplos prácticos.<
 
-Esta etapa estará enfocada a fortalecer conocimientos teóricos
-
-<![if !supportLists]>a. <![endif]>Los facilitadores harán uso de la presentación correspondiente al módulo _Redes Sociales_ (_Presentación anexa en la carpeta de material de trabajo_)
-
-<![if !supportLists]>b. <![endif]>Los facilitadores realizaran  distintas actividades en el transcurso de las presentaciones, con el objetivo de que las personas participantes afiancen mejor la teoría con ejemplos prácticos.
 **ACTIVIDAD 1 – EL A, B, C DE LA INFORMACIÓN**
 
 
@@ -484,7 +479,7 @@ Duración: 10 Minutos
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY0MjA3MTE0LC0xNDAzNDg3NTE5LC0xMz
+eyJoaXN0b3J5IjpbMzE2NTczMzQzLC0xNDAzNDg3NTE5LC0xMz
 YyMDYyNjU1LC00NTI1MzY5OTYsMTYzOTM4NDkyMCwtMTMzMTc2
 Mjk3MCwxNDU3Mzg5ODEyLC04NzcyNjA5NTQsLTEwNjUzNzgxNz
 AsLTEwNjUzNzgxNzAsLTg0ODc2NzI0OCwtMTc3MzYzOTc2Nywt
