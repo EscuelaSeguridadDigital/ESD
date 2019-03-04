@@ -340,12 +340,17 @@ Duración: 1 Hora 30 Minutos
 Esta etapa estará enfocada a fortalecer conocimientos teóricos <ol><li type=a>Los facilitadores harán uso de la presentación correspondiente al módulo _Servidores de Correo electrónico seguro 1 – Básico_ (_Presentación anexa en la carpeta de material de trabajo_)</li><li type=a>Los facilitadores realizaran  distintas actividades en el transcurso de las presentaciones, con el objetivo de que las personas participantes afiancen mejor la teoría con ejemplos prácticos.</li></ol>
 
 **ACTIVIDAD - LA RUTA DEL CORREO**
-
 Se explicará cómo funciona el correo electrónico a través de una simulación de la estructura de internet, para comprender cómo viaja un mensaje de correo desde el emisor hasta el receptor.
 
 Para el desarrollo de esta actividad se proyectará una cuadricula de 5 columnas y 5 filas, en total se visualizarán 25 celdas. Las columnas se identificarán en la parte superior con las letras a, b, c, d y e y las filas con los números 1, 2, 3, 4 y 5 en el costado izquierdo. _En caso de no disponer de proyector se puede usar un pliego de papel periódico con esta cuadricula dibujada._
 
 Seguidamente los facilitadores preguntarán en voz alta quién quiere enviar un mensaje y quién quiere recibirlo. Una vez definida las personas emisora y receptora del mensaje, se les pedirá que elijan una celda en la cuadricula para identificarse, por ejemplo B5, ese será su casillero de correo para enviar o recibir mensajes.
+
+Luego se le entregará a la persona emisora un recorte de papel de 10x10 cm. Y se le pedirá que escriba un mensaje que contenga los siguientes datos:<ul><li type=disc>Remitente:(celda seleccionada por la persona emisora)</li><li type=disc>
+ Destinatario: (celda seleccionada por la persona receptora)
+ Fecha, Hora y Mensaje (debe ser breve para agilizar el ejercicio)</ol>
+
+Para enviar el mensaje, la persona emisora entregará el papel sin ningún dobles a la persona participante que esté más lejos de la persona receptora, de modo que el mensaje pase por mínimo 5 intermediarios antes de llegar a la persona receptora. Al final los facilitadores recibirán el papel y lo pegará en la celda de su destinatario.
 
 
 ### PRÁCTICA
@@ -449,7 +454,7 @@ Duración: 10 Minutos
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MDM5MzE2MSwtNDUyNTM2OTk2LDE2Mz
+eyJoaXN0b3J5IjpbMjEzMjA5NDA2MywtNDUyNTM2OTk2LDE2Mz
 kzODQ5MjAsLTEzMzE3NjI5NzAsMTQ1NzM4OTgxMiwtODc3MjYw
 OTU0LC0xMDY1Mzc4MTcwLC0xMDY1Mzc4MTcwLC04NDg3NjcyND
 gsLTE3NzM2Mzk3NjcsLTk2NjgzMjg1OSwxNDk0Mzc3NzMzLC00
