@@ -193,8 +193,7 @@ Los facilitadores presentaran de una manera global a las personas participantes 
 ### CONTEXTUALIZACIÓN
 __Duración: 1 Hora 30 Minutos.__
 
-Esta etapa estará enfocada a fortalecer conocimientos teóricos<ol><li type=a>Los facilitadores harán uso de la presentación correspondiente al módulo _Principios de Seguridad Digital 1 – Básico_  _(Presentación anexa en la carpeta de material de trabajo)_</ol>
-<ol>b. Los facilitadores realizaran  distintas actividades en el transcurso de las presentaciones, con el objetivo de que las personas participantes afiancen mejor los conceptos con ejemplos prácticos.</ol>
+Esta etapa estará enfocada a fortalecer conocimientos teóricos<ol><li type=a>Los facilitadores harán uso de la presentación correspondiente al módulo _Principios de Seguridad Digital 1 – Básico_  _(Presentación anexa en la carpeta de material de trabajo)_<li type=a>Los facilitadores realizaran  distintas actividades en el transcurso de las presentaciones, con el objetivo de que las personas participantes afiancen mejor los conceptos con ejemplos prácticos.</li></ol>
 
 
 **ACTIVIDAD 1 - ¿CÓMO FUNCIONA INTERNET?**
@@ -470,7 +469,7 @@ Duración: 10 Minutos
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNTU4MzIwOCwxNjM5Mzg0OTIwLC0xMz
+eyJoaXN0b3J5IjpbLTYxMzk1ODA3MiwxNjM5Mzg0OTIwLC0xMz
 MxNzYyOTcwLDE0NTczODk4MTIsLTg3NzI2MDk1NCwtMTA2NTM3
 ODE3MCwtMTA2NTM3ODE3MCwtODQ4NzY3MjQ4LC0xNzczNjM5Nz
 Y3LC05NjY4MzI4NTksMTQ5NDM3NzczMywtNDc5NjY5MjIxLC03
