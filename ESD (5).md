@@ -352,7 +352,11 @@ Para enviar el mensaje, la persona emisora entregará el papel sin ningún doble
 
 ### PRÁCTICA
 Duración: 1 Hora 40 Minutos
+En esta etapa la práctica será un elemento esencial en la relación de enseñanza – aprendizaje, el facilitador/a acompañará a las personas participantes de una manera permanente resolviendo dudas y orientando el proceso.
 
+**¡MANOS A LA OBRA! (**_USO THUNDERBIRD_**)** Las personas participantes tendrán que realizar las siguientes actividades en sus computadores o en los computadores de la sala del taller siguiendo las siguientes instrucciones:
+
+<![if !supportLists]>· <![endif]>Instalación y configuración de _THUNDERBIRD_ _POP – IMAP_, integración de una cuenta externa.
 
 ### SÍNTESIS
 Duración: 20 Minutos
@@ -451,7 +455,7 @@ Duración: 10 Minutos
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNjUyNDc1OCwtNDUyNTM2OTk2LDE2Mz
+eyJoaXN0b3J5IjpbMTAxMDk1OTYyMCwtNDUyNTM2OTk2LDE2Mz
 kzODQ5MjAsLTEzMzE3NjI5NzAsMTQ1NzM4OTgxMiwtODc3MjYw
 OTU0LC0xMDY1Mzc4MTcwLC0xMDY1Mzc4MTcwLC04NDg3NjcyND
 gsLTE3NzM2Mzk3NjcsLTk2NjgzMjg1OSwxNDk0Mzc3NzMzLC00
