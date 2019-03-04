@@ -430,13 +430,25 @@ Esta etapa estará enfocada a fortalecer conocimientos teóricos<ol><li type=a>L
 
 Para esta actividad se entregará a cada participante una hoja blanca, la cual tendrá una línea en la mitad de la hoja, trazada con marcador de lado a lado en sentido horizontal.
 
-Seguidamente se les pedirá a las personas participantes que vayan graficando sobre la línea, a manera de cronología, el uso que han hecho de la telefonía móvil desde que tuvieron su primer celular hasta la fecha. Para ello deben tener en cuenta las siguientes orientaciones:<ul><li type=disc>En el extremo izquierdo de la línea deben ubicar el año en el cual tuvieron acceso a su primer celular, qué tipo de celular era, que funcionalidades tenía.</li><li type=disc>Recordar los años en que ha cambiado de teléfono móvil y ubicarlos en la línea, por qué cambió, que nuevas funcionalidades encontró.</li><li type=disc>Marque sobre la línea el momento en que pasó a usar un Smartphone, explique las razones por la que empezó a usarlo.</li><li type=disc>Señale el año en que empezó a usar mensajería instantánea, redes sociales y correo electrónico a través de su teléfono móvil.</li><li type=disc>Marque el año en que empezó a descarga de aplicaciones.
+Seguidamente se les pedirá a las personas participantes que vayan graficando sobre la línea, a manera de cronología, el uso que han hecho de la telefonía móvil desde que tuvieron su primer celular hasta la fecha. Para ello deben tener en cuenta las siguientes orientaciones:<ul><li type=disc>En el extremo izquierdo de la línea deben ubicar el año en el cual tuvieron acceso a su primer celular, qué tipo de celular era, que funcionalidades tenía.</li><li type=disc>Recordar los años en que ha cambiado de teléfono móvil y ubicarlos en la línea, por qué cambió, que nuevas funcionalidades encontró.</li><li type=disc>Marque sobre la línea el momento en que pasó a usar un Smartphone, explique las razones por la que empezó a usarlo.</li><li type=disc>Señale el año en que empezó a usar mensajería instantánea, redes sociales y correo electrónico a través de su teléfono móvil.</li><li type=disc>Marque el año en que empezó a descarga de aplicaciones.</li></ul>
 
 Una vez finalizada esta línea de tiempo, las personas participantes deben tomar un plumón o esfero de otro color y señalar las herramientas que le han pedido registrar con sus datos personales, las aplicaciones en las que publica información personal, fotos, gustos, tendencias y las que le piden geo localización. Para terminar la actividad, se pedirá a las personas participantes que analicen su línea de tiempo, que reflexionen sobre la cantidad de información personal que circula de ellas en la red y qué riesgos puede tener esta exposición.
 
 ### PRÁCTICA
 Duración: 1 Hora 40 Minutos
+En esta etapa la práctica será un elemento esencial en la relación de enseñanza – aprendizaje, el facilitador/a acompañará a las personas participantes de una manera permanente resolviendo dudas y orientando el proceso.
 
+**¡MANOS A LA OBRA! (**_USO MÓVILES**)**_  Las personas participantes tendrán que realizar las siguientes actividades en sus computadores o en los computadores de la sala del taller siguiendo las siguientes instrucciones:
+
+<![if !supportLists]>· <![endif]>Configuración del celular, patrón de bloqueo o contraseña de acceso seguro.
+
+<![if !supportLists]>· <![endif]>Desactivar funciones como Bluetooth y GPS.
+
+<![if !supportLists]>· <![endif]>Actualización del sistema operativo.
+
+<![if !supportLists]>· <![endif]>Consulta número IMEI.
+
+<![if !supportLists]>· <![endif]>Inventario de Apps, verificación de apps seguras.
 
 ### SÍNTESIS
 Duración: 20 Minutos
@@ -477,7 +489,7 @@ Duración: 10 Minutos
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MjIyMDc0NiwtMTQwMzQ4NzUxOSwtMT
+eyJoaXN0b3J5IjpbMTUwMDA5Mjc1NiwtMTQwMzQ4NzUxOSwtMT
 M2MjA2MjY1NSwtNDUyNTM2OTk2LDE2MzkzODQ5MjAsLTEzMzE3
 NjI5NzAsMTQ1NzM4OTgxMiwtODc3MjYwOTU0LC0xMDY1Mzc4MT
 cwLC0xMDY1Mzc4MTcwLC04NDg3NjcyNDgsLTE3NzM2Mzk3Njcs
