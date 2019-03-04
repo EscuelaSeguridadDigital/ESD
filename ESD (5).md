@@ -430,13 +430,7 @@ Esta etapa estará enfocada a fortalecer conocimientos teóricos<ol><li type=a>L
 
 Para esta actividad se entregará a cada participante una hoja blanca, la cual tendrá una línea en la mitad de la hoja, trazada con marcador de lado a lado en sentido horizontal.
 
-Seguidamente se les pedirá a las personas participantes que vayan graficando sobre la línea, a manera de cronología, el uso que han hecho de la telefonía móvil desde que tuvieron su primer celular hasta la fecha. Para ello deben tener en cuenta las siguientes orientaciones:<ul><li type=disc>En el extremo izquierdo de la línea deben ubicar el año en el cual tuvieron acceso a su primer celular, qué tipo de celular era, que funcionalidades tenía.</li><li type=disc>Recordar los años en que ha cambiado de teléfono móvil y ubicarlos en la línea, por qué cambió, que nuevas funcionalidades encontró.</li>
-
-<![if !supportLists]>· <![endif]>Marque sobre la línea el momento en que pasó a usar un Smartphone, explique las razones por la que empezó a usarlo.
-
-<![if !supportLists]>· <![endif]>Señale el año en que empezó a usar mensajería instantánea, redes sociales y correo electrónico a través de su teléfono móvil.
-
-<![if !supportLists]>· <![endif]>Marque el año en que empezó a descarga de aplicaciones.
+Seguidamente se les pedirá a las personas participantes que vayan graficando sobre la línea, a manera de cronología, el uso que han hecho de la telefonía móvil desde que tuvieron su primer celular hasta la fecha. Para ello deben tener en cuenta las siguientes orientaciones:<ul><li type=disc>En el extremo izquierdo de la línea deben ubicar el año en el cual tuvieron acceso a su primer celular, qué tipo de celular era, que funcionalidades tenía.</li><li type=disc>Recordar los años en que ha cambiado de teléfono móvil y ubicarlos en la línea, por qué cambió, que nuevas funcionalidades encontró.</li><li type=disc>Marque sobre la línea el momento en que pasó a usar un Smartphone, explique las razones por la que empezó a usarlo.</li><li type=disc>Señale el año en que empezó a usar mensajería instantánea, redes sociales y correo electrónico a través de su teléfono móvil.</li><li type=disc>Marque el año en que empezó a descarga de aplicaciones.
 
 Una vez finalizada esta línea de tiempo, las personas participantes deben tomar un plumón o esfero de otro color y señalar las herramientas que le han pedido registrar con sus datos personales, las aplicaciones en las que publica información personal, fotos, gustos, tendencias y las que le piden geo localización. Para terminar la actividad, se pedirá a las personas participantes que analicen su línea de tiempo, que reflexionen sobre la cantidad de información personal que circula de ellas en la red y qué riesgos puede tener esta exposición.
 
@@ -483,7 +477,7 @@ Duración: 10 Minutos
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxODg3MTcxOCwtMTQwMzQ4NzUxOSwtMT
+eyJoaXN0b3J5IjpbMTE3MjIyMDc0NiwtMTQwMzQ4NzUxOSwtMT
 M2MjA2MjY1NSwtNDUyNTM2OTk2LDE2MzkzODQ5MjAsLTEzMzE3
 NjI5NzAsMTQ1NzM4OTgxMiwtODc3MjYwOTU0LC0xMDY1Mzc4MT
 cwLC0xMDY1Mzc4MTcwLC04NDg3NjcyNDgsLTE3NzM2Mzk3Njcs
