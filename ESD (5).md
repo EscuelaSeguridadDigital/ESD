@@ -306,8 +306,6 @@ En esta etapa la práctica será un elemento esencial en la relación de enseña
 Duración: 20 Minutos
 <ul><li type=a>Los facilitadores le pedirán a cada una de las personas participantes que compartan sus apreciaciones y una buena práctica de anonimato, durante la intervención uno de los facilitadores ira escribiendo las ideas principales en un procesador de texto, de modo que se proyecten desde el computador y estén a la vista de los participantes.</li> <br><li type=a>Los facilitadores darán la palabra a las personas participantes para que libremente hagan  preguntas y aclaren sus dudas.</li><ul>
 
-
-
 ### EVALUACIÓN
 Duración: 10 Minutos
 Materiales requeridos: (3) Pliegos de papel periódico, post-tit
@@ -462,11 +460,11 @@ Duración: 10 Minutos
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MTE3NjI1NiwtMTc3MzYzOTc2NywtOT
-Y2ODMyODU5LDE0OTQzNzc3MzMsLTQ3OTY2OTIyMSwtNzQ0MjY5
-NTg0LC0xMTcyNjcxMzMyLDMwNjM1MDMxMSwtMTQwODI2Mjc0My
-w4ODgyMzI0NzAsLTE5NTQxNjE1OCw5NjY1OTQ4NSwtMTk5ODQ0
-ODUzNywxMzA0NjQ3NTEzLC0xMTgxMjMxMTE1LC0xNzcxNzY0NT
-Y4LDEzMzA3ODU0MzgsMTU0NDQ4MzgyMywzMjc4MDU3MzgsLTE1
-MjM4Mzc4NDddfQ==
+eyJoaXN0b3J5IjpbNTMyODM3NzMyLC0xNzczNjM5NzY3LC05Nj
+Y4MzI4NTksMTQ5NDM3NzczMywtNDc5NjY5MjIxLC03NDQyNjk1
+ODQsLTExNzI2NzEzMzIsMzA2MzUwMzExLC0xNDA4MjYyNzQzLD
+g4ODIzMjQ3MCwtMTk1NDE2MTU4LDk2NjU5NDg1LC0xOTk4NDQ4
+NTM3LDEzMDQ2NDc1MTMsLTExODEyMzExMTUsLTE3NzE3NjQ1Nj
+gsMTMzMDc4NTQzOCwxNTQ0NDgzODIzLDMyNzgwNTczOCwtMTUy
+MzgzNzg0N119
 -->
