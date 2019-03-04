@@ -300,7 +300,7 @@ En esta etapa la práctica será un elemento esencial en la relación de enseña
 
 ***¡MANOS A LA OBRA! *** (_USO DuckDuckGo_) Las personas participantes tendrán que realizar las siguientes actividades en sus computadores o en los computadores de la sala del taller siguiendo las siguientes instrucciones:
 
-<li> Instalación y configuración _DuckDuckGo_. Las personas participantes tendrán que realizar la instalación y configuración de motor de búsqueda *DuckDuckGo dejarlo como motor de búsqueda por defecto, luego de esto realizar varias búsquedas para que identifiquen las características del resultado de búsqueda.*</li><br><li>Configuración, limpieza y eliminación de cookies en navegadores. Las personas participantes tendrán que realizar la configuración en el navegador para eliminarlas cookies de los sitios web.</li>
+<ul><li> Instalación y configuración _DuckDuckGo._ Las personas participantes tendrán que realizar la instalación y configuración de motor de búsqueda *DuckDuckGo dejarlo como motor de búsqueda por defecto, luego de esto realizar varias búsquedas para que identifiquen las características del resultado de búsqueda.*</li><br><li>Configuración, limpieza y eliminación de cookies en navegadores. Las personas participantes tendrán que realizar la configuración en el navegador para eliminarlas cookies de los sitios web.</li></ul>
 
 ### SÍNTESIS
 Duración: 20 Minutos
@@ -460,7 +460,7 @@ Duración: 10 Minutos
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxODIxMzU1NywtMTc3MzYzOTc2NywtOT
+eyJoaXN0b3J5IjpbLTg0ODc2NzI0OCwtMTc3MzYzOTc2NywtOT
 Y2ODMyODU5LDE0OTQzNzc3MzMsLTQ3OTY2OTIyMSwtNzQ0MjY5
 NTg0LC0xMTcyNjcxMzMyLDMwNjM1MDMxMSwtMTQwODI2Mjc0My
 w4ODgyMzI0NzAsLTE5NTQxNjE1OCw5NjY1OTQ4NSwtMTk5ODQ0
