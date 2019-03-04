@@ -298,9 +298,9 @@ Esta etapa estará enfocada a fortalecer conocimientos teóricos.
 Duración: 1 Hora 40 Minutos
 En esta etapa la práctica será un elemento esencial en la relación de enseñanza – aprendizaje, el facilitador/a acompañará a las personas participantes de una manera permanente resolviendo dudas y orientando el proceso.
 
-**¡MANOS A LA OBRA! (**_USO DuckDuckGo_**)** Las personas participantes tendrán que realizar las siguientes actividades en sus computadores o en los computadores de la sala del taller siguiendo las siguientes instrucciones:
+***¡MANOS A LA OBRA! *** (_USO DuckDuckGo_) Las personas participantes tendrán que realizar las siguientes actividades en sus computadores o en los computadores de la sala del taller siguiendo las siguientes instrucciones:
 
-<li> Instalación y configuración _DuckDuckGo_. Las personas participantes tendrán que realizar la instalación y configuración de motor de búsqueda _DuckDuckGo dejarlo como motor de búsqueda por defecto, luego de esto realizar varias búsquedas para que identifiquen las características del resultado de búsqueda._</li><br><li>Configuración, limpieza y eliminación de cookies en navegadores. Las personas participantes tendrán que realizar la configuración en el navegador para eliminarlas cookies de los sitios web.</li>
+<li> Instalación y configuración _DuckDuckGo_. Las personas participantes tendrán que realizar la instalación y configuración de motor de búsqueda *DuckDuckGo dejarlo como motor de búsqueda por defecto, luego de esto realizar varias búsquedas para que identifiquen las características del resultado de búsqueda.*</li><br><li>Configuración, limpieza y eliminación de cookies en navegadores. Las personas participantes tendrán que realizar la configuración en el navegador para eliminarlas cookies de los sitios web.</li>
 
 ### SÍNTESIS
 Duración: 20 Minutos
@@ -462,11 +462,11 @@ Duración: 10 Minutos
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMxNDIwOTQsLTE3NzM2Mzk3NjcsLTk2Nj
-gzMjg1OSwxNDk0Mzc3NzMzLC00Nzk2NjkyMjEsLTc0NDI2OTU4
-NCwtMTE3MjY3MTMzMiwzMDYzNTAzMTEsLTE0MDgyNjI3NDMsOD
-g4MjMyNDcwLC0xOTU0MTYxNTgsOTY2NTk0ODUsLTE5OTg0NDg1
-MzcsMTMwNDY0NzUxMywtMTE4MTIzMTExNSwtMTc3MTc2NDU2OC
-wxMzMwNzg1NDM4LDE1NDQ0ODM4MjMsMzI3ODA1NzM4LC0xNTIz
-ODM3ODQ3XX0=
+eyJoaXN0b3J5IjpbLTQ4MTE3NjI1NiwtMTc3MzYzOTc2NywtOT
+Y2ODMyODU5LDE0OTQzNzc3MzMsLTQ3OTY2OTIyMSwtNzQ0MjY5
+NTg0LC0xMTcyNjcxMzMyLDMwNjM1MDMxMSwtMTQwODI2Mjc0My
+w4ODgyMzI0NzAsLTE5NTQxNjE1OCw5NjY1OTQ4NSwtMTk5ODQ0
+ODUzNywxMzA0NjQ3NTEzLC0xMTgxMjMxMTE1LC0xNzcxNzY0NT
+Y4LDEzMzA3ODU0MzgsMTU0NDQ4MzgyMywzMjc4MDU3MzgsLTE1
+MjM4Mzc4NDddfQ==
 -->
