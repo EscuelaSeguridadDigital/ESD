@@ -401,11 +401,10 @@ En esta etapa la práctica será un elemento esencial en la relación de enseña
 
 **¡MANOS A LA OBRA! (**_USO ENIGMAIL - MAILVELOPE_**)**  Las personas participantes tendrán que realizar las siguientes actividades en sus computadores o en los computadores de la sala del taller siguiendo las siguientes instrucciones:
 
->li type=disc>Instalación y configuración de la extensión de _ENIGMAIL_ en el cliente de correo _THUNDERBIRD_, o la extensión de _MAILVELOPE_ para navegadores.
+<li type=disc>Instalación y configuración de la extensión de _ENIGMAIL_ en el cliente de correo _THUNDERBIRD_, o la extensión de _MAILVELOPE_ para navegadores.</li>
 
 ### SÍNTESIS
-Duración: 20 Minutos
-
+Duración: 20 Minutos<ol><li type=a>Se propone discutir sobre la importancia de enviar correo cifrado, las ventajas de que existen, las personas del común estarían interesadas de implementar correo cifrado, estos comentarios y opiniones serán escritas en un procesador de texto con el fin de que sean proyectadas y  vistas por las personas participantes.</li><li type=a>Los facilitadores darán la palabra a las personas participantes para que libremente hagan  preguntas y aclaren sus dudas.</li></ol>
 
 
 ### EVALUACIÓN
@@ -471,11 +470,11 @@ Duración: 10 Minutos
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODMyODU2NDYsLTE0MDM0ODc1MTksLT
-EzNjIwNjI2NTUsLTQ1MjUzNjk5NiwxNjM5Mzg0OTIwLC0xMzMx
-NzYyOTcwLDE0NTczODk4MTIsLTg3NzI2MDk1NCwtMTA2NTM3OD
-E3MCwtMTA2NTM3ODE3MCwtODQ4NzY3MjQ4LC0xNzczNjM5NzY3
-LC05NjY4MzI4NTksMTQ5NDM3NzczMywtNDc5NjY5MjIxLC03ND
-QyNjk1ODQsLTExNzI2NzEzMzIsMzA2MzUwMzExLC0xNDA4MjYy
-NzQzLDg4ODIzMjQ3MF19
+eyJoaXN0b3J5IjpbMTA4MTc2Njc0OSwtMTQwMzQ4NzUxOSwtMT
+M2MjA2MjY1NSwtNDUyNTM2OTk2LDE2MzkzODQ5MjAsLTEzMzE3
+NjI5NzAsMTQ1NzM4OTgxMiwtODc3MjYwOTU0LC0xMDY1Mzc4MT
+cwLC0xMDY1Mzc4MTcwLC04NDg3NjcyNDgsLTE3NzM2Mzk3Njcs
+LTk2NjgzMjg1OSwxNDk0Mzc3NzMzLC00Nzk2NjkyMjEsLTc0ND
+I2OTU4NCwtMTE3MjY3MTMzMiwzMDYzNTAzMTEsLTE0MDgyNjI3
+NDMsODg4MjMyNDcwXX0=
 -->
