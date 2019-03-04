@@ -185,8 +185,7 @@ __Duración: 2 Horas__
 
 En esta etapa la práctica será un elemento esencial en la relación de enseñanza – aprendizaje, el facilitador/a acompañará a las personas participantes de una manera permanente resolviendo dudas y orientando el proceso.
 
-**¡MANOS A LA OBRA!** (*USO KEEPASS*) Las personas participantes tendrán que realizar las siguientes actividades en sus computadores o en los computadores de la sala del taller siguiendo las siguientes instrucciones:
-<li>Instalación y configuración de Idioma en Español  del Keepass.</li><li>Creación de un archivo .kdb</li><li>Creación de un repositorio de información con mínimo 3 cuentas de servicios de Internet.</li>
+**¡MANOS A LA OBRA!** (*USO KEEPASS*) Las personas participantes tendrán que realizar las siguientes actividades en sus computadores o en los computadores de la sala del taller siguiendo las siguientes instrucciones:<ul><li>Instalación y configuración de Idioma en Español  del Keepass.</li><li>Creación de un archivo .kdb</li><li>Creación de un repositorio de información con mínimo 3 cuentas de servicios de Internet.</li></ul>
 
 ### SÍNTESIS
 __Duración: 15 Minutos__
@@ -459,11 +458,11 @@ tres colores diferentes
 
 ![](final.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1OTgwNDI3NSwtMjU4NjM0NDQxLDE2Mj
-A1NDc4OTMsLTE0MDM0ODc1MTksLTEzNjIwNjI2NTUsLTQ1MjUz
-Njk5NiwxNjM5Mzg0OTIwLC0xMzMxNzYyOTcwLDE0NTczODk4MT
-IsLTg3NzI2MDk1NCwtMTA2NTM3ODE3MCwtMTA2NTM3ODE3MCwt
-ODQ4NzY3MjQ4LC0xNzczNjM5NzY3LC05NjY4MzI4NTksMTQ5ND
-M3NzczMywtNDc5NjY5MjIxLC03NDQyNjk1ODQsLTExNzI2NzEz
-MzIsMzA2MzUwMzExXX0=
+eyJoaXN0b3J5IjpbLTE0MTIwNjk4NTIsLTI1ODYzNDQ0MSwxNj
+IwNTQ3ODkzLC0xNDAzNDg3NTE5LC0xMzYyMDYyNjU1LC00NTI1
+MzY5OTYsMTYzOTM4NDkyMCwtMTMzMTc2Mjk3MCwxNDU3Mzg5OD
+EyLC04NzcyNjA5NTQsLTEwNjUzNzgxNzAsLTEwNjUzNzgxNzAs
+LTg0ODc2NzI0OCwtMTc3MzYzOTc2NywtOTY2ODMyODU5LDE0OT
+QzNzc3MzMsLTQ3OTY2OTIyMSwtNzQ0MjY5NTg0LC0xMTcyNjcx
+MzMyLDMwNjM1MDMxMV19
 -->
