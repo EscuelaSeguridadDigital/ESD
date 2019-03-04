@@ -239,14 +239,11 @@ Los facilitadores presentaran de una manera global a las personas participantes 
 ### CONTEXTUALIZACIÓN
 Duración: 1 Hora 30 Minutos
 
-Esta etapa estará enfocada a fortalecer conocimientos teóricos
-<ol> <li type=a>Los facilitadores harán uso de la presentación correspondiente al módulo _Principios de Seguridad Digital 2 – Intermedio_ (_Presentación anexa en la carpeta de material de trabajo_)</li><li type=a>Los facilitadores realizaran  distintas actividades en el transcurso de las presentaciones, con el objetivo de que las personas participantes afiancen mejor la teoría con ejemplos prácticos.</li></ol>
+Esta etapa estará enfocada a fortalecer conocimientos teóricos<ol> <li type=a>Los facilitadores harán uso de la presentación correspondiente al módulo _Principios de Seguridad Digital 2 – Intermedio_ (_Presentación anexa en la carpeta de material de trabajo_)</li><li type=a>Los facilitadores realizaran  distintas actividades en el transcurso de las presentaciones, con el objetivo de que las personas participantes afiancen mejor la teoría con ejemplos prácticos.</li></ol>
 
 **ACTIVIDAD 1 – EL A, B, C DE LA INFORMACIÓN**
 
-Los facilitadores dividirán a las personas participantes en tres grupos, donde cada uno de ellos tendrá actividades diferentes:
-
-<ul><li type=disc>**_Grupo A_**: Elaborara un listado de que tipos de archivos o información importante que manejan tanto en computadores como en dispositivos móviles, cada uno de ellos se debe colocar en una cartulina diferente.</li><li type=disc>**_Grupo B_**: Elaborara un listado de mecanismos o formas en las que se puede perder información, cada uno de ellos se debe colocar en una cartulina diferente.</li><li type=disc>**_Grupo C_**: Elaborara un listado con modos de prevención que conozcan en el manejo de la información (Herramientas o prácticas), cada uno de ellos se debe colocar en una cartulina diferente.</li></ul>
+Los facilitadores dividirán a las personas participantes en tres grupos, donde cada uno de ellos tendrá actividades diferentes:<>b<ul><li type=disc>**_Grupo A_**: Elaborara un listado de que tipos de archivos o información importante que manejan tanto en computadores como en dispositivos móviles, cada uno de ellos se debe colocar en una cartulina diferente.</li><li type=disc>**_Grupo B_**: Elaborara un listado de mecanismos o formas en las que se puede perder información, cada uno de ellos se debe colocar en una cartulina diferente.</li><li type=disc>**_Grupo C_**: Elaborara un listado con modos de prevención que conozcan en el manejo de la información (Herramientas o prácticas), cada uno de ellos se debe colocar en una cartulina diferente.</li></ul>
 
 Una vez finalizada la instrucción, se pasará a realizar un mapeo juntando la información y se socializaran con todos los grupos.  Se corregirán los posibles errores y se aclararán dudas que puedan surgir.
 
@@ -472,11 +469,11 @@ Duración: 10 Minutos
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzcxNzk0ODUsMTYzOTM4NDkyMCwtMT
-MzMTc2Mjk3MCwxNDU3Mzg5ODEyLC04NzcyNjA5NTQsLTEwNjUz
-NzgxNzAsLTEwNjUzNzgxNzAsLTg0ODc2NzI0OCwtMTc3MzYzOT
-c2NywtOTY2ODMyODU5LDE0OTQzNzc3MzMsLTQ3OTY2OTIyMSwt
-NzQ0MjY5NTg0LC0xMTcyNjcxMzMyLDMwNjM1MDMxMSwtMTQwOD
-I2Mjc0Myw4ODgyMzI0NzAsLTE5NTQxNjE1OCw5NjY1OTQ4NSwt
-MTk5ODQ0ODUzN119
+eyJoaXN0b3J5IjpbLTgxNzg4NjEyMSwxNjM5Mzg0OTIwLC0xMz
+MxNzYyOTcwLDE0NTczODk4MTIsLTg3NzI2MDk1NCwtMTA2NTM3
+ODE3MCwtMTA2NTM3ODE3MCwtODQ4NzY3MjQ4LC0xNzczNjM5Nz
+Y3LC05NjY4MzI4NTksMTQ5NDM3NzczMywtNDc5NjY5MjIxLC03
+NDQyNjk1ODQsLTExNzI2NzEzMzIsMzA2MzUwMzExLC0xNDA4Mj
+YyNzQzLDg4ODIzMjQ3MCwtMTk1NDE2MTU4LDk2NjU5NDg1LC0x
+OTk4NDQ4NTM3XX0=
 -->
