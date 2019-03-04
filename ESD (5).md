@@ -438,11 +438,10 @@ Una vez finalizada esta línea de tiempo, las personas participantes deben tomar
 Duración: 1 Hora 40 Minutos
 En esta etapa la práctica será un elemento esencial en la relación de enseñanza – aprendizaje, el facilitador/a acompañará a las personas participantes de una manera permanente resolviendo dudas y orientando el proceso.
 
-**¡MANOS A LA OBRA! (**_USO MÓVILES_**)**  Las personas participantes tendrán que realizar las siguientes actividades en sus computadores o en los computadores de la sala del taller siguiendo las siguientes instrucciones:<ul><li type=disc>Configuración del celular, patrón de bloqueo o contraseña de acceso seguro.</li><li type=disc>Desactivar funciones como Bluetooth y GPS.</li><li type=disc>Actualización del sistema operativo.</li><li type=disc>Consulta número IMEI.<li><li type=disc>Inventario de Apps, verificación de apps seguras.
+**¡MANOS A LA OBRA! (**_USO MÓVILES_**)**  Las personas participantes tendrán que realizar las siguientes actividades en sus computadores o en los computadores de la sala del taller siguiendo las siguientes instrucciones:<ul><li type=disc>Configuración del celular, patrón de bloqueo o contraseña de acceso seguro.</li><li type=disc>Desactivar funciones como Bluetooth y GPS.</li><li type=disc>Actualización del sistema operativo.</li><li type=disc>Consulta número IMEI.<li><li type=disc>Inventario de Apps, verificación de apps seguras.</li></ul>
 
 ### SÍNTESIS
-Duración: 20 Minutos
-
+Duración: 20 Minutos<ol><li type=a>Las personas participantes trabajarán en parejas y crearán una lista de amenazas que pueden surgir a través del uso de dispositivos móviles. Luego presentaran algunas recomendaciones de prácticas que creen que pueden ayudar a asegurar dichos dispositivos, los facilitadores estarán prestos a resolver cualquier duda que se presente en el transcurso  de la actividad.</li><li type=a>Los facilitadores darán la palabra a las personas participantes para que libremente hagan  preguntas y aclaren sus dudas.</li></
 
 
 ### EVALUACIÓN
@@ -479,11 +478,11 @@ Duración: 10 Minutos
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTUxMTAyNTE0LC0xNDAzNDg3NTE5LC0xMz
-YyMDYyNjU1LC00NTI1MzY5OTYsMTYzOTM4NDkyMCwtMTMzMTc2
-Mjk3MCwxNDU3Mzg5ODEyLC04NzcyNjA5NTQsLTEwNjUzNzgxNz
-AsLTEwNjUzNzgxNzAsLTg0ODc2NzI0OCwtMTc3MzYzOTc2Nywt
-OTY2ODMyODU5LDE0OTQzNzc3MzMsLTQ3OTY2OTIyMSwtNzQ0Mj
-Y5NTg0LC0xMTcyNjcxMzMyLDMwNjM1MDMxMSwtMTQwODI2Mjc0
-Myw4ODgyMzI0NzBdfQ==
+eyJoaXN0b3J5IjpbLTQxNDU3NzU5NSwtMTQwMzQ4NzUxOSwtMT
+M2MjA2MjY1NSwtNDUyNTM2OTk2LDE2MzkzODQ5MjAsLTEzMzE3
+NjI5NzAsMTQ1NzM4OTgxMiwtODc3MjYwOTU0LC0xMDY1Mzc4MT
+cwLC0xMDY1Mzc4MTcwLC04NDg3NjcyNDgsLTE3NzM2Mzk3Njcs
+LTk2NjgzMjg1OSwxNDk0Mzc3NzMzLC00Nzk2NjkyMjEsLTc0ND
+I2OTU4NCwtMTE3MjY3MTMzMiwzMDYzNTAzMTEsLTE0MDgyNjI3
+NDMsODg4MjMyNDcwXX0=
 -->
