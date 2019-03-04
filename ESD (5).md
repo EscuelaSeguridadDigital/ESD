@@ -292,7 +292,7 @@ Los facilitadores presentaran de una manera global a las personas participantes 
 Duración: 1 Hora 30 Minutos
 Esta etapa estará enfocada a fortalecer conocimientos teóricos.
 
-<ul> <li type=a> Los facilitadores harán uso de la presentación correspondiente al módulo _Anonimato 1 – Básico_ (_Presentación anexa en la carpeta de material de trabajo_)</li></ul>
+<ul> <li type=a> Los facilitadores harán uso de la presentación correspondiente al módulo _Anonimato 1 – Básico (Presentación anexa en la carpeta de material de trabajo)_</li></ul>
 
 ### PRÁCTICA
 Duración: 1 Hora 40 Minutos
@@ -340,7 +340,19 @@ Instalación y configuración del Navegador TOR. Las personas participantes tend
 
 ### SÍNTESIS
 Duración: 20 Minutos
+<![endif]-->
 
+Materiales requeridos: Ovillo de lana
+
+<![if !supportLists]>a. <![endif]>Las personas participantes se ubicarán en forma circular y uno de los facilitadores toma un ovillo de lana, este tendrá sostenida la punta del ovillo y sin soltarlo la lanza a alguna persona participante, la persona que recibe deberá responder la pregunta que el otro facilitador le indique, al contestar la pregunta el participante tomara un punto de la lana y sin soltarlo lanza el ovillo a otra persona el cual tendrá que contestar la misma u otra pregunta según lo indique el facilitador y así sucesivamente hasta que todas las personas hayan participado y se logre formar una red con lana al interior del círculo.
+
+<![if !supportLists]>· <![endif]>¿Realmente tenemos privacidad?
+
+<![if !supportLists]>· <![endif]>¿Cuáles son los factores que podrían estar interfiriendo en el control que tienen sobre sus datos?
+
+<![if !supportLists]>· <![endif]>Indique una buena práctica de navegación con protocolos de seguridad
+
+<![if !supportLists]>b. <![endif]>Los facilitadores darán la palabra a las personas participantes para que libremente hagan  preguntas y aclaren sus dudas.
 
 
 ### EVALUACIÓN
@@ -464,11 +476,11 @@ Duración: 10 Minutos
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NzM4OTgxMiwtODc3MjYwOTU0LC0xMD
-Y1Mzc4MTcwLC0xMDY1Mzc4MTcwLC04NDg3NjcyNDgsLTE3NzM2
-Mzk3NjcsLTk2NjgzMjg1OSwxNDk0Mzc3NzMzLC00Nzk2NjkyMj
-EsLTc0NDI2OTU4NCwtMTE3MjY3MTMzMiwzMDYzNTAzMTEsLTE0
-MDgyNjI3NDMsODg4MjMyNDcwLC0xOTU0MTYxNTgsOTY2NTk0OD
-UsLTE5OTg0NDg1MzcsMTMwNDY0NzUxMywtMTE4MTIzMTExNSwt
-MTc3MTc2NDU2OF19
+eyJoaXN0b3J5IjpbLTEzMzE3NjI5NzAsMTQ1NzM4OTgxMiwtOD
+c3MjYwOTU0LC0xMDY1Mzc4MTcwLC0xMDY1Mzc4MTcwLC04NDg3
+NjcyNDgsLTE3NzM2Mzk3NjcsLTk2NjgzMjg1OSwxNDk0Mzc3Nz
+MzLC00Nzk2NjkyMjEsLTc0NDI2OTU4NCwtMTE3MjY3MTMzMiwz
+MDYzNTAzMTEsLTE0MDgyNjI3NDMsODg4MjMyNDcwLC0xOTU0MT
+YxNTgsOTY2NTk0ODUsLTE5OTg0NDg1MzcsMTMwNDY0NzUxMywt
+MTE4MTIzMTExNV19
 -->
