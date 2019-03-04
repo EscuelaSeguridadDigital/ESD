@@ -58,16 +58,12 @@ Esta currícula presenta diversas actividades y ejercicios diseñados de forma s
 
 # Diseño metodológico
 
-Cómo se ha mencionado a lo largo de este documento, la currícula es el recurso principal para los facilitadores y facilitadoras de Seguridad Digital, el cual orientará los contenidos de formación y comprende un total de ocho (__8__) módulos, en los cuales se abordarán temáticas específicas así:<ol><li type=1>Principios de Seguridad Digital 1 - Básico.</li>
+Cómo se ha mencionado a lo largo de este documento, la currícula es el recurso principal para los facilitadores y facilitadoras de Seguridad Digital, el cual orientará los contenidos de formación y comprende un total de ocho (__8__) módulos, en los cuales se abordarán temáticas específicas así:<ol><li type=1>Principios de Seguridad Digital 1 - Básico.</li><li type=1>Principios de Seguridad Digital 2 - Intermedio.</li><li type=1>Anonimato 1- Básico.</li><li type=1>Anonimato 2 - Intermedio.</li><li type=1></li><li type=1></li><li type=1></li><li type=1></li><li type=1></li>
 
 
- ***2. Principios de Seguridad Digital 2 - Intermedio.*** 
+ ___4. ___
  
- ___3. Anonimato 1- Básico.___
- 
- ___4. Anonimato 2 - Intermedio.___
- 
- ___5. Servidores de Correo electrónico seguro 1 - Básico.___
+ ___5. ___
  
  ___6. Setvidores de Correo electónico seguro 2 - Intermedio.___
  
@@ -485,7 +481,7 @@ tres colores diferentes
 
 ![](final.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMDMzNDY1MCwtMjU4NjM0NDQxLDE2Mj
+eyJoaXN0b3J5IjpbMjAzMTM3NjEyMSwtMjU4NjM0NDQxLDE2Mj
 A1NDc4OTMsLTE0MDM0ODc1MTksLTEzNjIwNjI2NTUsLTQ1MjUz
 Njk5NiwxNjM5Mzg0OTIwLC0xMzMxNzYyOTcwLDE0NTczODk4MT
 IsLTg3NzI2MDk1NCwtMTA2NTM3ODE3MCwtMTA2NTM3ODE3MCwt
