@@ -209,7 +209,7 @@ _Los facilitadores realizaran observaciones del orden de las tarjetas y repasara
 
 Trabajando en parejas, las personas participantes recibirán unos DADOS que vienen dentro de los materiales del KIT de Seguridad Digital, los facilitadores darán las indicaciones y suministraran el cuadernillo con la explicación de la actividad.
 
-###  Práctica
+###  PRÁCTICA
 __Duración: 2 Horas__
 
 En esta etapa la práctica será un elemento esencial en la relación de enseñanza – aprendizaje, el facilitador/a acompañará a las personas participantes de una manera permanente resolviendo dudas y orientando el proceso.
@@ -275,11 +275,11 @@ Duración: 10 Minutos
 Materiales requeridos: Hojas de papel con una Diana. (_Anexo en la carpeta de material de trabajo_) 
 **_¿Cómo conducir la actividad? “LA DIANA”_**  Los facilitadores repartirán una hoja la cual tiene dibujado una _Diana_ con tres aspectos a evaluar >> ¿Qué te gusto?, ¿Qué aprendiste?, ¿Qué mejorarías? Los facilitadores darán las instrucciones a las personas participantes para que coloquen allí sus opiniones en cada uno de los aspectos indicados. Al finalizar la sesión se recogerán las hojas y se socializaran con el equipo de la EDSD.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5NDM3NzczMywtNDc5NjY5MjIxLC03ND
-QyNjk1ODQsLTExNzI2NzEzMzIsMzA2MzUwMzExLC0xNDA4MjYy
-NzQzLDg4ODIzMjQ3MCwtMTk1NDE2MTU4LDk2NjU5NDg1LC0xOT
-k4NDQ4NTM3LDEzMDQ2NDc1MTMsLTExODEyMzExMTUsLTE3NzE3
-NjQ1NjgsMTMzMDc4NTQzOCwxNTQ0NDgzODIzLDMyNzgwNTczOC
-wtMTUyMzgzNzg0NywtMTk5ODY3MDgwMywxMjIyNjcxNzE1LDE2
-NzE3MTIwMjldfQ==
+eyJoaXN0b3J5IjpbLTk2NjgzMjg1OSwxNDk0Mzc3NzMzLC00Nz
+k2NjkyMjEsLTc0NDI2OTU4NCwtMTE3MjY3MTMzMiwzMDYzNTAz
+MTEsLTE0MDgyNjI3NDMsODg4MjMyNDcwLC0xOTU0MTYxNTgsOT
+Y2NTk0ODUsLTE5OTg0NDg1MzcsMTMwNDY0NzUxMywtMTE4MTIz
+MTExNSwtMTc3MTc2NDU2OCwxMzMwNzg1NDM4LDE1NDQ0ODM4Mj
+MsMzI3ODA1NzM4LC0xNTIzODM3ODQ3LC0xOTk4NjcwODAzLDEy
+MjI2NzE3MTVdfQ==
 -->
