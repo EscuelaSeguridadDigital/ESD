@@ -374,12 +374,15 @@ ___¿Cómo conducir la actividad?___
 
 ### INTRODUCCIÓN
 Duración: 5 Minutos
-
+Los facilitadores presentaran de una manera global a las personas participantes  los temas que se presentaran en el transcurso de la sesión, la metodología de trabajo (Ruta de aprendizaje) y mencionaran nuevamente los acuerdos de convivencia y participación en la sesión.  (_Presentación anexa en la carpeta de material de trabajo_)
 
 ### CONTEXTUALIZACIÓN
 Duración: 1 Hora 30 Minutos
+Esta etapa estará enfocada a fortalecer conocimientos teóricos<ol><
 
-**ACTIVIDAD 1 – EL A, B, C DE LA INFORMACIÓN**
+Los facilitadores harán uso de la presentación correspondiente al módulo _Servidores de Correo electrónico seguro 2 – Intermedio_ (_Presentación anexa en la carpeta de material de trabajo_)
+
+<![if !supportLists]>b. <![endif]>Los facilitadores realizaran  distintas actividades en el transcurso de las presentaciones, con el objetivo de que las personas participantes afiancen mejor la teoría con ejemplos prácticos.
 
 
 ### PRÁCTICA
@@ -454,11 +457,11 @@ Duración: 10 Minutos
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDM0ODc1MTksLTEzNjIwNjI2NTUsLT
-Q1MjUzNjk5NiwxNjM5Mzg0OTIwLC0xMzMxNzYyOTcwLDE0NTcz
-ODk4MTIsLTg3NzI2MDk1NCwtMTA2NTM3ODE3MCwtMTA2NTM3OD
-E3MCwtODQ4NzY3MjQ4LC0xNzczNjM5NzY3LC05NjY4MzI4NTks
-MTQ5NDM3NzczMywtNDc5NjY5MjIxLC03NDQyNjk1ODQsLTExNz
-I2NzEzMzIsMzA2MzUwMzExLC0xNDA4MjYyNzQzLDg4ODIzMjQ3
-MCwtMTk1NDE2MTU4XX0=
+eyJoaXN0b3J5IjpbLTEyODMwNTk3OCwtMTQwMzQ4NzUxOSwtMT
+M2MjA2MjY1NSwtNDUyNTM2OTk2LDE2MzkzODQ5MjAsLTEzMzE3
+NjI5NzAsMTQ1NzM4OTgxMiwtODc3MjYwOTU0LC0xMDY1Mzc4MT
+cwLC0xMDY1Mzc4MTcwLC04NDg3NjcyNDgsLTE3NzM2Mzk3Njcs
+LTk2NjgzMjg1OSwxNDk0Mzc3NzMzLC00Nzk2NjkyMjEsLTc0ND
+I2OTU4NCwtMTE3MjY3MTMzMiwzMDYzNTAzMTEsLTE0MDgyNjI3
+NDMsODg4MjMyNDcwXX0=
 -->
