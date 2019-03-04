@@ -299,6 +299,7 @@ Materiales requeridos: (3) Pliegos de papel periódico, post-tit
 # Anonimato 2 – Intermedio
 
 ![](anonimato2.png)
+
 ___¿Cómo conducir la actividad?___
 
 ### INTRODUCCIÓN
@@ -487,11 +488,11 @@ tres colores diferentes
 
 ![](final.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMDU0Nzg5MywtMTQwMzQ4NzUxOSwtMT
-M2MjA2MjY1NSwtNDUyNTM2OTk2LDE2MzkzODQ5MjAsLTEzMzE3
-NjI5NzAsMTQ1NzM4OTgxMiwtODc3MjYwOTU0LC0xMDY1Mzc4MT
-cwLC0xMDY1Mzc4MTcwLC04NDg3NjcyNDgsLTE3NzM2Mzk3Njcs
-LTk2NjgzMjg1OSwxNDk0Mzc3NzMzLC00Nzk2NjkyMjEsLTc0ND
-I2OTU4NCwtMTE3MjY3MTMzMiwzMDYzNTAzMTEsLTE0MDgyNjI3
-NDMsODg4MjMyNDcwXX0=
+eyJoaXN0b3J5IjpbMTQzMTgyMjcyNywxNjIwNTQ3ODkzLC0xND
+AzNDg3NTE5LC0xMzYyMDYyNjU1LC00NTI1MzY5OTYsMTYzOTM4
+NDkyMCwtMTMzMTc2Mjk3MCwxNDU3Mzg5ODEyLC04NzcyNjA5NT
+QsLTEwNjUzNzgxNzAsLTEwNjUzNzgxNzAsLTg0ODc2NzI0OCwt
+MTc3MzYzOTc2NywtOTY2ODMyODU5LDE0OTQzNzc3MzMsLTQ3OT
+Y2OTIyMSwtNzQ0MjY5NTg0LC0xMTcyNjcxMzMyLDMwNjM1MDMx
+MSwtMTQwODI2Mjc0M119
 -->
