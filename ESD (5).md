@@ -252,12 +252,12 @@ Duración: 1 Hora 40 Minutos
 
 En esta etapa la práctica será un elemento esencial en la relación de enseñanza – aprendizaje, el facilitador/a acompañará a las personas participantes de una manera permanente resolviendo dudas y orientando el proceso.
 
-**¡MANOS A LA OBRA!** (*USO RECUVA - ERASER*)  Las personas participantes tendrán que realizar las siguientes actividades en sus computadores o en los computadores de la sala del taller siguiendo las siguientes instrucciones<ul><li type=disc>Instalación y configuración _RECUVA_. Las personas participantes tendrán que crear una carpeta con información de prueba, puede ser una ya existente si lo desean, seguido a esto deberán eliminarla y proceder a vaciarla también en la papelera de reciclaje, por último las personas participantes tendrán que recuperar la carpeta con la información con el uso de _RECUVA._</li><li type=disc>Instalación y configuración _ERASER_. -  Las personas participantes tendrán que eliminar de manera permanente un archivo de su computadora o de una USB utilizando el _ERASER_. _Nota: Los facilitadores deben estar pendientes y recordarles a las personas participantes que estén seguros de cual archivo van a eliminar, pues una vez que  el archivo se elimine con la herramienta ERASER este no se podrá recuperar._</li></ul>
+**¡MANOS A LA OBRA!** (*USO RECUVA - ERASER*)  Las personas participantes tendrán que realizar las siguientes actividades en sus computadores o en los computadores de la sala del taller siguiendo las siguientes instrucciones<ul><li type=disc>Instalación y configuración _RECUVA_. Las personas participantes tendrán que crear una carpeta con información de prueba, puede ser una ya existente si lo desean, seguido a esto deberán eliminarla y proceder a vaciarla también en la papelera de reciclaje, por último las personas participantes tendrán que recuperar la carpeta con la información con el uso de _RECUVA._</li><br><li type=disc>Instalación y configuración _ERASER_. -  Las personas participantes tendrán que eliminar de manera permanente un archivo de su computadora o de una USB utilizando el _ERASER_. _Nota: Los facilitadores deben estar pendientes y recordarles a las personas participantes que estén seguros de cual archivo van a eliminar, pues una vez que  el archivo se elimine con la herramienta ERASER este no se podrá recuperar._</li></ul>
 
 ### SÍNTESIS
 Duración: 20 Minutos
 
-<ol><li type=a>Los facilitadores leerán en voz alta la siguiente afirmación: “*Desde un punto de vista técnico, no se puede borrar algo en tu computadora.*” A continuación se les realizara las siguientes preguntas a las personas participantes:<ul> <li type=disc>¿Qué opinan de la afirmación?</li><li type=disc>¿Por qué no existirá una función de “borrado” real?</li><li type=disc>¿Qué crees que pasa con esos datos cuando se “elimina”?</li></ul><li type=a> Los facilitadores darán la palabra a las personas participantes para que libremente hagan  preguntas y aclaren sus dudas.</li>
+<ol><li type=a>Los facilitadores leerán en voz alta la siguiente afirmación: “*Desde un punto de vista técnico, no se puede borrar algo en tu computadora.*” A continuación se les realizara las siguientes preguntas a las personas participantes:<ul> <li type=disc>¿Qué opinan de la afirmación?</li><li type=disc>¿Por qué no existirá una función de “borrado” real?</li><li type=disc>¿Qué crees que pasa con esos datos cuando se “elimina”?</li></ul><li type=a> Los facilitadores darán la palabra a las personas participantes para que libremente hagan  preguntas y aclaren sus dudas.</li></ol>
 
 ### EVALUACIÓN
 Duración: 10 Minutos
@@ -465,7 +465,7 @@ Duración: 10 Minutos
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3MjM4NzI2NiwxNjM5Mzg0OTIwLC0xMz
+eyJoaXN0b3J5IjpbLTU0MDQ4NjY0MCwxNjM5Mzg0OTIwLC0xMz
 MxNzYyOTcwLDE0NTczODk4MTIsLTg3NzI2MDk1NCwtMTA2NTM3
 ODE3MCwtMTA2NTM3ODE3MCwtODQ4NzY3MjQ4LC0xNzczNjM5Nz
 Y3LC05NjY4MzI4NTksMTQ5NDM3NzczMywtNDc5NjY5MjIxLC03
