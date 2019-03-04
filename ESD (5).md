@@ -310,6 +310,10 @@ Duración: 20 Minutos
 
 ### EVALUACIÓN
 Duración: 10 Minutos
+Materiales requeridos: (3) Pliegos de papel periódico, post-tit
+
+**_¿Cómo conducir la actividad? “LOS MANTELES”_**  Los facilitadores colocaran en la pared tres pliegos de papel periódico cada uno de ellos indicara un aspecto a evaluar >> ¿Qué te gusto?, ¿Qué aprendiste?, ¿Qué mejorarías? Los facilitadores darán las instrucciones a las personas participantes para que peguen en cada pliego sus opiniones de cada uno de los aspectos indicados. Al finalizar la sesión se recogerá  el material y se socializaran con el equipo de la EDSD.
+
 
 # P
 
@@ -458,11 +462,11 @@ Duración: 10 Minutos
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMjQ2NzY3NywtMTc3MzYzOTc2NywtOT
-Y2ODMyODU5LDE0OTQzNzc3MzMsLTQ3OTY2OTIyMSwtNzQ0MjY5
-NTg0LC0xMTcyNjcxMzMyLDMwNjM1MDMxMSwtMTQwODI2Mjc0My
-w4ODgyMzI0NzAsLTE5NTQxNjE1OCw5NjY1OTQ4NSwtMTk5ODQ0
-ODUzNywxMzA0NjQ3NTEzLC0xMTgxMjMxMTE1LC0xNzcxNzY0NT
-Y4LDEzMzA3ODU0MzgsMTU0NDQ4MzgyMywzMjc4MDU3MzgsLTE1
-MjM4Mzc4NDddfQ==
+eyJoaXN0b3J5IjpbOTMxNDIwOTQsLTE3NzM2Mzk3NjcsLTk2Nj
+gzMjg1OSwxNDk0Mzc3NzMzLC00Nzk2NjkyMjEsLTc0NDI2OTU4
+NCwtMTE3MjY3MTMzMiwzMDYzNTAzMTEsLTE0MDgyNjI3NDMsOD
+g4MjMyNDcwLC0xOTU0MTYxNTgsOTY2NTk0ODUsLTE5OTg0NDg1
+MzcsMTMwNDY0NzUxMywtMTE4MTIzMTExNSwtMTc3MTc2NDU2OC
+wxMzMwNzg1NDM4LDE1NDQ0ODM4MjMsMzI3ODA1NzM4LC0xNTIz
+ODM3ODQ3XX0=
 -->
