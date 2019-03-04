@@ -354,13 +354,15 @@ Para enviar el mensaje, la persona emisora entregará el papel sin ningún doble
 Duración: 1 Hora 40 Minutos
 En esta etapa la práctica será un elemento esencial en la relación de enseñanza – aprendizaje, el facilitador/a acompañará a las personas participantes de una manera permanente resolviendo dudas y orientando el proceso.
 
-**¡MANOS A LA OBRA! (**_USO THUNDERBIRD_**)** Las personas participantes tendrán que realizar las siguientes actividades en sus computadores o en los computadores de la sala del taller siguiendo las siguientes instrucciones:
-
-<![if !supportLists]>· <![endif]>Instalación y configuración de _THUNDERBIRD_ _POP – IMAP_, integración de una cuenta externa.
+**¡MANOS A LA OBRA! (**_USO THUNDERBIRD_**)** Las personas participantes tendrán que realizar las siguientes actividades en sus computadores o en los computadores de la sala del taller siguiendo las siguientes instrucciones:<li type=disc>Instalación y configuración de _THUNDERBIRD_ _POP – IMAP_, integración de una cuenta externa.</li>
 
 ### SÍNTESIS
-Duración: 20 Minutos
+Duración: 20 Minutos<ol>
+<![endif]-->
 
+<![if !supportLists]>a. <![endif]>Se construirá conjuntamente las 5 conclusiones más importantes del módulo, en especial con relación a la privacidad que ofrece el correo electrónico gratuito comparado con el correo de otros proveedores, estas conclusiones serán escritas en un procesador de texto con el fin de que sean proyectadas y  vistas por las personas participantes.
+
+<![if !supportLists]>b. <![endif]>Los facilitadores darán la palabra a las personas participantes para que libremente hagan  preguntas y aclaren sus dudas.
 
 
 ### EVALUACIÓN
@@ -455,7 +457,7 @@ Duración: 10 Minutos
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxMDk1OTYyMCwtNDUyNTM2OTk2LDE2Mz
+eyJoaXN0b3J5IjpbMTg0MjQwNTkxMywtNDUyNTM2OTk2LDE2Mz
 kzODQ5MjAsLTEzMzE3NjI5NzAsMTQ1NzM4OTgxMiwtODc3MjYw
 OTU0LC0xMDY1Mzc4MTcwLC0xMDY1Mzc4MTcwLC04NDg3NjcyND
 gsLTE3NzM2Mzk3NjcsLTk2NjgzMjg1OSwxNDk0Mzc3NzMzLC00
