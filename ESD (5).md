@@ -268,6 +268,7 @@ Materiales requeridos: (3) Pliegos de papel periódico, post-tit
 
 
 # Anonimato 2 – Intermedio
+**_Tiempo total: 4 Horas_**
 
 ![](anonimato2.png)
 
@@ -299,6 +300,7 @@ Materiales requeridos: (1) Pliego de papel periódico, post-tit
 **_¿Cómo conducir la actividad? “EL SEMÁFORO”_**  Los facilitadores colocaran en la pared un pliego de papel periódico con un semáforo dibujado, cada color del semáforo indicara un aspecto a evaluar >> ¿Qué te gusto?, ¿Qué aprendiste?, ¿Qué mejorarías? Los facilitadores darán las instrucciones a las personas participantes para que peguen en el semáforo sus opiniones de cada uno de los aspectos indicados. Al finalizar la sesión se recogerá  el material y se socializaran con el equipo de la EDSD.
 
 # Servidores de Correo electrónico seguro 1 – Básico
+**_Tiempo total: 4 Horas_**
 
 ![](correo1.png)
 ___¿Cómo conducir la actividad?___
@@ -339,6 +341,7 @@ Materiales requeridos: (3) PliegoS de papel periódico, post-tit
 
 
 # Servidores de Correo electrónico seguro 2 – Intermedio
+**_Tiempo total: 4 Horas_**
 
 ![](correo2.png)
 
@@ -381,6 +384,7 @@ Materiales requeridos: Hojas de papel con un dibujo de Salida y Meta. (_Anexo en
 **_¿Cómo conducir la actividad? “SALIDA Y META”_**  Los facilitadores repartirán una hoja la cual tiene dibujado una _Salida y una Meta, en el camino entre la una y la otra se encontrarán_ tres aspectos a evaluar >> ¿Qué te gusto?, ¿Qué aprendiste?, ¿Qué mejorarías? Los facilitadores darán las instrucciones a las personas participantes para que coloquen allí sus opiniones en cada uno de los aspectos indicados. Al finalizar la sesión se recogerán las hojas y se socializaran con el equipo de la EDSD.
 
 # Celulares y comunicación segura
+**_Tiempo total: 4 Horas_**
 
 ![](celulares.png)
 
@@ -418,6 +422,7 @@ Materiales requeridos: (1) Pliego de papel periódico, post-tit de tres colores 
 **_¿Cómo conducir la actividad? “LA ENSALADA”_**  Los facilitadores colocaran en la pared un pliego de papel periódico con un tazón dibujado, Los facilitadores darán las instrucciones a las personas participantes para que en cada color de los tres post-tit entregados evalúen >> ¿Qué te gusto?, ¿Qué aprendiste?, ¿Qué mejorarías? Luego los participantes pegaran dentro del tazón los post-tit con sus opiniones de cada uno de los aspectos indicados. Al finalizar la sesión se recogerá  el material y se socializaran con el equipo de la EDSD.
 
 # Redes Sociales
+**_Tiempo total: 4 Horas_**
 
 ![](redes.png)
 ___¿Cómo conducir la actividad?___
@@ -455,11 +460,11 @@ tres colores diferentes
 
 ![](final.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODA3MzA2MjMsLTY2OTY1OTMzMSwtMT
-QxMjA2OTg1MiwtMjU4NjM0NDQxLDE2MjA1NDc4OTMsLTE0MDM0
-ODc1MTksLTEzNjIwNjI2NTUsLTQ1MjUzNjk5NiwxNjM5Mzg0OT
-IwLC0xMzMxNzYyOTcwLDE0NTczODk4MTIsLTg3NzI2MDk1NCwt
-MTA2NTM3ODE3MCwtMTA2NTM3ODE3MCwtODQ4NzY3MjQ4LC0xNz
-czNjM5NzY3LC05NjY4MzI4NTksMTQ5NDM3NzczMywtNDc5NjY5
-MjIxLC03NDQyNjk1ODRdfQ==
+eyJoaXN0b3J5IjpbLTEwNzAwNTEzNDAsLTEwODA3MzA2MjMsLT
+Y2OTY1OTMzMSwtMTQxMjA2OTg1MiwtMjU4NjM0NDQxLDE2MjA1
+NDc4OTMsLTE0MDM0ODc1MTksLTEzNjIwNjI2NTUsLTQ1MjUzNj
+k5NiwxNjM5Mzg0OTIwLC0xMzMxNzYyOTcwLDE0NTczODk4MTIs
+LTg3NzI2MDk1NCwtMTA2NTM3ODE3MCwtMTA2NTM3ODE3MCwtOD
+Q4NzY3MjQ4LC0xNzczNjM5NzY3LC05NjY4MzI4NTksMTQ5NDM3
+NzczMywtNDc5NjY5MjIxXX0=
 -->
