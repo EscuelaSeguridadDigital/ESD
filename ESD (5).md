@@ -298,7 +298,7 @@ Esta etapa estará enfocada a fortalecer conocimientos teóricos.
 Duración: 1 Hora 40 Minutos
 En esta etapa la práctica será un elemento esencial en la relación de enseñanza – aprendizaje, el facilitador/a acompañará a las personas participantes de una manera permanente resolviendo dudas y orientando el proceso.
 
-***¡MANOS A LA OBRA! *** (_USO DuckDuckGo_) Las personas participantes tendrán que realizar las siguientes actividades en sus computadores o en los computadores de la sala del taller siguiendo las siguientes instrucciones:
+**¡MANOS A LA OBRA! ** (_USO DuckDuckGo_) Las personas participantes tendrán que realizar las siguientes actividades en sus computadores o en los computadores de la sala del taller siguiendo las siguientes instrucciones:
 
 <ul><li> Instalación y configuración _DuckDuckGo._ Las personas participantes tendrán que realizar la instalación y configuración de motor de búsqueda *DuckDuckGo dejarlo como motor de búsqueda por defecto, luego de esto realizar varias búsquedas para que identifiquen las características del resultado de búsqueda.*</li><br><li>Configuración, limpieza y eliminación de cookies en navegadores. Las personas participantes tendrán que realizar la configuración en el navegador para eliminarlas cookies de los sitios web.</li></ul>
 
@@ -460,11 +460,11 @@ Duración: 10 Minutos
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0ODc2NzI0OCwtMTc3MzYzOTc2NywtOT
-Y2ODMyODU5LDE0OTQzNzc3MzMsLTQ3OTY2OTIyMSwtNzQ0MjY5
-NTg0LC0xMTcyNjcxMzMyLDMwNjM1MDMxMSwtMTQwODI2Mjc0My
-w4ODgyMzI0NzAsLTE5NTQxNjE1OCw5NjY1OTQ4NSwtMTk5ODQ0
-ODUzNywxMzA0NjQ3NTEzLC0xMTgxMjMxMTE1LC0xNzcxNzY0NT
-Y4LDEzMzA3ODU0MzgsMTU0NDQ4MzgyMywzMjc4MDU3MzgsLTE1
-MjM4Mzc4NDddfQ==
+eyJoaXN0b3J5IjpbLTY0OTE3NDc4MCwtODQ4NzY3MjQ4LC0xNz
+czNjM5NzY3LC05NjY4MzI4NTksMTQ5NDM3NzczMywtNDc5NjY5
+MjIxLC03NDQyNjk1ODQsLTExNzI2NzEzMzIsMzA2MzUwMzExLC
+0xNDA4MjYyNzQzLDg4ODIzMjQ3MCwtMTk1NDE2MTU4LDk2NjU5
+NDg1LC0xOTk4NDQ4NTM3LDEzMDQ2NDc1MTMsLTExODEyMzExMT
+UsLTE3NzE3NjQ1NjgsMTMzMDc4NTQzOCwxNTQ0NDgzODIzLDMy
+NzgwNTczOF19
 -->
