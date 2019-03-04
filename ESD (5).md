@@ -257,7 +257,7 @@ En esta etapa la práctica será un elemento esencial en la relación de enseña
 ### SÍNTESIS
 Duración: 20 Minutos
 
-<ol><li type=a>Los facilitadores leerán en voz alta la siguiente afirmación: “*Desde un punto de vista técnico, no se puede borrar algo en tu computadora.*” A continuación se les realizara las siguientes preguntas a las personas participantes:<ul> <li type=disc>¿Qué opinan de la afirmación?</li><li type=disc>¿Por qué no existirá una función de “borrado” real?</li><li type=disc>¿Qué crees que pasa con esos datos cuando se “elimina”?</li></ul><li type=a> Los facilitadores darán la palabra a las personas participantes para que libremente hagan  preguntas y aclaren sus dudas.</li></ol>
+<ol><li type=a>Los facilitadores leerán en voz alta la siguiente afirmación: “*Desde un punto de vista técnico, no se puede borrar algo en tu computadora.*” A continuación se les realizara las siguientes preguntas a las personas participantes:</li><ul><li type=disc>¿Qué opinan de la afirmación?</li><li type=disc>¿Por qué no existirá una función de “borrado” real?</li><li type=disc>¿Qué crees que pasa con esos datos cuando se “elimina”?</li></ul><li type=a> Los facilitadores darán la palabra a las personasparticipantes para que libremente hagan  preguntas y aclaren sus dudas.</li></ol>
 
 ### EVALUACIÓN
 Duración: 10 Minutos
@@ -465,7 +465,7 @@ Duración: 10 Minutos
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0MDQ4NjY0MCwxNjM5Mzg0OTIwLC0xMz
+eyJoaXN0b3J5IjpbMTM1MDM0MzA0NiwxNjM5Mzg0OTIwLC0xMz
 MxNzYyOTcwLDE0NTczODk4MTIsLTg3NzI2MDk1NCwtMTA2NTM3
 ODE3MCwtMTA2NTM3ODE3MCwtODQ4NzY3MjQ4LC0xNzczNjM5Nz
 Y3LC05NjY4MzI4NTksMTQ5NDM3NzczMywtNDc5NjY5MjIxLC03
