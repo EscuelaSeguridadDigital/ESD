@@ -357,12 +357,7 @@ En esta etapa la práctica será un elemento esencial en la relación de enseña
 **¡MANOS A LA OBRA! (**_USO THUNDERBIRD_**)** Las personas participantes tendrán que realizar las siguientes actividades en sus computadores o en los computadores de la sala del taller siguiendo las siguientes instrucciones:<li type=disc>Instalación y configuración de _THUNDERBIRD_ _POP – IMAP_, integración de una cuenta externa.</li>
 
 ### SÍNTESIS
-Duración: 20 Minutos<ol>
-<![endif]-->
-
-<![if !supportLists]>a. <![endif]>Se construirá conjuntamente las 5 conclusiones más importantes del módulo, en especial con relación a la privacidad que ofrece el correo electrónico gratuito comparado con el correo de otros proveedores, estas conclusiones serán escritas en un procesador de texto con el fin de que sean proyectadas y  vistas por las personas participantes.
-
-<![if !supportLists]>b. <![endif]>Los facilitadores darán la palabra a las personas participantes para que libremente hagan  preguntas y aclaren sus dudas.
+Duración: 20 Minutos<ol><li type=a>Se construirá conjuntamente las 5 conclusiones más importantes del módulo, en especial con relación a la privacidad que ofrece el correo electrónico gratuito comparado con el correo de otros proveedores, estas conclusiones serán escritas en un procesador de texto con el fin de que sean proyectadas y  vistas por las personas participantes.</li><li type=a>]>Los facilitadores darán la palabra a las personas participantes para que libremente hagan  preguntas y aclaren sus dudas.
 
 
 ### EVALUACIÓN
@@ -457,11 +452,11 @@ Duración: 10 Minutos
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0MjQwNTkxMywtNDUyNTM2OTk2LDE2Mz
-kzODQ5MjAsLTEzMzE3NjI5NzAsMTQ1NzM4OTgxMiwtODc3MjYw
-OTU0LC0xMDY1Mzc4MTcwLC0xMDY1Mzc4MTcwLC04NDg3NjcyND
-gsLTE3NzM2Mzk3NjcsLTk2NjgzMjg1OSwxNDk0Mzc3NzMzLC00
-Nzk2NjkyMjEsLTc0NDI2OTU4NCwtMTE3MjY3MTMzMiwzMDYzNT
-AzMTEsLTE0MDgyNjI3NDMsODg4MjMyNDcwLC0xOTU0MTYxNTgs
-OTY2NTk0ODVdfQ==
+eyJoaXN0b3J5IjpbOTI2NTMxMDQyLC00NTI1MzY5OTYsMTYzOT
+M4NDkyMCwtMTMzMTc2Mjk3MCwxNDU3Mzg5ODEyLC04NzcyNjA5
+NTQsLTEwNjUzNzgxNzAsLTEwNjUzNzgxNzAsLTg0ODc2NzI0OC
+wtMTc3MzYzOTc2NywtOTY2ODMyODU5LDE0OTQzNzc3MzMsLTQ3
+OTY2OTIyMSwtNzQ0MjY5NTg0LC0xMTcyNjcxMzMyLDMwNjM1MD
+MxMSwtMTQwODI2Mjc0Myw4ODgyMzI0NzAsLTE5NTQxNjE1OCw5
+NjY1OTQ4NV19
 -->
