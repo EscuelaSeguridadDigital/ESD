@@ -410,7 +410,7 @@ Una vez finalizada esta línea de tiempo, las personas participantes deben tomar
 Duración: 1 Hora 40 Minutos
 En esta etapa la práctica será un elemento esencial en la relación de enseñanza – aprendizaje, el facilitador/a acompañará a las personas participantes de una manera permanente resolviendo dudas y orientando el proceso.
 
-**¡MANOS A LA OBRA! (**_USO MÓVILES_**)**  Las personas participantes tendrán que realizar las siguientes actividades en sus computadores o en los computadores de la sala del taller siguiendo las siguientes instrucciones:<ul><li type=disc>Configuración del celular, patrón de bloqueo o contraseña de acceso seguro.</li><li type=disc>Desactivar funciones como Bluetooth y GPS.</li><li type=disc>Actualización del sistema operativo.</li><li type=disc>Consulta número IMEI.<li><li type=disc>Inventario de Apps, verificación de apps seguras.</li></ul>
+**¡MANOS A LA OBRA! (**_USO MÓVILES_**)**  Las personas participantes tendrán que realizar las siguientes actividades en sus computadores o en los computadores de la sala del taller siguiendo las siguientes instrucciones:<ul><li type=disc>Configuración del celular, patrón de bloqueo o contraseña de acceso seguro.</li><li type=disc>Desactivar funciones como Bluetooth y GPS.</li><li type=disc>Actualización del sistema operativo.</li><li type=disc>Consulta número IMEI.</li><li type=disc>Inventario de Apps, verificación de apps seguras.</li></ul>
 
 ### SÍNTESIS
 Duración: 20 Minutos<ol><li type=a>Las personas participantes trabajarán en parejas y crearán una lista de amenazas que pueden surgir a través del uso de dispositivos móviles. Luego presentaran algunas recomendaciones de prácticas que creen que pueden ayudar a asegurar dichos dispositivos, los facilitadores estarán prestos a resolver cualquier duda que se presente en el transcurso  de la actividad.</li><li type=a>Los facilitadores darán la palabra a las personas participantes para que libremente hagan  preguntas y aclaren sus dudas.</li></ol>
@@ -460,11 +460,11 @@ tres colores diferentes
 
 ![](final.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzAwNTEzNDAsLTQ5NzczNjA0MCwtMT
-A3MDA1MTM0MCwtMTA4MDczMDYyMywtNjY5NjU5MzMxLC0xNDEy
-MDY5ODUyLC0yNTg2MzQ0NDEsMTYyMDU0Nzg5MywtMTQwMzQ4Nz
-UxOSwtMTM2MjA2MjY1NSwtNDUyNTM2OTk2LDE2MzkzODQ5MjAs
-LTEzMzE3NjI5NzAsMTQ1NzM4OTgxMiwtODc3MjYwOTU0LC0xMD
-Y1Mzc4MTcwLC0xMDY1Mzc4MTcwLC04NDg3NjcyNDgsLTE3NzM2
-Mzk3NjcsLTk2NjgzMjg1OV19
+eyJoaXN0b3J5IjpbMTYwNTg0NjIwOSwtMTA3MDA1MTM0MCwtND
+k3NzM2MDQwLC0xMDcwMDUxMzQwLC0xMDgwNzMwNjIzLC02Njk2
+NTkzMzEsLTE0MTIwNjk4NTIsLTI1ODYzNDQ0MSwxNjIwNTQ3OD
+kzLC0xNDAzNDg3NTE5LC0xMzYyMDYyNjU1LC00NTI1MzY5OTYs
+MTYzOTM4NDkyMCwtMTMzMTc2Mjk3MCwxNDU3Mzg5ODEyLC04Nz
+cyNjA5NTQsLTEwNjUzNzgxNzAsLTEwNjUzNzgxNzAsLTg0ODc2
+NzI0OCwtMTc3MzYzOTc2N119
 -->
