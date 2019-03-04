@@ -74,8 +74,6 @@ A continuación se describen los momentos que estructuran cada uno de los módul
 ![](Lectras.png)
 ![](Foros.png)
 
-![](Est. Documentos.png)
-
 # Estructura de contenidos
 
 
@@ -456,7 +454,7 @@ tres colores diferentes
 
 ![](final.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxMTY5NzI5NSwtNjY5NjU5MzMxLC0xND
+eyJoaXN0b3J5IjpbLTM0NjE3NjIwOSwtNjY5NjU5MzMxLC0xND
 EyMDY5ODUyLC0yNTg2MzQ0NDEsMTYyMDU0Nzg5MywtMTQwMzQ4
 NzUxOSwtMTM2MjA2MjY1NSwtNDUyNTM2OTk2LDE2MzkzODQ5Mj
 AsLTEzMzE3NjI5NzAsMTQ1NzM4OTgxMiwtODc3MjYwOTU0LC0x
