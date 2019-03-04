@@ -250,7 +250,7 @@ Esta etapa estará enfocada a fortalecer conocimientos teóricos
 
 Los facilitadores dividirán a las personas participantes en tres grupos, donde cada uno de ellos tendrá actividades diferentes:
 
-<li>Grupo A_**: Elaborara un listado de que tipos de archivos o información importante que manejan tanto en computadores como en dispositivos móviles, cada uno de ellos se debe colocar en una cartulina diferente.</li><li>**_Grupo B_**: Elaborara un listado de mecanismos o formas en las que se puede perder información, cada uno de ellos se debe colocar en una cartulina diferente.</li><li>**_Grupo C_**: Elaborara un listado con modos de prevención que conozcan en el manejo de la información (Herramientas o prácticas), cada uno de ellos se debe colocar en una cartulina diferente.
+<li type=disc>Grupo A_**: Elaborara un listado de que tipos de archivos o información importante que manejan tanto en computadores como en dispositivos móviles, cada uno de ellos se debe colocar en una cartulina diferente.</li><li type=disc>**_Grupo B_**: Elaborara un listado de mecanismos o formas en las que se puede perder información, cada uno de ellos se debe colocar en una cartulina diferente.</li><li >**_Grupo C_**: Elaborara un listado con modos de prevención que conozcan en el manejo de la información (Herramientas o prácticas), cada uno de ellos se debe colocar en una cartulina diferente.
 
 Una vez finalizada la instrucción, se pasará a realizar un mapeo juntando la información y se socializaran con todos los grupos.  Se corregirán los posibles errores y se aclararán dudas que puedan surgir.
 
@@ -261,14 +261,14 @@ En esta etapa la práctica será un elemento esencial en la relación de enseña
 
 **¡MANOS A LA OBRA!** (*USO RECUVA - ERASER*)  Las personas participantes tendrán que realizar las siguientes actividades en sus computadores o en los computadores de la sala del taller siguiendo las siguientes instrucciones:
 
-<li>Instalación y configuración _RECUVA_. Las personas participantes tendrán que crear una carpeta con información de prueba, puede ser una ya existente si lo desean, seguido a esto deberán eliminarla y proceder a vaciarla también en la papelera de reciclaje, por último las personas participantes tendrán que recuperar la carpeta con la información con el uso de _RECUVA._</li>
+<li type=disc>Instalación y configuración _RECUVA_. Las personas participantes tendrán que crear una carpeta con información de prueba, puede ser una ya existente si lo desean, seguido a esto deberán eliminarla y proceder a vaciarla también en la papelera de reciclaje, por último las personas participantes tendrán que recuperar la carpeta con la información con el uso de _RECUVA._</li>
 
-<li>Instalación y configuración _ERASER_. -  Las personas participantes tendrán que eliminar de manera permanente un archivo de su computadora o de una USB utilizando el _ERASER_. _Nota: Los facilitadores deben estar pendientes y recordarles a las personas participantes que estén seguros de cual archivo van a eliminar, pues una vez que  el archivo se elimine con la herramienta ERASER este no se podrá recuperar._</li>
+<li type=disc>Instalación y configuración _ERASER_. -  Las personas participantes tendrán que eliminar de manera permanente un archivo de su computadora o de una USB utilizando el _ERASER_. _Nota: Los facilitadores deben estar pendientes y recordarles a las personas participantes que estén seguros de cual archivo van a eliminar, pues una vez que  el archivo se elimine con la herramienta ERASER este no se podrá recuperar._</li>
 
 ### SÍNTESIS
 Duración: 20 Minutos
 
-<ol><li type=a>Los facilitadores leerán en voz alta la siguiente afirmación: “*Desde un punto de vista técnico, no se puede borrar algo en tu computadora.*” A continuación se les realizara las siguientes preguntas a las personas participantes:<ul> <li>¿Qué opinan de la afirmación?</li><li>¿Por qué no existirá una función de “borrado” real?</li><li>¿Qué crees que pasa con esos datos cuando se “elimina”?</li></ul><li type=a> Los facilitadores darán la palabra a las personas participantes para que libremente hagan  preguntas y aclaren sus dudas.</li>
+<ol><li type=a>Los facilitadores leerán en voz alta la siguiente afirmación: “*Desde un punto de vista técnico, no se puede borrar algo en tu computadora.*” A continuación se les realizara las siguientes preguntas a las personas participantes:<ul> <li type=disc>¿Qué opinan de la afirmación?</li><li type=disc>¿Por qué no existirá una función de “borrado” real?</li><li type=disc>¿Qué crees que pasa con esos datos cuando se “elimina”?</li></ul><li type=a> Los facilitadores darán la palabra a las personas participantes para que libremente hagan  preguntas y aclaren sus dudas.</li>
 
 ### EVALUACIÓN
 Duración: 10 Minutos
@@ -460,11 +460,11 @@ Duración: 10 Minutos
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NzI2MDk1NCwtMTA2NTM3ODE3MCwtMT
-A2NTM3ODE3MCwtODQ4NzY3MjQ4LC0xNzczNjM5NzY3LC05NjY4
-MzI4NTksMTQ5NDM3NzczMywtNDc5NjY5MjIxLC03NDQyNjk1OD
-QsLTExNzI2NzEzMzIsMzA2MzUwMzExLC0xNDA4MjYyNzQzLDg4
-ODIzMjQ3MCwtMTk1NDE2MTU4LDk2NjU5NDg1LC0xOTk4NDQ4NT
-M3LDEzMDQ2NDc1MTMsLTExODEyMzExMTUsLTE3NzE3NjQ1Njgs
-MTMzMDc4NTQzOF19
+eyJoaXN0b3J5IjpbLTg2NTM3Mjk2NiwtODc3MjYwOTU0LC0xMD
+Y1Mzc4MTcwLC0xMDY1Mzc4MTcwLC04NDg3NjcyNDgsLTE3NzM2
+Mzk3NjcsLTk2NjgzMjg1OSwxNDk0Mzc3NzMzLC00Nzk2NjkyMj
+EsLTc0NDI2OTU4NCwtMTE3MjY3MTMzMiwzMDYzNTAzMTEsLTE0
+MDgyNjI3NDMsODg4MjMyNDcwLC0xOTU0MTYxNTgsOTY2NTk0OD
+UsLTE5OTg0NDg1MzcsMTMwNDY0NzUxMywtMTE4MTIzMTExNSwt
+MTc3MTc2NDU2OF19
 -->
