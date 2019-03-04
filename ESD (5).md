@@ -64,17 +64,15 @@ Cada una de estos módulos se ha estructurado en cinco (__5__) momentos, los cua
 
 Por esta razón en todas las actividades se priorizará el acercamiento a las herramientas de manera práctica, como una estrategia que permita implementar los aprendizajes de seguridad digital en la vida diaria de las personas y en la cultura organizacional de las entidades; y con ello mitigar las vulnerabilidades encontradas en la evaluación inicial.
 
-A continuación se describen los momentos que estructuran cada uno de los módulos:
-
- ___- Introducción:___  En este momento se hará una presentación de los contenidos y objetivos del módulo, así como también la exposición de la ruta de aprendizaje, los acuerdos de convivencia y participación en la sesión.
+A continuación se describen los momentos que estructuran cada uno de los módulos:<ul><li type=disc> ___ Introducción:___  En este momento se hará una presentación de los contenidos y objetivos del módulo, así como también la exposición de la ruta de aprendizaje, los acuerdos de convivencia y participación en la sesión.
  
- ***-Contextualización de la Información:*** Hace referencia a los conceptos de cada uno de los temas a tratar en el módulo, este momento está enfocado a fortalecer conocimientos teóricos, que le permitirán a los participantes usar de una forma más eficiente las herramientas presentadas. 
+ ***Contextualización de la Información:*** Hace referencia a los conceptos de cada uno de los temas a tratar en el módulo, este momento está enfocado a fortalecer conocimientos teóricos, que le permitirán a los participantes usar de una forma más eficiente las herramientas presentadas. 
 
-___-Práctica:___ Será el escenario donde los participantes podrán realizar diferentes actividades prácticas diseñadas para cada módulo. En este momento la práctica será un elemento esencial en la relación enseñanza – aprendizaje, en donde el o la facilitadora podrá acompañarles de una manera permanente resolviendo dudas y orientando el proceso.
+___Práctica:___ Será el escenario donde los participantes podrán realizar diferentes actividades prácticas diseñadas para cada módulo. En este momento la práctica será un elemento esencial en la relación enseñanza – aprendizaje, en donde el o la facilitadora podrá acompañarles de una manera permanente resolviendo dudas y orientando el proceso.
 
-___-Síntesis:___  En este momento los y las participantes socializarán su experiencia de aprendizaje, así mismo aclararan dudas relacionadas con los temas tratados, durante esta síntesis el facilitador o facilitadora incluirá algunas preguntas claves que permitirán reforzar aún más los conceptos y así evidenciar la comprensión de los temas presentados en el módulo.
+___Síntesis:___  En este momento los y las participantes socializarán su experiencia de aprendizaje, así mismo aclararan dudas relacionadas con los temas tratados, durante esta síntesis el facilitador o facilitadora incluirá algunas preguntas claves que permitirán reforzar aún más los conceptos y así evidenciar la comprensión de los temas presentados en el módulo.
 
-___-Evaluación:___ Este momento final le permitirá a los y las participantes expresar su percepción frente al desarrollo de la metodología y logística de la sesión, esto con el fin de organizar y mejorar posibles falencias en las sesiones siguientes.
+___Evaluación:___ Este momento final le permitirá a los y las participantes expresar su percepción frente al desarrollo de la metodología y logística de la sesión, esto con el fin de organizar y mejorar posibles falencias en las sesiones siguientes.
 
 # Plataforma Virtual Escuela de Seguridad Digital
 ![](Virtual.png)
@@ -469,11 +467,11 @@ tres colores diferentes
 
 ![](final.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0MTA0OTcwOCwtMjU4NjM0NDQxLDE2Mj
-A1NDc4OTMsLTE0MDM0ODc1MTksLTEzNjIwNjI2NTUsLTQ1MjUz
-Njk5NiwxNjM5Mzg0OTIwLC0xMzMxNzYyOTcwLDE0NTczODk4MT
-IsLTg3NzI2MDk1NCwtMTA2NTM3ODE3MCwtMTA2NTM3ODE3MCwt
-ODQ4NzY3MjQ4LC0xNzczNjM5NzY3LC05NjY4MzI4NTksMTQ5ND
-M3NzczMywtNDc5NjY5MjIxLC03NDQyNjk1ODQsLTExNzI2NzEz
-MzIsMzA2MzUwMzExXX0=
+eyJoaXN0b3J5IjpbLTE4NjM5ODAwNDUsLTI1ODYzNDQ0MSwxNj
+IwNTQ3ODkzLC0xNDAzNDg3NTE5LC0xMzYyMDYyNjU1LC00NTI1
+MzY5OTYsMTYzOTM4NDkyMCwtMTMzMTc2Mjk3MCwxNDU3Mzg5OD
+EyLC04NzcyNjA5NTQsLTEwNjUzNzgxNzAsLTEwNjUzNzgxNzAs
+LTg0ODc2NzI0OCwtMTc3MzYzOTc2NywtOTY2ODMyODU5LDE0OT
+QzNzc3MzMsLTQ3OTY2OTIyMSwtNzQ0MjY5NTg0LC0xMTcyNjcx
+MzMyLDMwNjM1MDMxMV19
 -->
