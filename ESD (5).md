@@ -304,9 +304,8 @@ En esta etapa la práctica será un elemento esencial en la relación de enseña
 
 ### SÍNTESIS
 Duración: 20 Minutos
-<ul>>li type=a>Los facilitadores le pedirán a cada una de las personas participantes que compartan sus apreciaciones y una buena práctica de anonimato, durante la intervención uno de los facilitadores ira escribiendo las ideas principales en un procesador de texto, de modo que se proyecten desde el computador y estén a la vista de los participantes.
+<ul><li type=a>Los facilitadores le pedirán a cada una de las personas participantes que compartan sus apreciaciones y una buena práctica de anonimato, durante la intervención uno de los facilitadores ira escribiendo las ideas principales en un procesador de texto, de modo que se proyecten desde el computador y estén a la vista de los participantes.</li> <br><li type=a>Los facilitadores darán la palabra a las personas participantes para que libremente hagan  preguntas y aclaren sus dudas.</li><ul>
 
-Los facilitadores darán la palabra a las personas participantes para que libremente hagan  preguntas y aclaren sus dudas.
 
 
 ### EVALUACIÓN
@@ -459,7 +458,7 @@ Duración: 10 Minutos
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1OTQyNzc3OSwtMTc3MzYzOTc2NywtOT
+eyJoaXN0b3J5IjpbMTExMjQ2NzY3NywtMTc3MzYzOTc2NywtOT
 Y2ODMyODU5LDE0OTQzNzc3MzMsLTQ3OTY2OTIyMSwtNzQ0MjY5
 NTg0LC0xMTcyNjcxMzMyLDMwNjM1MDMxMSwtMTQwODI2Mjc0My
 w4ODgyMzI0NzAsLTE5NTQxNjE1OCw5NjY1OTQ4NSwtMTk5ODQ0
