@@ -317,9 +317,9 @@ En esta etapa la práctica será un elemento esencial en la relación de enseña
 
 ### SÍNTESIS
 Duración: 20 Minutos
-Materiales requeridos: Ovillo de lana<ol><il type=a>Las personas participantes se ubicarán en forma circular y uno de los facilitadores toma un ovillo de lana, este tendrá sostenida la punta del ovillo y sin soltarlo la lanza a alguna persona participante, la persona que recibe deberá responder la pregunta que el otro facilitador le indique, al contestar la pregunta el participante tomara un punto de la lana y sin soltarlo lanza el ovillo a otra persona el cual tendrá que contestar la misma u otra pregunta según lo indique el facilitador y así sucesivamente hasta que todas las personas hayan participado y se logre formar una red con lana al interior del círculo.</il><ul><il type=disc>¿Realmente tenemos privacidad?</il></ul></ol>
+Materiales requeridos: Ovillo de lana<ol><li type=a>Las personas participantes se ubicarán en forma circular y uno de los facilitadores toma un ovillo de lana, este tendrá sostenida la punta del ovillo y sin soltarlo la lanza a alguna persona participante, la persona que recibe deberá responder la pregunta que el otro facilitador le indique, al contestar la pregunta el participante tomara un punto de la lana y sin soltarlo lanza el ovillo a otra persona el cual tendrá que contestar la misma u otra pregunta según lo indique el facilitador y así sucesivamente hasta que todas las personas hayan participado y se logre formar una red con lana al interior del círculo.</li><ul><li type=disc>¿Realmente tenemos privacidad?</li><li type=disc>¿Cuáles son los factores que podrían estar interfiriendo en el control que tienen sobre sus datos?</li> </ul></ol>
 
-<![if !supportLists]>· <![endif]>¿Cuáles son los factores que podrían estar interfiriendo en el control que tienen sobre sus datos?
+<![if !supportLists]>· <![endif]>
 
 <![if !supportLists]>· <![endif]>Indique una buena práctica de navegación con protocolos de seguridad
 
@@ -447,11 +447,11 @@ Duración: 10 Minutos
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MDU1OTEwMywtNDUyNTM2OTk2LDE2Mz
-kzODQ5MjAsLTEzMzE3NjI5NzAsMTQ1NzM4OTgxMiwtODc3MjYw
-OTU0LC0xMDY1Mzc4MTcwLC0xMDY1Mzc4MTcwLC04NDg3NjcyND
-gsLTE3NzM2Mzk3NjcsLTk2NjgzMjg1OSwxNDk0Mzc3NzMzLC00
-Nzk2NjkyMjEsLTc0NDI2OTU4NCwtMTE3MjY3MTMzMiwzMDYzNT
-AzMTEsLTE0MDgyNjI3NDMsODg4MjMyNDcwLC0xOTU0MTYxNTgs
-OTY2NTk0ODVdfQ==
+eyJoaXN0b3J5IjpbLTU3NTMxMiwtNDUyNTM2OTk2LDE2MzkzOD
+Q5MjAsLTEzMzE3NjI5NzAsMTQ1NzM4OTgxMiwtODc3MjYwOTU0
+LC0xMDY1Mzc4MTcwLC0xMDY1Mzc4MTcwLC04NDg3NjcyNDgsLT
+E3NzM2Mzk3NjcsLTk2NjgzMjg1OSwxNDk0Mzc3NzMzLC00Nzk2
+NjkyMjEsLTc0NDI2OTU4NCwtMTE3MjY3MTMzMiwzMDYzNTAzMT
+EsLTE0MDgyNjI3NDMsODg4MjMyNDcwLC0xOTU0MTYxNTgsOTY2
+NTk0ODVdfQ==
 -->
