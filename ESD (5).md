@@ -281,7 +281,7 @@ Los facilitadores presentaran de una manera global a las personas participantes 
 Duración: 1 Hora 30 Minutos
 Esta etapa estará enfocada a fortalecer conocimientos teóricos.
 
-<ul> <li type=a> Los facilitadores harán uso de la presentación correspondiente al módulo _Anonimato_ 1 – Básico (Presentación anexa en la carpeta de material de trabajo_ )</li></ul>
+<ol> <li type=a> Los facilitadores harán uso de la presentación correspondiente al módulo _Anonimato 1 – Básico (Presentación anexa en la carpeta de material de trabajo_ )</li></ol>
 
 ### PRÁCTICA
 Duración: 1 Hora 40 Minutos
@@ -465,11 +465,11 @@ Duración: 10 Minutos
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM1MzA3Njg4LDE2MzkzODQ5MjAsLTEzMz
-E3NjI5NzAsMTQ1NzM4OTgxMiwtODc3MjYwOTU0LC0xMDY1Mzc4
-MTcwLC0xMDY1Mzc4MTcwLC04NDg3NjcyNDgsLTE3NzM2Mzk3Nj
-csLTk2NjgzMjg1OSwxNDk0Mzc3NzMzLC00Nzk2NjkyMjEsLTc0
-NDI2OTU4NCwtMTE3MjY3MTMzMiwzMDYzNTAzMTEsLTE0MDgyNj
-I3NDMsODg4MjMyNDcwLC0xOTU0MTYxNTgsOTY2NTk0ODUsLTE5
-OTg0NDg1MzddfQ==
+eyJoaXN0b3J5IjpbMTQ5ODI0MDE1OSwxNjM5Mzg0OTIwLC0xMz
+MxNzYyOTcwLDE0NTczODk4MTIsLTg3NzI2MDk1NCwtMTA2NTM3
+ODE3MCwtMTA2NTM3ODE3MCwtODQ4NzY3MjQ4LC0xNzczNjM5Nz
+Y3LC05NjY4MzI4NTksMTQ5NDM3NzczMywtNDc5NjY5MjIxLC03
+NDQyNjk1ODQsLTExNzI2NzEzMzIsMzA2MzUwMzExLC0xNDA4Mj
+YyNzQzLDg4ODIzMjQ3MCwtMTk1NDE2MTU4LDk2NjU5NDg1LC0x
+OTk4NDQ4NTM3XX0=
 -->
