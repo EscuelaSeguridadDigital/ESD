@@ -233,7 +233,7 @@ Materiales requeridos: Hojas de papel con un termómetro. (_Anexo en la carpeta 
 ___¿Cómo conducir la actividad?___ <br><br>
 <h3>INTRODUCCIÓN</h3>
 Duración: 5 Minutos<br>
-Los facilitadores presentaran de una manera global a las personas participantes  los temas que se presentaran en el transcurso de la sesión, la metodología de trabajo (Ruta de aprendizaje) y mencionaran nuevamente los acuerdos de convivencia y participación en la sesión.  <div ( Presentación anexa en la carpeta de material de trabajo)>
+Los facilitadores presentaran de una manera global a las personas participantes  los temas que se presentaran en el transcurso de la sesión, la metodología de trabajo (Ruta de aprendizaje) y mencionaran nuevamente los acuerdos de convivencia y participación en la sesión.  <i>( Presentación anexa en la carpeta de material de trabajo)>
 
 ### CONTEXTUALIZACIÓN
 Duración: 1 Hora 30 Minutos
@@ -471,11 +471,11 @@ Duración: 10 Minutos
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2OTM0MTA5OCwtMTMzMTc2Mjk3MCwxND
-U3Mzg5ODEyLC04NzcyNjA5NTQsLTEwNjUzNzgxNzAsLTEwNjUz
-NzgxNzAsLTg0ODc2NzI0OCwtMTc3MzYzOTc2NywtOTY2ODMyOD
-U5LDE0OTQzNzc3MzMsLTQ3OTY2OTIyMSwtNzQ0MjY5NTg0LC0x
-MTcyNjcxMzMyLDMwNjM1MDMxMSwtMTQwODI2Mjc0Myw4ODgyMz
-I0NzAsLTE5NTQxNjE1OCw5NjY1OTQ4NSwtMTk5ODQ0ODUzNywx
-MzA0NjQ3NTEzXX0=
+eyJoaXN0b3J5IjpbLTE2MjY1MDgxNDQsLTEzMzE3NjI5NzAsMT
+Q1NzM4OTgxMiwtODc3MjYwOTU0LC0xMDY1Mzc4MTcwLC0xMDY1
+Mzc4MTcwLC04NDg3NjcyNDgsLTE3NzM2Mzk3NjcsLTk2NjgzMj
+g1OSwxNDk0Mzc3NzMzLC00Nzk2NjkyMjEsLTc0NDI2OTU4NCwt
+MTE3MjY3MTMzMiwzMDYzNTAzMTEsLTE0MDgyNjI3NDMsODg4Mj
+MyNDcwLC0xOTU0MTYxNTgsOTY2NTk0ODUsLTE5OTg0NDg1Mzcs
+MTMwNDY0NzUxM119
 -->
