@@ -438,9 +438,7 @@ Una vez finalizada esta línea de tiempo, las personas participantes deben tomar
 Duración: 1 Hora 40 Minutos
 En esta etapa la práctica será un elemento esencial en la relación de enseñanza – aprendizaje, el facilitador/a acompañará a las personas participantes de una manera permanente resolviendo dudas y orientando el proceso.
 
-**¡MANOS A LA OBRA! (**_USO MÓVILES**)**_  Las personas participantes tendrán que realizar las siguientes actividades en sus computadores o en los computadores de la sala del taller siguiendo las siguientes instrucciones:
-
-<![if !supportLists]>· <![endif]>Configuración del celular, patrón de bloqueo o contraseña de acceso seguro.
+**¡MANOS A LA OBRA! (**_USO MÓVILES_**)**  Las personas participantes tendrán que realizar las siguientes actividades en sus computadores o en los computadores de la sala del taller siguiendo las siguientes instrucciones:<ul><li type=disc>Configuración del celular, patrón de bloqueo o contraseña de acceso seguro.
 
 <![if !supportLists]>· <![endif]>Desactivar funciones como Bluetooth y GPS.
 
@@ -489,11 +487,11 @@ Duración: 10 Minutos
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMDA5Mjc1NiwtMTQwMzQ4NzUxOSwtMT
-M2MjA2MjY1NSwtNDUyNTM2OTk2LDE2MzkzODQ5MjAsLTEzMzE3
-NjI5NzAsMTQ1NzM4OTgxMiwtODc3MjYwOTU0LC0xMDY1Mzc4MT
-cwLC0xMDY1Mzc4MTcwLC04NDg3NjcyNDgsLTE3NzM2Mzk3Njcs
-LTk2NjgzMjg1OSwxNDk0Mzc3NzMzLC00Nzk2NjkyMjEsLTc0ND
-I2OTU4NCwtMTE3MjY3MTMzMiwzMDYzNTAzMTEsLTE0MDgyNjI3
-NDMsODg4MjMyNDcwXX0=
+eyJoaXN0b3J5IjpbLTIwMTMzNzQ1NjcsLTE0MDM0ODc1MTksLT
+EzNjIwNjI2NTUsLTQ1MjUzNjk5NiwxNjM5Mzg0OTIwLC0xMzMx
+NzYyOTcwLDE0NTczODk4MTIsLTg3NzI2MDk1NCwtMTA2NTM3OD
+E3MCwtMTA2NTM3ODE3MCwtODQ4NzY3MjQ4LC0xNzczNjM5NzY3
+LC05NjY4MzI4NTksMTQ5NDM3NzczMywtNDc5NjY5MjIxLC03ND
+QyNjk1ODQsLTExNzI2NzEzMzIsMzA2MzUwMzExLC0xNDA4MjYy
+NzQzLDg4ODIzMjQ3MF19
 -->
