@@ -290,8 +290,9 @@ Los facilitadores presentaran de una manera global a las personas participantes 
 
 ### CONTEXTUALIZACIÓN
 Duración: 1 Hora 30 Minutos
+Esta etapa estará enfocada a fortalecer conocimientos teóricos.
 
-**ACTIVIDAD 1 – EL A, B, C DE LA INFORMACIÓN**
+<ul> <Los facilitadores harán uso de la presentación correspondiente al módulo _Anonimato 1 – Básico_ (_Presentación anexa en la carpeta de material de trabajo_)
 
 
 ### PRÁCTICA
@@ -453,7 +454,7 @@ Duración: 10 Minutos
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3NzA4NjQ2OCwtMTc3MzYzOTc2NywtOT
+eyJoaXN0b3J5IjpbLTM5OTA5NzYyNCwtMTc3MzYzOTc2NywtOT
 Y2ODMyODU5LDE0OTQzNzc3MzMsLTQ3OTY2OTIyMSwtNzQ0MjY5
 NTg0LC0xMTcyNjcxMzMyLDMwNjM1MDMxMSwtMTQwODI2Mjc0My
 w4ODgyMzI0NzAsLTE5NTQxNjE1OCw5NjY1OTQ4NSwtMTk5ODQ0
