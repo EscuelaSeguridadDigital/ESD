@@ -313,9 +313,9 @@ Materiales requeridos: (3) Pliegos de papel periódico, post-tit
 **_¿Cómo conducir la actividad? “LOS MANTELES”_**  Los facilitadores colocaran en la pared tres pliegos de papel periódico cada uno de ellos indicara un aspecto a evaluar >> ¿Qué te gusto?, ¿Qué aprendiste?, ¿Qué mejorarías? Los facilitadores darán las instrucciones a las personas participantes para que peguen en cada pliego sus opiniones de cada uno de los aspectos indicados. Al finalizar la sesión se recogerá  el material y se socializaran con el equipo de la EDSD.
 
 
-# P
+# Anonimato 2 – Intermedio
 
-![]()
+![](anonimato2.png)
 
 
 ___¿Cómo conducir la actividad?___
@@ -460,11 +460,11 @@ Duración: 10 Minutos
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODE2OTgyNTAsLTEwNjUzNzgxNzAsLT
-EwNjUzNzgxNzAsLTg0ODc2NzI0OCwtMTc3MzYzOTc2NywtOTY2
-ODMyODU5LDE0OTQzNzc3MzMsLTQ3OTY2OTIyMSwtNzQ0MjY5NT
-g0LC0xMTcyNjcxMzMyLDMwNjM1MDMxMSwtMTQwODI2Mjc0Myw4
-ODgyMzI0NzAsLTE5NTQxNjE1OCw5NjY1OTQ4NSwtMTk5ODQ0OD
-UzNywxMzA0NjQ3NTEzLC0xMTgxMjMxMTE1LC0xNzcxNzY0NTY4
-LDEzMzA3ODU0MzhdfQ==
+eyJoaXN0b3J5IjpbLTg3NzI2MDk1NCwtMTA2NTM3ODE3MCwtMT
+A2NTM3ODE3MCwtODQ4NzY3MjQ4LC0xNzczNjM5NzY3LC05NjY4
+MzI4NTksMTQ5NDM3NzczMywtNDc5NjY5MjIxLC03NDQyNjk1OD
+QsLTExNzI2NzEzMzIsMzA2MzUwMzExLC0xNDA4MjYyNzQzLDg4
+ODIzMjQ3MCwtMTk1NDE2MTU4LDk2NjU5NDg1LC0xOTk4NDQ4NT
+M3LDEzMDQ2NDc1MTMsLTExODEyMzExMTUsLTE3NzE3NjQ1Njgs
+MTMzMDc4NTQzOF19
 -->
