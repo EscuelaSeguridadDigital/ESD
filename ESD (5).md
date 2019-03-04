@@ -313,10 +313,8 @@ Esta etapa estará enfocada a fortalecer conocimientos teóricos<ol><li type=a>L
 Duración: 1 Hora 40 Minutos
 En esta etapa la práctica será un elemento esencial en la relación de enseñanza – aprendizaje, el facilitador/a acompañará a las personas participantes de una manera permanente resolviendo dudas y orientando el proceso.
 
-**¡MANOS A LA OBRA! (**_USO VPN - TOR - TAILS_**)** Las personas participantes tendrán que realizar las siguientes actividades en sus computadores o en los computadores de la sala del taller siguiendo las siguientes instrucciones:
-
-<ul>Implementación de _VPN_. Las personas participantes tendrán que realizar con la ayuda de los facilitadores la implementación de una VPN.
-Instalación y configuración del Navegador TOR. Las personas participantes tendrán que realizar la instalación y configuración del navegador TOR, este instrucción la pueden hacer desde sus computadores o dispositivos móviles y si lo permite el tiempo en ambos.<>
+**¡MANOS A LA OBRA! (**_USO VPN - TOR - TAILS_**)** Las personas participantes tendrán que realizar las siguientes actividades en sus computadores o en los computadores de la sala del taller siguiendo las siguientes instrucciones:<ul>Implementación de _VPN_. Las personas participantes tendrán que realizar con la ayuda de los facilitadores la implementación de una VPN.
+Instalación y configuración del Navegador TOR. Las personas participantes tendrán que realizar la instalación y configuración del navegador TOR, este instrucción la pueden hacer desde sus computadores o dispositivos móviles y si lo permite el tiempo en ambos.</ul>
 
 ### SÍNTESIS
 Duración: 20 Minutos
@@ -456,11 +454,11 @@ Duración: 10 Minutos
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2ODI0Mjc3OCwxNjM5Mzg0OTIwLC0xMz
-MxNzYyOTcwLDE0NTczODk4MTIsLTg3NzI2MDk1NCwtMTA2NTM3
-ODE3MCwtMTA2NTM3ODE3MCwtODQ4NzY3MjQ4LC0xNzczNjM5Nz
-Y3LC05NjY4MzI4NTksMTQ5NDM3NzczMywtNDc5NjY5MjIxLC03
-NDQyNjk1ODQsLTExNzI2NzEzMzIsMzA2MzUwMzExLC0xNDA4Mj
-YyNzQzLDg4ODIzMjQ3MCwtMTk1NDE2MTU4LDk2NjU5NDg1LC0x
-OTk4NDQ4NTM3XX0=
+eyJoaXN0b3J5IjpbNzAyNjAxMjg4LDE2MzkzODQ5MjAsLTEzMz
+E3NjI5NzAsMTQ1NzM4OTgxMiwtODc3MjYwOTU0LC0xMDY1Mzc4
+MTcwLC0xMDY1Mzc4MTcwLC04NDg3NjcyNDgsLTE3NzM2Mzk3Nj
+csLTk2NjgzMjg1OSwxNDk0Mzc3NzMzLC00Nzk2NjkyMjEsLTc0
+NDI2OTU4NCwtMTE3MjY3MTMzMiwzMDYzNTAzMTEsLTE0MDgyNj
+I3NDMsODg4MjMyNDcwLC0xOTU0MTYxNTgsOTY2NTk0ODUsLTE5
+OTg0NDg1MzddfQ==
 -->
