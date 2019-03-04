@@ -188,13 +188,13 @@ __¿Cómo conducir la actividad?__
 ###__INTRODUCCIÓN.__
 __Duración: 5 Minutos.__
 
-Los facilitadores presentaran de una manera global a las personas participantes  los temas que se presentaran en el transcurso de la sesión, la metodología de trabajo (Ruta de aprendizaje) y mencionaran nuevamente los acuerdos de convivencia y participación en la sesión.  (_Presentación anexa en la carpeta de material de trabajo_)
+Los facilitadores presentaran de una manera global a las personas participantes  los temas que se presentaran en el transcurso de la sesión, la metodología de trabajo (Ruta de aprendizaje) y mencionaran nuevamente los acuerdos de convivencia y participación en la sesión.  _(Presentación anexa en la carpeta de material de trabajo)_
 
 ### **CONTEXTUALIZACIÓN**
 __Duración: 1 Hora 30 Minutos.__
 
 Esta etapa estará enfocada a fortalecer conocimientos teóricos
-<ol>a.   Los facilitadores harán uso de la presentación correspondiente al módulo _Principios de Seguridad Digital 1 – Básico_ (_Presentación anexa en la carpeta de material de trabajo_)</ol>
+<ol>a.   Los facilitadores harán uso de la presentación correspondiente al módulo _Principios de Seguridad Digital 1 – Básico_  _(Presentación anexa en la carpeta de material de trabajo)</ol>
 <ol>b. Los facilitadores realizaran  distintas actividades en el transcurso de las presentaciones, con el objetivo de que las personas participantes afiancen mejor los conceptos con ejemplos prácticos.</ol>
 
 
@@ -460,11 +460,11 @@ Duración: 10 Minutos
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2MjA1NjAyMSwtODc3MjYwOTU0LC0xMD
-Y1Mzc4MTcwLC0xMDY1Mzc4MTcwLC04NDg3NjcyNDgsLTE3NzM2
-Mzk3NjcsLTk2NjgzMjg1OSwxNDk0Mzc3NzMzLC00Nzk2NjkyMj
-EsLTc0NDI2OTU4NCwtMTE3MjY3MTMzMiwzMDYzNTAzMTEsLTE0
-MDgyNjI3NDMsODg4MjMyNDcwLC0xOTU0MTYxNTgsOTY2NTk0OD
-UsLTE5OTg0NDg1MzcsMTMwNDY0NzUxMywtMTE4MTIzMTExNSwt
-MTc3MTc2NDU2OF19
+eyJoaXN0b3J5IjpbMTE3Njk2MzIsLTg3NzI2MDk1NCwtMTA2NT
+M3ODE3MCwtMTA2NTM3ODE3MCwtODQ4NzY3MjQ4LC0xNzczNjM5
+NzY3LC05NjY4MzI4NTksMTQ5NDM3NzczMywtNDc5NjY5MjIxLC
+03NDQyNjk1ODQsLTExNzI2NzEzMzIsMzA2MzUwMzExLC0xNDA4
+MjYyNzQzLDg4ODIzMjQ3MCwtMTk1NDE2MTU4LDk2NjU5NDg1LC
+0xOTk4NDQ4NTM3LDEzMDQ2NDc1MTMsLTExODEyMzExMTUsLTE3
+NzE3NjQ1NjhdfQ==
 -->
