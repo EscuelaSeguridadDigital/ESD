@@ -424,9 +424,27 @@ Los facilitadores presentaran de una manera global a las personas participantes 
 
 ### CONTEXTUALIZACIÓN
 Duración: 1 Hora 30 Minutos
+Esta etapa estará enfocada a fortalecer conocimientos teóricos<ol><li type=a>Los facilitadores harán uso de la presentación correspondiente al módulo _Celulares y comunicación segura_ (_Presentación anexa en la carpeta de material de trabajo_)</li><li type=a
 
-**ACTIVIDAD 1 – EL A, B, C DE LA INFORMACIÓN**
+<![if !supportLists]>b. <![endif]>Los facilitadores realizaran  distintas actividades en el transcurso de las presentaciones, con el objetivo de que las personas participantes afiancen mejor la teoría con ejemplos prácticos.
 
+**ACTIVIDAD – LÍNEA DE TIEMPO**
+
+Para esta actividad se entregará a cada participante una hoja blanca, la cual tendrá una línea en la mitad de la hoja, trazada con marcador de lado a lado en sentido horizontal.
+
+Seguidamente se les pedirá a las personas participantes que vayan graficando sobre la línea, a manera de cronología, el uso que han hecho de la telefonía móvil desde que tuvieron su primer celular hasta la fecha. Para ello deben tener en cuenta las siguientes orientaciones:
+
+<![if !supportLists]>· <![endif]>En el extremo izquierdo de la línea deben ubicar el año en el cual tuvieron acceso a su primer celular, qué tipo de celular era, que funcionalidades tenía.
+
+<![if !supportLists]>· <![endif]>Recordar los años en que ha cambiado de teléfono móvil y ubicarlos en la línea, por qué cambió, que nuevas funcionalidades encontró.
+
+<![if !supportLists]>· <![endif]>Marque sobre la línea el momento en que pasó a usar un Smartphone, explique las razones por la que empezó a usarlo.
+
+<![if !supportLists]>· <![endif]>Señale el año en que empezó a usar mensajería instantánea, redes sociales y correo electrónico a través de su teléfono móvil.
+
+<![if !supportLists]>· <![endif]>Marque el año en que empezó a descarga de aplicaciones.
+
+Una vez finalizada esta línea de tiempo, las personas participantes deben tomar un plumón o esfero de otro color y señalar las herramientas que le han pedido registrar con sus datos personales, las aplicaciones en las que publica información personal, fotos, gustos, tendencias y las que le piden geo localización. Para terminar la actividad, se pedirá a las personas participantes que analicen su línea de tiempo, que reflexionen sobre la cantidad de información personal que circula de ellas en la red y qué riesgos puede tener esta exposición.
 
 ### PRÁCTICA
 Duración: 1 Hora 40 Minutos
@@ -471,11 +489,11 @@ Duración: 10 Minutos
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3MDg1NjEyNiwtMTQwMzQ4NzUxOSwtMT
-M2MjA2MjY1NSwtNDUyNTM2OTk2LDE2MzkzODQ5MjAsLTEzMzE3
-NjI5NzAsMTQ1NzM4OTgxMiwtODc3MjYwOTU0LC0xMDY1Mzc4MT
-cwLC0xMDY1Mzc4MTcwLC04NDg3NjcyNDgsLTE3NzM2Mzk3Njcs
-LTk2NjgzMjg1OSwxNDk0Mzc3NzMzLC00Nzk2NjkyMjEsLTc0ND
-I2OTU4NCwtMTE3MjY3MTMzMiwzMDYzNTAzMTEsLTE0MDgyNjI3
-NDMsODg4MjMyNDcwXX0=
+eyJoaXN0b3J5IjpbLTE4ODc2ODkwMzUsLTE0MDM0ODc1MTksLT
+EzNjIwNjI2NTUsLTQ1MjUzNjk5NiwxNjM5Mzg0OTIwLC0xMzMx
+NzYyOTcwLDE0NTczODk4MTIsLTg3NzI2MDk1NCwtMTA2NTM3OD
+E3MCwtMTA2NTM3ODE3MCwtODQ4NzY3MjQ4LC0xNzczNjM5NzY3
+LC05NjY4MzI4NTksMTQ5NDM3NzczMywtNDc5NjY5MjIxLC03ND
+QyNjk1ODQsLTExNzI2NzEzMzIsMzA2MzUwMzExLC0xNDA4MjYy
+NzQzLDg4ODIzMjQ3MF19
 -->
