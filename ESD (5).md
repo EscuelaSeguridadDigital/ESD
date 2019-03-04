@@ -190,11 +190,10 @@ __Duración: 5 Minutos.__
 
 Los facilitadores presentaran de una manera global a las personas participantes  los temas que se presentaran en el transcurso de la sesión, la metodología de trabajo (Ruta de aprendizaje) y mencionaran nuevamente los acuerdos de convivencia y participación en la sesión.  _(Presentación anexa en la carpeta de material de trabajo)_
 
-### CONTEXTUALIZACIÓN**
+### CONTEXTUALIZACIÓN
 __Duración: 1 Hora 30 Minutos.__
 
-Esta etapa estará enfocada a fortalecer conocimientos teóricos
-<ol>a.   Los facilitadores harán uso de la presentación correspondiente al módulo _Principios de Seguridad Digital 1 – Básico_  _(Presentación anexa en la carpeta de material de trabajo)_</ol>
+Esta etapa estará enfocada a fortalecer conocimientos teóricos<ol><li type=a>Los facilitadores harán uso de la presentación correspondiente al módulo _Principios de Seguridad Digital 1 – Básico_  _(Presentación anexa en la carpeta de material de trabajo)_</ol>
 <ol>b. Los facilitadores realizaran  distintas actividades en el transcurso de las presentaciones, con el objetivo de que las personas participantes afiancen mejor los conceptos con ejemplos prácticos.</ol>
 
 
@@ -471,11 +470,11 @@ Duración: 10 Minutos
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDkyOTIwODAsMTYzOTM4NDkyMCwtMT
-MzMTc2Mjk3MCwxNDU3Mzg5ODEyLC04NzcyNjA5NTQsLTEwNjUz
-NzgxNzAsLTEwNjUzNzgxNzAsLTg0ODc2NzI0OCwtMTc3MzYzOT
-c2NywtOTY2ODMyODU5LDE0OTQzNzc3MzMsLTQ3OTY2OTIyMSwt
-NzQ0MjY5NTg0LC0xMTcyNjcxMzMyLDMwNjM1MDMxMSwtMTQwOD
-I2Mjc0Myw4ODgyMzI0NzAsLTE5NTQxNjE1OCw5NjY1OTQ4NSwt
-MTk5ODQ0ODUzN119
+eyJoaXN0b3J5IjpbMTkwNTU4MzIwOCwxNjM5Mzg0OTIwLC0xMz
+MxNzYyOTcwLDE0NTczODk4MTIsLTg3NzI2MDk1NCwtMTA2NTM3
+ODE3MCwtMTA2NTM3ODE3MCwtODQ4NzY3MjQ4LC0xNzczNjM5Nz
+Y3LC05NjY4MzI4NTksMTQ5NDM3NzczMywtNDc5NjY5MjIxLC03
+NDQyNjk1ODQsLTExNzI2NzEzMzIsMzA2MzUwMzExLC0xNDA4Mj
+YyNzQzLDg4ODIzMjQ3MCwtMTk1NDE2MTU4LDk2NjU5NDg1LC0x
+OTk4NDQ4NTM3XX0=
 -->
