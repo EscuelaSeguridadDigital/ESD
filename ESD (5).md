@@ -362,11 +362,13 @@ Duración: 20 Minutos<ol><li type=a>Se construirá conjuntamente las 5 conclusio
 
 ### EVALUACIÓN
 Duración: 10 Minutos
+Materiales requeridos: (3) PliegoS de papel periódico, post-tit
+**_¿Cómo conducir la actividad? “EL TREN”_**  Los facilitadores colocaran en la pared tres pliegos de papel periódico cada uno de estos deben tener dibujado un vagón, cada uno de estos indicara un aspecto a evaluar >> ¿Qué te gusto?, ¿Qué aprendiste?, ¿Qué mejorarías? Los facilitadores darán las instrucciones a las personas participantes para que peguen en el semáforo sus opiniones de cada uno de los aspectos indicados. Al finalizar la sesión se recogerá  el material y se socializaran con el equipo de la EDSD.
 
-# P
 
-![]()
+# Servidores de Correo electrónico seguro 2 – Intermedio
 
+![](correo2.png)
 
 ___¿Cómo conducir la actividad?___
 
@@ -452,11 +454,11 @@ Duración: 10 Minutos
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjIwNjI2NTUsLTQ1MjUzNjk5NiwxNj
-M5Mzg0OTIwLC0xMzMxNzYyOTcwLDE0NTczODk4MTIsLTg3NzI2
-MDk1NCwtMTA2NTM3ODE3MCwtMTA2NTM3ODE3MCwtODQ4NzY3Mj
-Q4LC0xNzczNjM5NzY3LC05NjY4MzI4NTksMTQ5NDM3NzczMywt
-NDc5NjY5MjIxLC03NDQyNjk1ODQsLTExNzI2NzEzMzIsMzA2Mz
-UwMzExLC0xNDA4MjYyNzQzLDg4ODIzMjQ3MCwtMTk1NDE2MTU4
-LDk2NjU5NDg1XX0=
+eyJoaXN0b3J5IjpbLTE0MDM0ODc1MTksLTEzNjIwNjI2NTUsLT
+Q1MjUzNjk5NiwxNjM5Mzg0OTIwLC0xMzMxNzYyOTcwLDE0NTcz
+ODk4MTIsLTg3NzI2MDk1NCwtMTA2NTM3ODE3MCwtMTA2NTM3OD
+E3MCwtODQ4NzY3MjQ4LC0xNzczNjM5NzY3LC05NjY4MzI4NTks
+MTQ5NDM3NzczMywtNDc5NjY5MjIxLC03NDQyNjk1ODQsLTExNz
+I2NzEzMzIsMzA2MzUwMzExLC0xNDA4MjYyNzQzLDg4ODIzMjQ3
+MCwtMTk1NDE2MTU4XX0=
 -->
