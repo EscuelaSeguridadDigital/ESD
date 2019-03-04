@@ -286,13 +286,13 @@ ___¿Cómo conducir la actividad?___
 
 ###  INTRODUCCIÓN
 Duración: 5 Minutos.
-Los facilitadores presentaran de una manera global a las personas participantes  los temas que se presentaran en el transcurso de la sesión, la metodología de trabajo (Ruta de aprendizaje) y mencionaran nuevamente los acuerdos de convivencia y participación en la sesión.  (_Presentación anexa en la carpeta de material de trabajo_)
+Los facilitadores presentaran de una manera global a las personas participantes  los temas que se presentaran en el transcurso de la sesión, la metodología de trabajo (Ruta de aprendizaje) y mencionaran nuevamente los acuerdos de convivencia y participación en la sesión.  ( _Presentación anexa en la carpeta de material de trabajo_ )
 
 ### CONTEXTUALIZACIÓN
 Duración: 1 Hora 30 Minutos
 Esta etapa estará enfocada a fortalecer conocimientos teóricos.
 
-<ul> <li type=a> Los facilitadores harán uso de la presentación correspondiente al módulo _Anonimato 1 – Básico (Presentación anexa en la carpeta de material de trabajo)_</li></ul>
+<ul> <li type=a> Los facilitadores harán uso de la presentación correspondiente al módulo _Anonimato_ 1 – Básico (Presentación anexa en la carpeta de material de trabajo_ )</li></ul>
 
 ### PRÁCTICA
 Duración: 1 Hora 40 Minutos
@@ -476,7 +476,7 @@ Duración: 10 Minutos
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMzE5ODQ0NiwtMTMzMTc2Mjk3MCwxND
+eyJoaXN0b3J5IjpbMTA0NjA4NDMzNSwtMTMzMTc2Mjk3MCwxND
 U3Mzg5ODEyLC04NzcyNjA5NTQsLTEwNjUzNzgxNzAsLTEwNjUz
 NzgxNzAsLTg0ODc2NzI0OCwtMTc3MzYzOTc2NywtOTY2ODMyOD
 U5LDE0OTQzNzc3MzMsLTQ3OTY2OTIyMSwtNzQ0MjY5NTg0LC0x
