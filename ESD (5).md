@@ -406,20 +406,21 @@ En esta etapa la práctica será un elemento esencial en la relación de enseña
 ### SÍNTESIS
 Duración: 20 Minutos<ol><li type=a>Se propone discutir sobre la importancia de enviar correo cifrado, las ventajas de que existen, las personas del común estarían interesadas de implementar correo cifrado, estos comentarios y opiniones serán escritas en un procesador de texto con el fin de que sean proyectadas y  vistas por las personas participantes.</li><li type=a>Los facilitadores darán la palabra a las personas participantes para que libremente hagan  preguntas y aclaren sus dudas.</li></ol>
 
-
 ### EVALUACIÓN
 Duración: 10 Minutos
+Materiales requeridos: Hojas de papel con un dibujo de Salida y Meta. (_Anexo en la carpeta de material de trabajo_)
 
-# P
+**_¿Cómo conducir la actividad? “SALIDA Y META”_**  Los facilitadores repartirán una hoja la cual tiene dibujado una _Salida y una Meta, en el camino entre la una y la otra se encontrarán_ tres aspectos a evaluar >> ¿Qué te gusto?, ¿Qué aprendiste?, ¿Qué mejorarías? Los facilitadores darán las instrucciones a las personas participantes para que coloquen allí sus opiniones en cada uno de los aspectos indicados. Al finalizar la sesión se recogerán las hojas y se socializaran con el equipo de la EDSD.
 
-![]()
+# Celulares y comunicación segura
 
+![](celulares.png)
 
 ___¿Cómo conducir la actividad?___
 
 ### INTRODUCCIÓN
 Duración: 5 Minutos
-
+Los facilitadores presentaran de una manera global a las personas participantes  los temas que se presentaran en el transcurso de la sesión, la metodología de trabajo (Ruta de aprendizaje) y mencionaran nuevamente los acuerdos de convivencia y participación en la sesión.  (_Presentación anexa en la carpeta de material de trabajo_)
 
 ### CONTEXTUALIZACIÓN
 Duración: 1 Hora 30 Minutos
@@ -470,7 +471,7 @@ Duración: 10 Minutos
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MTc2Njc0OSwtMTQwMzQ4NzUxOSwtMT
+eyJoaXN0b3J5IjpbMTY3MDg1NjEyNiwtMTQwMzQ4NzUxOSwtMT
 M2MjA2MjY1NSwtNDUyNTM2OTk2LDE2MzkzODQ5MjAsLTEzMzE3
 NjI5NzAsMTQ1NzM4OTgxMiwtODc3MjYwOTU0LC0xMDY1Mzc4MT
 cwLC0xMDY1Mzc4MTcwLC04NDg3NjcyNDgsLTE3NzM2Mzk3Njcs
