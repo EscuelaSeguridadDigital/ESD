@@ -460,11 +460,21 @@ Los facilitadores presentaran de una manera global a las personas participantes 
 
 ### CONTEXTUALIZACIÓN
 Duración: 1 Hora 30 Minutos
-Esta etapa estará enfocada a fortalecer conocimientos teóricos<ol><li type=a>Los facilitadores harán uso de la presentación correspondiente al módulo _Redes Sociales_ (_Presentación anexa en la carpeta de material de trabajo_)</li><li type=a>Los facilitadores realizaran  distintas actividades en el transcurso de las presentaciones, con el objetivo de que las personas participantes afiancen mejor la teoría con ejemplos prácticos.<
+Esta etapa estará enfocada a fortalecer conocimientos teóricos<ol><li type=a>Los facilitadores harán uso de la presentación correspondiente al módulo _Redes Sociales_ (_Presentación anexa en la carpeta de material de trabajo_)</li><li type=a>Los facilitadores realizaran  distintas actividades en el transcurso de las presentaciones, con el objetivo de que las personas participantes afiancen mejor la teoría con ejemplos prácticos.</li></ol>
 
-**ACTIVIDAD 1 – EL A, B, C DE LA INFORMACIÓN**
+**ACTIVIDAD - ¡UN MAGO QUE TE DEJARÁ SIN ALIENTO!**
 
+Para iniciar se presentará el video ¡Un mago que te dejará sin aliento!, el cual tiene dos minutos y medio de duración. [https://www.youtube.com/watch?v=1LLDS8fIW0A](https://www.youtube.com/watch?v=1LLDS8fIW0A)
 
+Seguidamente, el grupo se dividirá en 4subgrupos y a cada uno se le entregará una pregunta relacionada con el video y la privacidad de la información en internet, estas son:<ul><li type=disc>**Pregunta 1.** ¿Cuál creen que puede ser el impacto en unos años de la información que publicamos en redes sociales en este momento?</li>
+
+<![if !supportLists]>· <![endif]>**Pregunta 2.** ¿Qué tantos detalles de tu vida privada son públicos a través de las redes sociales?
+
+<![if !supportLists]>· <![endif]>**Pregunta 3.** ¿Qué tipo de información compartes en tus redes sociales que pueda ser usada por personas que quieran hacerte daño?
+
+<![if !supportLists]>· <![endif]>**Pregunta 4.** ¿Tú o tus amistades han publicado información de tu vida personal que hubieras preferido mantener en reserva?
+
+Cada subgrupo deberá analizar la pregunta y reflexionar de acuerdo con la información que publica en sus redes sociales como Facebook, Twitter, Instagram, SnapChat o YouTube. Al final una persona de cada subgrupo compartirá las conclusiones en plenaria.
 ### PRÁCTICA
 Duración: 1 Hora 40 Minutos
 
@@ -479,11 +489,11 @@ Duración: 10 Minutos
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE2NTczMzQzLC0xNDAzNDg3NTE5LC0xMz
-YyMDYyNjU1LC00NTI1MzY5OTYsMTYzOTM4NDkyMCwtMTMzMTc2
-Mjk3MCwxNDU3Mzg5ODEyLC04NzcyNjA5NTQsLTEwNjUzNzgxNz
-AsLTEwNjUzNzgxNzAsLTg0ODc2NzI0OCwtMTc3MzYzOTc2Nywt
-OTY2ODMyODU5LDE0OTQzNzc3MzMsLTQ3OTY2OTIyMSwtNzQ0Mj
-Y5NTg0LC0xMTcyNjcxMzMyLDMwNjM1MDMxMSwtMTQwODI2Mjc0
-Myw4ODgyMzI0NzBdfQ==
+eyJoaXN0b3J5IjpbMTQ1MzU1OTI3NSwtMTQwMzQ4NzUxOSwtMT
+M2MjA2MjY1NSwtNDUyNTM2OTk2LDE2MzkzODQ5MjAsLTEzMzE3
+NjI5NzAsMTQ1NzM4OTgxMiwtODc3MjYwOTU0LC0xMDY1Mzc4MT
+cwLC0xMDY1Mzc4MTcwLC04NDg3NjcyNDgsLTE3NzM2Mzk3Njcs
+LTk2NjgzMjg1OSwxNDk0Mzc3NzMzLC00Nzk2NjkyMjEsLTc0ND
+I2OTU4NCwtMTE3MjY3MTMzMiwzMDYzNTAzMTEsLTE0MDgyNjI3
+NDMsODg4MjMyNDcwXX0=
 -->
