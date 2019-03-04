@@ -326,22 +326,20 @@ Duración: 10 Minutos
 Materiales requeridos: (1) Pliego de papel periódico, post-tit
 **_¿Cómo conducir la actividad? “EL SEMÁFORO”_**  Los facilitadores colocaran en la pared un pliego de papel periódico con un semáforo dibujado, cada color del semáforo indicara un aspecto a evaluar >> ¿Qué te gusto?, ¿Qué aprendiste?, ¿Qué mejorarías? Los facilitadores darán las instrucciones a las personas participantes para que peguen en el semáforo sus opiniones de cada uno de los aspectos indicados. Al finalizar la sesión se recogerá  el material y se socializaran con el equipo de la EDSD.
 
-# P
+# Servidores de Correo electrónico seguro 1 – Básico
 
-![]()
-
-
+![](correo1.png)
 ___¿Cómo conducir la actividad?___
 
 ### INTRODUCCIÓN
 Duración: 5 Minutos
-
+Los facilitadores presentaran de una manera global a las personas participantes  los temas que se presentaran en el transcurso de la sesión, la metodología de trabajo (Ruta de aprendizaje) y mencionaran nuevamente los acuerdos de convivencia y participación en la sesión.  (_Presentación anexa en la carpeta de material de trabajo_)
 
 ### CONTEXTUALIZACIÓN
 Duración: 1 Hora 30 Minutos
+Esta etapa estará enfocada a fortalecer conocimientos teóricos <ol><li type=a>Los facilitadores harán uso de la presentación correspondiente al módulo _Servidores de Correo electrónico seguro 1 – Básico_ (_Presentación anexa en la carpeta de material de trabajo_)
 
-**ACTIVIDAD 1 – EL A, B, C DE LA INFORMACIÓN**
-
+<![if !supportLists]>b. <![endif]>Los facilitadores realizaran  distintas actividades en el transcurso de las presentaciones, con el objetivo de que las personas participantes afiancen mejor la teoría con ejemplos prácticos.
 
 ### PRÁCTICA
 Duración: 1 Hora 40 Minutos
@@ -444,11 +442,11 @@ Duración: 10 Minutos
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDIwNzk4MSwtNDUyNTM2OTk2LDE2Mz
-kzODQ5MjAsLTEzMzE3NjI5NzAsMTQ1NzM4OTgxMiwtODc3MjYw
-OTU0LC0xMDY1Mzc4MTcwLC0xMDY1Mzc4MTcwLC04NDg3NjcyND
-gsLTE3NzM2Mzk3NjcsLTk2NjgzMjg1OSwxNDk0Mzc3NzMzLC00
-Nzk2NjkyMjEsLTc0NDI2OTU4NCwtMTE3MjY3MTMzMiwzMDYzNT
-AzMTEsLTE0MDgyNjI3NDMsODg4MjMyNDcwLC0xOTU0MTYxNTgs
-OTY2NTk0ODVdfQ==
+eyJoaXN0b3J5IjpbLTE3NjY3NzE4NjEsLTQ1MjUzNjk5NiwxNj
+M5Mzg0OTIwLC0xMzMxNzYyOTcwLDE0NTczODk4MTIsLTg3NzI2
+MDk1NCwtMTA2NTM3ODE3MCwtMTA2NTM3ODE3MCwtODQ4NzY3Mj
+Q4LC0xNzczNjM5NzY3LC05NjY4MzI4NTksMTQ5NDM3NzczMywt
+NDc5NjY5MjIxLC03NDQyNjk1ODQsLTExNzI2NzEzMzIsMzA2Mz
+UwMzExLC0xNDA4MjYyNzQzLDg4ODIzMjQ3MCwtMTk1NDE2MTU4
+LDk2NjU5NDg1XX0=
 -->
