@@ -275,9 +275,9 @@ Duración: 10 Minutos
 Materiales requeridos: Hojas de papel con una Diana. (_Anexo en la carpeta de material de trabajo_) 
 **_¿Cómo conducir la actividad? “LA DIANA”_**  Los facilitadores repartirán una hoja la cual tiene dibujado una _Diana_ con tres aspectos a evaluar >> ¿Qué te gusto?, ¿Qué aprendiste?, ¿Qué mejorarías? Los facilitadores darán las instrucciones a las personas participantes para que coloquen allí sus opiniones en cada uno de los aspectos indicados. Al finalizar la sesión se recogerán las hojas y se socializaran con el equipo de la EDSD.
 
-# P
+# Anonimato 1 – Básico
 
-![]()
+![](anonimato1.png)
 
 
 ___¿Cómo conducir la actividad?___
@@ -451,11 +451,11 @@ Duración: 10 Minutos
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzM2Mzk3NjcsLTk2NjgzMjg1OSwxND
-k0Mzc3NzMzLC00Nzk2NjkyMjEsLTc0NDI2OTU4NCwtMTE3MjY3
-MTMzMiwzMDYzNTAzMTEsLTE0MDgyNjI3NDMsODg4MjMyNDcwLC
-0xOTU0MTYxNTgsOTY2NTk0ODUsLTE5OTg0NDg1MzcsMTMwNDY0
-NzUxMywtMTE4MTIzMTExNSwtMTc3MTc2NDU2OCwxMzMwNzg1ND
-M4LDE1NDQ0ODM4MjMsMzI3ODA1NzM4LC0xNTIzODM3ODQ3LC0x
-OTk4NjcwODAzXX0=
+eyJoaXN0b3J5IjpbLTExMzQzMjI2NjYsLTE3NzM2Mzk3NjcsLT
+k2NjgzMjg1OSwxNDk0Mzc3NzMzLC00Nzk2NjkyMjEsLTc0NDI2
+OTU4NCwtMTE3MjY3MTMzMiwzMDYzNTAzMTEsLTE0MDgyNjI3ND
+MsODg4MjMyNDcwLC0xOTU0MTYxNTgsOTY2NTk0ODUsLTE5OTg0
+NDg1MzcsMTMwNDY0NzUxMywtMTE4MTIzMTExNSwtMTc3MTc2ND
+U2OCwxMzMwNzg1NDM4LDE1NDQ0ODM4MjMsMzI3ODA1NzM4LC0x
+NTIzODM3ODQ3XX0=
 -->
