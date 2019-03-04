@@ -424,19 +424,13 @@ Los facilitadores presentaran de una manera global a las personas participantes 
 
 ### CONTEXTUALIZACIÓN
 Duración: 1 Hora 30 Minutos
-Esta etapa estará enfocada a fortalecer conocimientos teóricos<ol><li type=a>Los facilitadores harán uso de la presentación correspondiente al módulo _Celulares y comunicación segura_ (_Presentación anexa en la carpeta de material de trabajo_)</li><li type=a
-
-<![if !supportLists]>b. <![endif]>Los facilitadores realizaran  distintas actividades en el transcurso de las presentaciones, con el objetivo de que las personas participantes afiancen mejor la teoría con ejemplos prácticos.
+Esta etapa estará enfocada a fortalecer conocimientos teóricos<ol><li type=a>Los facilitadores harán uso de la presentación correspondiente al módulo _Celulares y comunicación segura_ (_Presentación anexa en la carpeta de material de trabajo_)</li><li type=a>Los facilitadores realizaran  distintas actividades en el transcurso de las presentaciones, con el objetivo de que las personas participantes afiancen mejor la teoría con ejemplos prácticos.</li></ol>
 
 **ACTIVIDAD – LÍNEA DE TIEMPO**
 
 Para esta actividad se entregará a cada participante una hoja blanca, la cual tendrá una línea en la mitad de la hoja, trazada con marcador de lado a lado en sentido horizontal.
 
-Seguidamente se les pedirá a las personas participantes que vayan graficando sobre la línea, a manera de cronología, el uso que han hecho de la telefonía móvil desde que tuvieron su primer celular hasta la fecha. Para ello deben tener en cuenta las siguientes orientaciones:
-
-<![if !supportLists]>· <![endif]>En el extremo izquierdo de la línea deben ubicar el año en el cual tuvieron acceso a su primer celular, qué tipo de celular era, que funcionalidades tenía.
-
-<![if !supportLists]>· <![endif]>Recordar los años en que ha cambiado de teléfono móvil y ubicarlos en la línea, por qué cambió, que nuevas funcionalidades encontró.
+Seguidamente se les pedirá a las personas participantes que vayan graficando sobre la línea, a manera de cronología, el uso que han hecho de la telefonía móvil desde que tuvieron su primer celular hasta la fecha. Para ello deben tener en cuenta las siguientes orientaciones:<ul><li type=disc>En el extremo izquierdo de la línea deben ubicar el año en el cual tuvieron acceso a su primer celular, qué tipo de celular era, que funcionalidades tenía.</li><li type=disc>Recordar los años en que ha cambiado de teléfono móvil y ubicarlos en la línea, por qué cambió, que nuevas funcionalidades encontró.</li>
 
 <![if !supportLists]>· <![endif]>Marque sobre la línea el momento en que pasó a usar un Smartphone, explique las razones por la que empezó a usarlo.
 
@@ -489,11 +483,11 @@ Duración: 10 Minutos
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODc2ODkwMzUsLTE0MDM0ODc1MTksLT
-EzNjIwNjI2NTUsLTQ1MjUzNjk5NiwxNjM5Mzg0OTIwLC0xMzMx
-NzYyOTcwLDE0NTczODk4MTIsLTg3NzI2MDk1NCwtMTA2NTM3OD
-E3MCwtMTA2NTM3ODE3MCwtODQ4NzY3MjQ4LC0xNzczNjM5NzY3
-LC05NjY4MzI4NTksMTQ5NDM3NzczMywtNDc5NjY5MjIxLC03ND
-QyNjk1ODQsLTExNzI2NzEzMzIsMzA2MzUwMzExLC0xNDA4MjYy
-NzQzLDg4ODIzMjQ3MF19
+eyJoaXN0b3J5IjpbMTcxODg3MTcxOCwtMTQwMzQ4NzUxOSwtMT
+M2MjA2MjY1NSwtNDUyNTM2OTk2LDE2MzkzODQ5MjAsLTEzMzE3
+NjI5NzAsMTQ1NzM4OTgxMiwtODc3MjYwOTU0LC0xMDY1Mzc4MT
+cwLC0xMDY1Mzc4MTcwLC04NDg3NjcyNDgsLTE3NzM2Mzk3Njcs
+LTk2NjgzMjg1OSwxNDk0Mzc3NzMzLC00Nzk2NjkyMjEsLTc0ND
+I2OTU4NCwtMTE3MjY3MTMzMiwzMDYzNTAzMTEsLTE0MDgyNjI3
+NDMsODg4MjMyNDcwXX0=
 -->
