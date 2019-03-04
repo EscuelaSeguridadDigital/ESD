@@ -58,7 +58,7 @@ Esta currícula presenta diversas actividades y ejercicios diseñados de forma s
 
 # Diseño metodológico
 
-Cómo se ha mencionado a lo largo de este documento, la currícula es el recurso principal para los facilitadores y facilitadoras de Seguridad Digital, el cual orientará los contenidos de formación y comprende un total de ocho (__8__) módulos, en los cuales se abordarán temáticas específicas así:<ol><li type=1>___Principios de Seguridad Digital 1 - Básico.___</li><li type=1>Principios de Seguridad Digital 2 - Intermedio.</li><li type=1>Anonimato 1- Básico.</li><li type=1>Anonimato 2 - Intermedio.</li><li type=1>Servidores de Correo electrónico seguro 1 - Básico.</li><li type=1>Servidores de Correo electónico seguro 2 - Intermedio.</li><li type=1> Celulares y Comunicación segura.</li><li type=1>Redes Sociales.</li></ol>
+Cómo se ha mencionado a lo largo de este documento, la currícula es el recurso principal para los facilitadores y facilitadoras de Seguridad Digital, el cual orientará los contenidos de formación y comprende un total de ocho (__8__) módulos, en los cuales se abordarán temáticas específicas así:<ol><li type=1>___Principios de Seguridad Digital 1 - Básico.___</li><li type=1>___Principios de Seguridad Digital 2 - Intermedio.___</li><li type=1>___Anonimato 1- Básico.___</li><li type=1>___Anonimato 2 - Intermedio.___</li><li type=1>___Servidores de Correo electrónico seguro 1 - Básico.___</li><li type=1>___Servidores de Correo electónico seguro 2 - Intermedio.___</li><li type=1>___Celulares y Comunicación segura.___</li><li type=1>___Redes Sociales.___</li></ol>
 
 Cada una de estos módulos se ha estructurado en cinco (__5__) momentos, los cuales permitirán abordar el proceso formativo como una experiencia de construcción personal – colectiva de nuevos conocimientos e involucrar capacidades, emociones, habilidades y motivaciones. Por lo tanto, los contenidos del proceso pedagógico no pueden limitarse solo al aprendizaje de hechos y conceptos (contenido contextual), sino que es necesario atender en la misma medida a los procedimientos (contenido procedimental), las actitudes, los valores y las normas (contenido actitudinal), si se quiere una adaptación activa de los y las participantes a nuevas situaciones. Así mismo hay que considerar sus propios estilos, ritmos y estrategias de aprendizaje.
 
@@ -469,11 +469,11 @@ tres colores diferentes
 
 ![](final.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzNDY4NzY3NiwtMjU4NjM0NDQxLDE2Mj
-A1NDc4OTMsLTE0MDM0ODc1MTksLTEzNjIwNjI2NTUsLTQ1MjUz
-Njk5NiwxNjM5Mzg0OTIwLC0xMzMxNzYyOTcwLDE0NTczODk4MT
-IsLTg3NzI2MDk1NCwtMTA2NTM3ODE3MCwtMTA2NTM3ODE3MCwt
-ODQ4NzY3MjQ4LC0xNzczNjM5NzY3LC05NjY4MzI4NTksMTQ5ND
-M3NzczMywtNDc5NjY5MjIxLC03NDQyNjk1ODQsLTExNzI2NzEz
-MzIsMzA2MzUwMzExXX0=
+eyJoaXN0b3J5IjpbNzUzNjg5MTY2LC0yNTg2MzQ0NDEsMTYyMD
+U0Nzg5MywtMTQwMzQ4NzUxOSwtMTM2MjA2MjY1NSwtNDUyNTM2
+OTk2LDE2MzkzODQ5MjAsLTEzMzE3NjI5NzAsMTQ1NzM4OTgxMi
+wtODc3MjYwOTU0LC0xMDY1Mzc4MTcwLC0xMDY1Mzc4MTcwLC04
+NDg3NjcyNDgsLTE3NzM2Mzk3NjcsLTk2NjgzMjg1OSwxNDk0Mz
+c3NzMzLC00Nzk2NjkyMjEsLTc0NDI2OTU4NCwtMTE3MjY3MTMz
+MiwzMDYzNTAzMTFdfQ==
 -->
