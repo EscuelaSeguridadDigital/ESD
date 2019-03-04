@@ -335,7 +335,7 @@ En esta etapa la práctica será un elemento esencial en la relación de enseña
 
 **¡MANOS A LA OBRA! (**_USO VPN - TOR - TAILS_**)** Las personas participantes tendrán que realizar las siguientes actividades en sus computadores o en los computadores de la sala del taller siguiendo las siguientes instrucciones:
 
-Implementación de _VPN_. Las personas participantes tendrán que realizar con la ayuda de los facilitadores la implementación de una VPN.
+<ul>Implementación de _VPN_. Las personas participantes tendrán que realizar con la ayuda de los facilitadores la implementación de una VPN.
 Instalación y configuración del Navegador TOR. Las personas participantes tendrán que realizar la instalación y configuración del navegador TOR, este instrucción la pueden hacer desde sus computadores o dispositivos móviles y si lo permite el tiempo en ambos.
 
 ### SÍNTESIS
@@ -464,7 +464,7 @@ Duración: 10 Minutos
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxMTE1ODgyNSwtODc3MjYwOTU0LC0xMD
+eyJoaXN0b3J5IjpbMTQ1NzM4OTgxMiwtODc3MjYwOTU0LC0xMD
 Y1Mzc4MTcwLC0xMDY1Mzc4MTcwLC04NDg3NjcyNDgsLTE3NzM2
 Mzk3NjcsLTk2NjgzMjg1OSwxNDk0Mzc3NzMzLC00Nzk2NjkyMj
 EsLTc0NDI2OTU4NCwtMTE3MjY3MTMzMiwzMDYzNTAzMTEsLTE0
