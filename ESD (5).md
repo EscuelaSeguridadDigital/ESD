@@ -230,11 +230,10 @@ Materiales requeridos: Hojas de papel con un termómetro. (_Anexo en la carpeta 
 # Principios de Seguridad Digital 2 – Intermedio
 **_Tiempo total: 4 Horas_**<br><br>
 ![](SD2.png)
-___¿Cómo conducir la actividad?___<br><br>
+___¿Cómo conducir la actividad?___ <br><br>
 <h3>INTRODUCCIÓN</h3>
-Duración: 5 Minutos
-
-Los facilitadores presentaran de una manera global a las personas participantes  los temas que se presentaran en el transcurso de la sesión, la metodología de trabajo (Ruta de aprendizaje) y mencionaran nuevamente los acuerdos de convivencia y participación en la sesión.  (_Presentación anexa en la carpeta de material de trabajo_)
+Duración: 5 Minutos<br>
+Los facilitadores presentaran de una manera global a las personas participantes  los temas que se presentaran en el transcurso de la sesión, la metodología de trabajo (Ruta de aprendizaje) y mencionaran nuevamente los acuerdos de convivencia y participación en la sesión.  *( Presentación anexa en la carpeta de material de trabajo)*
 
 ### CONTEXTUALIZACIÓN
 Duración: 1 Hora 30 Minutos
@@ -472,11 +471,11 @@ Duración: 10 Minutos
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODcxODgyNTAzLC0xMzMxNzYyOTcwLDE0NT
-czODk4MTIsLTg3NzI2MDk1NCwtMTA2NTM3ODE3MCwtMTA2NTM3
-ODE3MCwtODQ4NzY3MjQ4LC0xNzczNjM5NzY3LC05NjY4MzI4NT
-ksMTQ5NDM3NzczMywtNDc5NjY5MjIxLC03NDQyNjk1ODQsLTEx
-NzI2NzEzMzIsMzA2MzUwMzExLC0xNDA4MjYyNzQzLDg4ODIzMj
-Q3MCwtMTk1NDE2MTU4LDk2NjU5NDg1LC0xOTk4NDQ4NTM3LDEz
-MDQ2NDc1MTNdfQ==
+eyJoaXN0b3J5IjpbLTgzODMyMDQxMywtMTMzMTc2Mjk3MCwxND
+U3Mzg5ODEyLC04NzcyNjA5NTQsLTEwNjUzNzgxNzAsLTEwNjUz
+NzgxNzAsLTg0ODc2NzI0OCwtMTc3MzYzOTc2NywtOTY2ODMyOD
+U5LDE0OTQzNzc3MzMsLTQ3OTY2OTIyMSwtNzQ0MjY5NTg0LC0x
+MTcyNjcxMzMyLDMwNjM1MDMxMSwtMTQwODI2Mjc0Myw4ODgyMz
+I0NzAsLTE5NTQxNjE1OCw5NjY1OTQ4NSwtMTk5ODQ0ODUzNywx
+MzA0NjQ3NTEzXX0=
 -->
