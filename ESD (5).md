@@ -441,26 +441,32 @@ En esta etapa la práctica será un elemento esencial en la relación de enseña
 **¡MANOS A LA OBRA! (**_USO MÓVILES_**)**  Las personas participantes tendrán que realizar las siguientes actividades en sus computadores o en los computadores de la sala del taller siguiendo las siguientes instrucciones:<ul><li type=disc>Configuración del celular, patrón de bloqueo o contraseña de acceso seguro.</li><li type=disc>Desactivar funciones como Bluetooth y GPS.</li><li type=disc>Actualización del sistema operativo.</li><li type=disc>Consulta número IMEI.<li><li type=disc>Inventario de Apps, verificación de apps seguras.</li></ul>
 
 ### SÍNTESIS
-Duración: 20 Minutos<ol><li type=a>Las personas participantes trabajarán en parejas y crearán una lista de amenazas que pueden surgir a través del uso de dispositivos móviles. Luego presentaran algunas recomendaciones de prácticas que creen que pueden ayudar a asegurar dichos dispositivos, los facilitadores estarán prestos a resolver cualquier duda que se presente en el transcurso  de la actividad.</li><li type=a>Los facilitadores darán la palabra a las personas participantes para que libremente hagan  preguntas y aclaren sus dudas.</li></
+Duración: 20 Minutos<ol><li type=a>Las personas participantes trabajarán en parejas y crearán una lista de amenazas que pueden surgir a través del uso de dispositivos móviles. Luego presentaran algunas recomendaciones de prácticas que creen que pueden ayudar a asegurar dichos dispositivos, los facilitadores estarán prestos a resolver cualquier duda que se presente en el transcurso  de la actividad.</li><li type=a>Los facilitadores darán la palabra a las personas participantes para que libremente hagan  preguntas y aclaren sus dudas.</li></ol>
 
 
 ### EVALUACIÓN
 Duración: 10 Minutos
+Materiales requeridos: (1) Pliego de papel periódico, post-tit de tres colores diferentes
+**_¿Cómo conducir la actividad? “LA ENSALADA”_**  Los facilitadores colocaran en la pared un pliego de papel periódico con un tazón dibujado, Los facilitadores darán las instrucciones a las personas participantes para que en cada color de los tres post-tit entregados evalúen >> ¿Qué te gusto?, ¿Qué aprendiste?, ¿Qué mejorarías? Luego los participantes pegaran dentro del tazón los post-tit con sus opiniones de cada uno de los aspectos indicados. Al finalizar la sesión se recogerá  el material y se socializaran con el equipo de la EDSD.
 
-# P
+# Redes Sociales
 
-![]()
-
-
+![](redes.png)
 ___¿Cómo conducir la actividad?___
 
 ### INTRODUCCIÓN
 Duración: 5 Minutos
-
+Los facilitadores presentaran de una manera global a las personas participantes  los temas que se presentaran en el transcurso de la sesión, la metodología de trabajo (Ruta de aprendizaje) y mencionaran nuevamente los acuerdos de convivencia y participación en la sesión.  (_Presentación anexa en la carpeta de material de trabajo_)
 
 ### CONTEXTUALIZACIÓN
 Duración: 1 Hora 30 Minutos
+<![endif]-->
 
+Esta etapa estará enfocada a fortalecer conocimientos teóricos
+
+<![if !supportLists]>a. <![endif]>Los facilitadores harán uso de la presentación correspondiente al módulo _Redes Sociales_ (_Presentación anexa en la carpeta de material de trabajo_)
+
+<![if !supportLists]>b. <![endif]>Los facilitadores realizaran  distintas actividades en el transcurso de las presentaciones, con el objetivo de que las personas participantes afiancen mejor la teoría con ejemplos prácticos.
 **ACTIVIDAD 1 – EL A, B, C DE LA INFORMACIÓN**
 
 
@@ -478,11 +484,11 @@ Duración: 10 Minutos
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNDU3NzU5NSwtMTQwMzQ4NzUxOSwtMT
-M2MjA2MjY1NSwtNDUyNTM2OTk2LDE2MzkzODQ5MjAsLTEzMzE3
-NjI5NzAsMTQ1NzM4OTgxMiwtODc3MjYwOTU0LC0xMDY1Mzc4MT
-cwLC0xMDY1Mzc4MTcwLC04NDg3NjcyNDgsLTE3NzM2Mzk3Njcs
-LTk2NjgzMjg1OSwxNDk0Mzc3NzMzLC00Nzk2NjkyMjEsLTc0ND
-I2OTU4NCwtMTE3MjY3MTMzMiwzMDYzNTAzMTEsLTE0MDgyNjI3
-NDMsODg4MjMyNDcwXX0=
+eyJoaXN0b3J5IjpbNjY0MjA3MTE0LC0xNDAzNDg3NTE5LC0xMz
+YyMDYyNjU1LC00NTI1MzY5OTYsMTYzOTM4NDkyMCwtMTMzMTc2
+Mjk3MCwxNDU3Mzg5ODEyLC04NzcyNjA5NTQsLTEwNjUzNzgxNz
+AsLTEwNjUzNzgxNzAsLTg0ODc2NzI0OCwtMTc3MzYzOTc2Nywt
+OTY2ODMyODU5LDE0OTQzNzc3MzMsLTQ3OTY2OTIyMSwtNzQ0Mj
+Y5NTg0LC0xMTcyNjcxMzMyLDMwNjM1MDMxMSwtMTQwODI2Mjc0
+Myw4ODgyMzI0NzBdfQ==
 -->
