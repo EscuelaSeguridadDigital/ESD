@@ -219,7 +219,7 @@ En esta etapa la práctica será un elemento esencial en la relación de enseña
 
 ### SÍNTESIS
 __Duración: 15 Minutos__
-<ol><li type=a > Los facilitadores realizaran algunas preguntas claves que permitirán reforzar y repasar los contenidos presentados, con el fin  de evidenciar la comprensión de los temas presentados en el módulo.</li><ul><li> ¿Cuáles son las características que debe tener una contraseña segura? </li><li> ¿Qué herramientas permiten hacen más segura nuestras computadoras?</li><li>¿Qué significa Malware? ¿Qué consecuencias traen?</li><li> Explique es sus propias palabras que es la autenticación de dos factores.</li></ul><li type=a>Los facilitadores darán la palabra a las personas participantes para que libremente hagan  preguntas y aclaren sus dudas.</li></ol>
+<ol><li type=a > Los facilitadores realizaran algunas preguntas claves que permitirán reforzar y repasar los contenidos presentados, con el fin  de evidenciar la comprensión de los temas presentados en el módulo.</li><ul><li  type=disc> ¿Cuáles son las características que debe tener una contraseña segura? </li><li type=disc> ¿Qué herramientas permiten hacen más segura nuestras computadoras?</li><li type=disc>¿Qué significa Malware? ¿Qué consecuencias traen?</li><li type=disc> Explique es sus propias palabras que es la autenticación de dos factores.</li></ul><li type=a>Los facilitadores darán la palabra a las personas participantes para que libremente hagan  preguntas y aclaren sus dudas.</li></ol>
 
 ### EVALUACIÓN
 __Duración: 10 Minutos__
@@ -250,7 +250,7 @@ Esta etapa estará enfocada a fortalecer conocimientos teóricos
 
 Los facilitadores dividirán a las personas participantes en tres grupos, donde cada uno de ellos tendrá actividades diferentes:
 
-<li type=disc>Grupo A_**: Elaborara un listado de que tipos de archivos o información importante que manejan tanto en computadores como en dispositivos móviles, cada uno de ellos se debe colocar en una cartulina diferente.</li><li type=disc>**_Grupo B_**: Elaborara un listado de mecanismos o formas en las que se puede perder información, cada uno de ellos se debe colocar en una cartulina diferente.</li><li >**_Grupo C_**: Elaborara un listado con modos de prevención que conozcan en el manejo de la información (Herramientas o prácticas), cada uno de ellos se debe colocar en una cartulina diferente.
+<li type=disc>**_Grupo A_**: Elaborara un listado de que tipos de archivos o información importante que manejan tanto en computadores como en dispositivos móviles, cada uno de ellos se debe colocar en una cartulina diferente.</li><li type=disc>**_Grupo B_**: Elaborara un listado de mecanismos o formas en las que se puede perder información, cada uno de ellos se debe colocar en una cartulina diferente.</li><li type=disc>**_Grupo C_**: Elaborara un listado con modos de prevención que conozcan en el manejo de la información (Herramientas o prácticas), cada uno de ellos se debe colocar en una cartulina diferente.</li>
 
 Una vez finalizada la instrucción, se pasará a realizar un mapeo juntando la información y se socializaran con todos los grupos.  Se corregirán los posibles errores y se aclararán dudas que puedan surgir.
 
@@ -460,11 +460,11 @@ Duración: 10 Minutos
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NTM3Mjk2NiwtODc3MjYwOTU0LC0xMD
-Y1Mzc4MTcwLC0xMDY1Mzc4MTcwLC04NDg3NjcyNDgsLTE3NzM2
-Mzk3NjcsLTk2NjgzMjg1OSwxNDk0Mzc3NzMzLC00Nzk2NjkyMj
-EsLTc0NDI2OTU4NCwtMTE3MjY3MTMzMiwzMDYzNTAzMTEsLTE0
-MDgyNjI3NDMsODg4MjMyNDcwLC0xOTU0MTYxNTgsOTY2NTk0OD
-UsLTE5OTg0NDg1MzcsMTMwNDY0NzUxMywtMTE4MTIzMTExNSwt
-MTc3MTc2NDU2OF19
+eyJoaXN0b3J5IjpbLTEwNjQzMTg4NjMsLTg3NzI2MDk1NCwtMT
+A2NTM3ODE3MCwtMTA2NTM3ODE3MCwtODQ4NzY3MjQ4LC0xNzcz
+NjM5NzY3LC05NjY4MzI4NTksMTQ5NDM3NzczMywtNDc5NjY5Mj
+IxLC03NDQyNjk1ODQsLTExNzI2NzEzMzIsMzA2MzUwMzExLC0x
+NDA4MjYyNzQzLDg4ODIzMjQ3MCwtMTk1NDE2MTU4LDk2NjU5ND
+g1LC0xOTk4NDQ4NTM3LDEzMDQ2NDc1MTMsLTExODEyMzExMTUs
+LTE3NzE3NjQ1NjhdfQ==
 -->
