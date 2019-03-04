@@ -257,7 +257,7 @@ En esta etapa la práctica será un elemento esencial en la relación de enseña
 ### SÍNTESIS
 Duración: 20 Minutos
 
-<ol><li type=a>Los facilitadores leerán en voz alta la siguiente afirmación: *“Desde un punto de vista técnico, no se puede borrar algo en tu computadora.”* A continuación se les realizara las siguientes preguntas a las personas participantes:</li><ul><li type=disc>¿Qué opinan de la afirmación?</li><li type=disc>¿Por qué no existirá una función de “borrado” real?</li><li type=disc>¿Qué crees que pasa con esos datos cuando se “elimina”?</li></ul><li type=a> Los facilitadores darán la palabra a las personas participantes para que libremente hagan  preguntas y aclaren sus dudas.</li></ol>
+<ol><li type=a>Los facilitadores leerán en voz alta la siguiente afirmación: “_Desde un punto de vista técnico, no se puede borrar algo en tu computadora._ ” A continuación se les realizara las siguientes preguntas a las personas participantes:</li><ul><li type=disc>¿Qué opinan de la afirmación?</li><li type=disc>¿Por qué no existirá una función de “borrado” real?</li><li type=disc>¿Qué crees que pasa con esos datos cuando se “elimina”?</li></ul><li type=a> Los facilitadores darán la palabra a las personas participantes para que libremente hagan  preguntas y aclaren sus dudas.</li></ol>
 
 ### EVALUACIÓN
 Duración: 10 Minutos
@@ -465,11 +465,11 @@ Duración: 10 Minutos
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAyNDU4NDYsMTYzOTM4NDkyMCwtMTMzMT
-c2Mjk3MCwxNDU3Mzg5ODEyLC04NzcyNjA5NTQsLTEwNjUzNzgx
-NzAsLTEwNjUzNzgxNzAsLTg0ODc2NzI0OCwtMTc3MzYzOTc2Ny
-wtOTY2ODMyODU5LDE0OTQzNzc3MzMsLTQ3OTY2OTIyMSwtNzQ0
-MjY5NTg0LC0xMTcyNjcxMzMyLDMwNjM1MDMxMSwtMTQwODI2Mj
-c0Myw4ODgyMzI0NzAsLTE5NTQxNjE1OCw5NjY1OTQ4NSwtMTk5
-ODQ0ODUzN119
+eyJoaXN0b3J5IjpbNTM1MzA3Njg4LDE2MzkzODQ5MjAsLTEzMz
+E3NjI5NzAsMTQ1NzM4OTgxMiwtODc3MjYwOTU0LC0xMDY1Mzc4
+MTcwLC0xMDY1Mzc4MTcwLC04NDg3NjcyNDgsLTE3NzM2Mzk3Nj
+csLTk2NjgzMjg1OSwxNDk0Mzc3NzMzLC00Nzk2NjkyMjEsLTc0
+NDI2OTU4NCwtMTE3MjY3MTMzMiwzMDYzNTAzMTEsLTE0MDgyNj
+I3NDMsODg4MjMyNDcwLC0xOTU0MTYxNTgsOTY2NTk0ODUsLTE5
+OTg0NDg1MzddfQ==
 -->
