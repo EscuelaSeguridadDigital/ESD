@@ -337,10 +337,7 @@ Los facilitadores presentaran de una manera global a las personas participantes 
 
 ### CONTEXTUALIZACIÓN
 Duración: 1 Hora 30 Minutos
-Esta etapa estará enfocada a fortalecer conocimientos teóricos <ol><li type=a>Los facilitadores harán uso de la presentación correspondiente al módulo _Servidores de Correo electrónico seguro 1 – Básico_ (_Presentación anexa en la carpeta de material de trabajo_)
-
-<![if !supportLists]>b. <![endif]>Los facilitadores realizaran  distintas actividades en el transcurso de las presentaciones, con el objetivo de que las personas participantes afiancen mejor la teoría con ejemplos prácticos.
-
+Esta etapa estará enfocada a fortalecer conocimientos teóricos <ol><li type=a>Los facilitadores harán uso de la presentación correspondiente al módulo _Servidores de Correo electrónico seguro 1 – Básico_ (_Presentación anexa en la carpeta de material de trabajo_)</li><li type=a>Los facilitadores realizaran  distintas actividades en el transcurso de las presentaciones, con el objetivo de que las personas participantes afiancen mejor la teoría con ejemplos prácticos.</li></ol>
 ### PRÁCTICA
 Duración: 1 Hora 40 Minutos
 
@@ -442,11 +439,11 @@ Duración: 10 Minutos
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjY3NzE4NjEsLTQ1MjUzNjk5NiwxNj
-M5Mzg0OTIwLC0xMzMxNzYyOTcwLDE0NTczODk4MTIsLTg3NzI2
-MDk1NCwtMTA2NTM3ODE3MCwtMTA2NTM3ODE3MCwtODQ4NzY3Mj
-Q4LC0xNzczNjM5NzY3LC05NjY4MzI4NTksMTQ5NDM3NzczMywt
-NDc5NjY5MjIxLC03NDQyNjk1ODQsLTExNzI2NzEzMzIsMzA2Mz
-UwMzExLC0xNDA4MjYyNzQzLDg4ODIzMjQ3MCwtMTk1NDE2MTU4
-LDk2NjU5NDg1XX0=
+eyJoaXN0b3J5IjpbLTQwODM2MjQyOCwtNDUyNTM2OTk2LDE2Mz
+kzODQ5MjAsLTEzMzE3NjI5NzAsMTQ1NzM4OTgxMiwtODc3MjYw
+OTU0LC0xMDY1Mzc4MTcwLC0xMDY1Mzc4MTcwLC04NDg3NjcyND
+gsLTE3NzM2Mzk3NjcsLTk2NjgzMjg1OSwxNDk0Mzc3NzMzLC00
+Nzk2NjkyMjEsLTc0NDI2OTU4NCwtMTE3MjY3MTMzMiwzMDYzNT
+AzMTEsLTE0MDgyNjI3NDMsODg4MjMyNDcwLC0xOTU0MTYxNTgs
+OTY2NTk0ODVdfQ==
 -->
