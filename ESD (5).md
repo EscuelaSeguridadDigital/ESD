@@ -194,7 +194,7 @@ Los facilitadores presentaran de una manera global a las personas participantes 
 __Duración: 1 Hora 30 Minutos.__
 
 Esta etapa estará enfocada a fortalecer conocimientos teóricos
-<ol>a.   Los facilitadores harán uso de la presentación correspondiente al módulo _Principios de Seguridad Digital 1 – Básico_  _(Presentación anexa en la carpeta de material de trabajo)</ol>
+<ol>a.   Los facilitadores harán uso de la presentación correspondiente al módulo _Principios de Seguridad Digital 1 – Básico_  _(Presentación anexa en la carpeta de material de trabajo)_</ol>
 <ol>b. Los facilitadores realizaran  distintas actividades en el transcurso de las presentaciones, con el objetivo de que las personas participantes afiancen mejor los conceptos con ejemplos prácticos.</ol>
 
 
@@ -316,18 +316,17 @@ Materiales requeridos: (3) Pliegos de papel periódico, post-tit
 # Anonimato 2 – Intermedio
 
 ![](anonimato2.png)
-
-
 ___¿Cómo conducir la actividad?___
 
 ### INTRODUCCIÓN
 Duración: 5 Minutos
-
+Los facilitadores presentaran de una manera global a las personas participantes  los temas que se presentaran en el transcurso de la sesión, la metodología de trabajo (Ruta de aprendizaje) y mencionaran nuevamente los acuerdos de convivencia y participación en la sesión.  _(Presentación anexa en la carpeta de material de trabajo)_
 
 ### CONTEXTUALIZACIÓN
 Duración: 1 Hora 30 Minutos
+Esta etapa estará enfocada a fortalecer conocimientos teóricos
 
-**ACTIVIDAD 1 – EL A, B, C DE LA INFORMACIÓN**
+Los facilitadores harán uso de la presentación correspondiente al módulo _Anonimato 2 – Intermedio_ (_Presentación anexa en la carpeta de material de trabajo_)
 
 
 ### PRÁCTICA
@@ -460,11 +459,11 @@ Duración: 10 Minutos
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3Njk2MzIsLTg3NzI2MDk1NCwtMTA2NT
-M3ODE3MCwtMTA2NTM3ODE3MCwtODQ4NzY3MjQ4LC0xNzczNjM5
-NzY3LC05NjY4MzI4NTksMTQ5NDM3NzczMywtNDc5NjY5MjIxLC
-03NDQyNjk1ODQsLTExNzI2NzEzMzIsMzA2MzUwMzExLC0xNDA4
-MjYyNzQzLDg4ODIzMjQ3MCwtMTk1NDE2MTU4LDk2NjU5NDg1LC
-0xOTk4NDQ4NTM3LDEzMDQ2NDc1MTMsLTExODEyMzExMTUsLTE3
-NzE3NjQ1NjhdfQ==
+eyJoaXN0b3J5IjpbLTE0OTczMjQ5NDIsLTg3NzI2MDk1NCwtMT
+A2NTM3ODE3MCwtMTA2NTM3ODE3MCwtODQ4NzY3MjQ4LC0xNzcz
+NjM5NzY3LC05NjY4MzI4NTksMTQ5NDM3NzczMywtNDc5NjY5Mj
+IxLC03NDQyNjk1ODQsLTExNzI2NzEzMzIsMzA2MzUwMzExLC0x
+NDA4MjYyNzQzLDg4ODIzMjQ3MCwtMTk1NDE2MTU4LDk2NjU5ND
+g1LC0xOTk4NDQ4NTM3LDEzMDQ2NDc1MTMsLTExODEyMzExMTUs
+LTE3NzE3NjQ1NjhdfQ==
 -->
