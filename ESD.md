@@ -1,6 +1,6 @@
 ![](presentacion.png)
 ![](p1.png)
-![](header1	.png)
+![](header1.png)
 
 Este recurso se ha creado en el marco del Proyecto de Escuela de Seguridad Digital para la implementación del proceso de acompañamiento en Seguridad Digital dirigido a organizaciones de la sociedad civil, defensores de derechos humanos, activistas, comunidad LGBT, ambientalistas y periodistas, entre otras. Este proyecto es apoyado por eQualit.ie y coordinado por Colnodo.
 
@@ -8,4 +8,4 @@ El objetivo de esta guía es orientar a los facilitadores y facilitadoras respec
 
 En suma, esta currícula tiene el propósito de promover en las personas participantes el uso de herramientas y buenas prácticas para el manejo seguro de la información, de modo que puedan aplicar estos aprendizajes en sus organizaciones y en su vida cotidiana, haciendo de la seguridad digital una práctica diaria para la protección de su privacidad y la de las personas a quienes impacta su trabajo. 
 
-![](footer1	.png)
+![](footer1.png)
